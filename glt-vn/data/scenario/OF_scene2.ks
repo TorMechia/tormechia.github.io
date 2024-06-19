@@ -5,8 +5,10 @@
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-その顔は笑っているように見えた。[l][r]
-まるで楽しい夢でも見ているように。[l][r]
+His face seemed to be smiling. [l][r]
+
+As if in a pleasant dream. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -17,14 +19,19 @@
 [bg  time="2000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-私は考えていた。今、私はどんな顔をしているだろうかと。[l][r]
-驚きがあまりに強いと声さえ出ないって聞いたことがあるような気がする。本当だったな。[l][r]
+I was thinking. I wondered what I would look like now. [l][r]
+
+I think I once heard that if the surprise is too strong, you can't even speak. That was true. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]私は見ていた。[l][r]
-穏やかな風になびく金色の髪と、[r]
-空の碧をそのまま映したような瞳とを。[l][r]
+[r]I was watching. [l][r]
+
+With golden hair that flutters in the gentle breeze, [r].
+
+And eyes that seem to reflect the blue of the sky as it is. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -32,34 +39,44 @@
 [bg  time="1000"  method="crossfade"  storage="snow2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-「ありゃ……？」[r]
-彼女はそう言った。聞き慣れた声で。[l][r]
+[r] "Is that ......?" [r]
+
+She said so. In a familiar voice. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow2.ogg"  ]
 [tb_start_text mode=3 ]
-[r]駆け寄って来る。見慣れた、柔らかく俊敏な動作で。[l][r]
-残雪を蹴り、瓦礫を飛び越え[r]
-……れない。[l][r]
+[r]eally comes running up to me. With familiar, soft, agile movements. [l][r]
+
+Kicking through the remaining snow and jumping over debris[r].
+
+Not available at ....... [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow3.ogg"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-足を少し引っ掻けて、転んでしまった。[l][r]
-「あだっ！　いーててて。……えへへ」[r]
-痛がって、顔を起こし、こっちを見て、少しだけ照れたように笑う。[l][r]
+I scratched my leg a little and fell. [l][r]
+
+Oh, no!　Eeeeeeeeee. ...... ehehe" [r].
+
+He is in pain, he wakes up, looks at me, and smiles a little bit shyly. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [tb_start_text mode=3 ]
-そして跳び上がる。重力から解放されてるみたいに。[l][r]
+And then you jump up. Like you're free of gravity. [l][r]
+
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow2.ogg"  ]
 [tb_start_text mode=3 ]
-「あはは……あはははははっ」笑いながら跳び駆ける彼女。[l][r]
+She jumps and runs with laughter, "Ha ha ...... ha ha ha ha ha ha." [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -67,9 +84,12 @@
 [bg  time="1000"  method="crossfade"  storage="sun.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-太陽が眩しい。その光は全部自分のものだとでも言うかのように輝く彼女の髪。[r]
-綺麗だな。あれは本当に髪の毛なんだろうかと、いつか思ったことがあった気がする。[l][r]
-いつだろう？　思い出せないな。味はなぜだか思い出せるのに。[l][r]
+The sun is dazzling. Her hair shining as if to say that all that light is hers. [r]
+
+That's beautiful. I think I wondered sometime if that was really hair. [l][r]
+
+When was that?　I can't remember. I don't know why I can remember the taste. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -78,7 +98,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-「ちーーーちゃん！！！」[l][r]
+[l]"Choooooooooooooooooooooooooooooooooooooooooo!!!!" [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -87,27 +108,40 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-「ユーーーーッ！！！！」[l][r]
+[l][r]"Youooooo ！！！！" [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-どっちかが先に叫んだ。[r]
-どっちでもいい。私たちの声は、同じ空に溶けたから。[l][r]
-視界がぼやける。[r]
-ああもう！　ジャマだ！[l][r]
-出るな涙。笑え私！[l][r]
-[r]私の足はなぜだか動かない。地面の雪が凍りついて固まったような感じだ。[l][r]
-でも冷たさは感じない。軍用のブーツでも服でもないのに寒さも冷たさも私に届いていなかった。[l][r]
-その動けない私に向かって、ユーリは駆ける。[r]
-息を切らせて。目に涙を浮かべて。[l][r]
+One of us shouted first. [r]
+
+It doesn't matter either way. Because our voices melted into the same sky. [l][r]
+
+Blurred vision. [r]
+
+Oh, no!　Jamma! [l][r]
+
+Don't answer, tears. Laugh at me! [l][r]
+
+[r]My feet are not moving for some reason. It's as if the snow on the ground has frozen and hardened. [l][r]
+
+But I didn't feel cold. Neither the cold nor the cold reached me, even though I was not wearing military boots or clothing. [l][r]
+
+Yuri runs toward me, who is unable to move. [r]
+
+Breathless. Tears in your eyes. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-え？　ユーが、あのユーリが私に会えて嬉しくて泣くだって？　見てよイシイ。[r]
-ねえカナザワも奥さんも。[l]あれ、皆はどこに？[r]
-ああ、そうか。でも……いいや。[l][r]
+What?　You, that Yuri, is crying because he's so happy to see me?　Look, Ishii. [r]
+
+Hey Kanazawa and his wife. [l]Hey, where is everybody? [r]
+
+Oh, okay. But it's ...... good. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -116,75 +150,109 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-「はあっ……はぁ……」[l][r]
-そして遂にユーリは、私の目の前に辿り着く。[l][r]
-車両の横、私たちは、太陽の下でまた、出会った。[l][r]
+"hah ...... hah ......" [l][r].
+
+Finally, Yuri reaches me. [l][r]
+
+Beside the vehicle, we met again, in the sun. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]「……ねえ」息を弾ませて、笑顔でユーリが言う。[l][r]
-「……何だよ」[r]
-自然と返す無愛想な言葉。[l][r]
-それを聴いたユーが、この世で一番美味しいものでも食べたのかというような顔で、頬を緩ませた。[l][r]
+[r]"...... hey," Yuri says with a smile under his breath. [l][r]
+
+"...... what?"[r]
+
+Unsociable words that naturally return. [l][r]
+
+When Yoo heard this, his cheeks relaxed, as if he had just eaten the most delicious thing on earth. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-「……何で、ここにいるの？　幽霊？」[l][r]
-「最初に言うのがそれかよ」[l][r]
-「だって、ちーちゃん。死んでたじゃ[r]
-ん！」[l][r]
-「……ああそうか、やっぱり死んでた[r]
-か」[l][r]
-「やっぱりて。自分が死んでたかどうかも覚えてないの？」[l][r]
-「そうじゃねーよ。死んだかどうかが分かんなかったんだよ」[l][r]
-「すっごく死んでたよ。あのとき食べた魚くらいに！」[l][r]
-「人を魚と同じにすんな！　ていうか、あんま死んだ死んだ言うなよ」顔をしかめて言う私。[l][r]
-「ちーちゃんの方が多く言ってるじゃ[r]
-ん」小馬鹿にしたように笑うユー。[l][r]
+"......Why are you here?　A ghost?" [l][r]
+
+That's the first thing you say?"[l][r].
+
+Because, chi-chan. You were dead [r].
+
+Hm!" [l][r]
+
+"...... Oh yeah, I knew he was dead[r].
+
+Ka" [l][r].
+
+I knew it. You don't even remember if you were dead?" [l][r]
+
+'That ain't so. I didn't know if he was dead or not."[l][r].
+
+It was so dead. Like the fish I ate that time!" [l][r]
+
+Don't compare people to fish," I said with a frown!　I mean, don't be so dead dead dead," I say with a frown. [l][r]
+
+"You've said more than me.
+
+Nn" You laugh like a small fool. [l][r]
+
 [_tb_end_text]
 
 *Jump
 
-[bg  time="０"  method="crossfade"  storage="sun.jpg"  ]
+[bg time="0" method="crossfade" storage="sun.jpg"]
+
 [cm  ]
 [tb_start_text mode=3 ]
-「お前な……！」私は拳を振り上げる。[l][r]
-「ひゃーっ！」頭を抱えるユー。[l][r]
+You ......!" I raise my fist. [l][r]
+
+Hyah!" You holding your head. [l][r]
+
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink  color="black"  storage="OF_scene2.ks"  size="20"  text="ユーを叩く"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="OF_scene2.ks"  size="20"  text="ユーを叩かない"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
+[glink color="black" storage="OF_scene2.ks" size="20" text="hit the yoo" target="*no" x="24" y="400" width="" height="" _clickable_img=""]
+
+[glink color="black" storage="OF_scene2.ks" size="20" text="Don't hit yoo" target="*yes" x="24" y="450" width="" height="" _clickable_img=""]
+
 [s  ]
 *yes
 
 [tb_eval  exp="f.CP+=1"  name="CP"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 [tb_start_text mode=3 ]
-私はその腕をぴたと止めて、ゆっくりと元の位置に戻す。[l][r]
-頬が温かい。涙が止まらない。[l][r]
+I stop the arm with a snap and slowly return it to its original position. [l][r]
+
+My cheeks are warm. I can't stop the tears. [l][r]
+
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]ユーリは拳が降ってこないのをタイミングで悟ると手をどけて、こっちを見る。[l][r]
-頬が真っ赤になって、涙と鼻水とでぐちゃぐちゃに濡れていた。[l][r]
-[r]「……変な顔」私が言う。[l][r]
-「ちーちゃんこそ」ユーが言う。[l][r]
+[r]Yuri moves his hand away and looks at me when he realizes at the right moment that his fist is not coming down. [l][r]
+
+His cheeks were bright red and wet, messy with tears and snot. [l][r]
+
+[r]"...... funny face" I say. [l][r]
+
+[l][r]"Chi-chan is the one," Yu says. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-そして私たちはどっちかが世界一幸せ[r]
-で、どっちかが世界一不幸な声で、[l]笑って、泣いて、呟いた。[l][r]
+And one of us is the happiest in the world [r].
+
+And one of them laughed, cried, and mumbled in the most unhappy voice in the world, [l][l][r]. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-「……お帰り。ちーちゃん」[l][r]
-「……ただいま。ユー」[l][r]
+"Welcome back to ....... Chi-chan."[l][r].
+
+"...... I'm home. YOU" [l][r].
+
 [_tb_end_text]
 
 [cm  ]
@@ -195,26 +263,44 @@
 *no
 
 [tb_start_text mode=3 ]
-振り上げた拳を私は振り下ろした。私は素手で、ユーもヘルメットを被っていない。[l][r]
-私の握った手が、柔らかな金色の髪の毛に触れ、その感触を確かめる……はずだった。[l][r]
-[r]何も感じない。[l][r]
-何も触れなかった。[l][r]
-私の手は弧を描き、私の胸の前に戻って来た。[l][r]
+I swung my fist up and I swung down. I was barehanded, and neither u nor I wore a helmet. [l][r]
 
-[cm]「……え？」[l][r]
-「……あれ？」[l][r]
-[r]ユーが、伏せていた顔を上げてこっちを見た。その頬は涙で濡れて、真っ赤だった。[l][r]
-私はその顔と、自分の手とを交互に見た。私の頬にも涙が流れているようで、その一粒が手の上に落ちた。だけど、[l][r]
-再び伸ばした私の手はユーの頬を突き抜けてしまって、その涙を拭ってあげることが、できない。[l][r]
-ユーもまた手を伸ばして私の顔や髪に触れようとするけれど、その手は私をすり抜けて、温かさも柔らかさも、私に与えてはくれなかった。[l][r]
+My gripping hand touched the soft golden hair, and I was supposed to ...... confirm the feeling. [l][r]
 
-[cm]「……なるほど」[r]
-ユーが、自分の手で自分の涙を拭ってから、そう言った。[l][r]
-[r]「何か……分かったのか？」[l][r]
-[cm]「……これが幽霊ってやつか……」[r]
-真顔でそう言ったユーに、[l][r]
-[r]「いや違うから」[l][r]
-私は力なく、言葉だけでそう否定するのが精一杯だった。[l][r]
+[r][r]I don't feel anything. [l][r]
+
+Nothing was touched. [l][r]
+
+My hand arced back to the front of my chest. [l][r]
+
+
+[cm]"...... eh?" [l][r]
+
+[l][r]"...... Huh?" [l][r]
+
+[You raised your face and looked at me. His cheeks were wet with tears and bright red. [l][r]
+
+I alternated between his face and my own hand. There seemed to be a tear on my cheek, and one of them fell on my hand. But [l][r].
+
+I reached out again, but my hand went through Yoo's cheek, and I couldn't wipe away those tears, I couldn't. [l][r]
+
+Yoo also reached out to touch my face and hair, but his hand slipped through me, giving me neither warmth nor softness. [l][r]
+
+
+[cm] "...... I see" [r].
+
+Yu said after wiping his own tears with his own hands. [l][r]
+
+[r]"Did you find out anything ......?" [l][r]
+
+[cm]"...... this is what you call a ghost? ......"[r]
+
+[l][r] to Yu, who said that with a straight face.
+
+[r]"No, because it's not."[l][r].
+
+I was powerless to deny so, only with words. [l][r]
+
 [_tb_end_text]
 
 [cm  ]

@@ -20,13 +20,20 @@
 [bg  time="2000"  method="crossfade"  storage="tenji.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-「分からないって、どういうことなんですか？」[l][r]
-カナザワが言う。イシイは私の肩を支えてくれている。[r]
-「だから、分からないんです。同車種のレプリカはあちらにもう一台展示してありますが、こっちの車両は展示登録されていないんです」[l][r]
-係員さんらしき人がそう言う。カナザワの奥さんが、落としてしまった私の荷物を拾ってくれてるのがうっすらと視界の端に見えた。[l][r]
-私は目の前の車両から視線を外せないでいた。[r]
-前輪がタイヤで後部が履帯の、半装軌車両ケッテンクラート。そのレプリカだ。[l][r]
-ただの物好きな人の作ったはずのただの複製品。[l][r]
+What do you mean you don't understand?" [l][r]
+
+Kanazawa says. Ishii is supporting my shoulder. [r]
+
+'So I don't know. There is another replica of the same car model on display over there, but this one is not registered for display."[l][r].
+
+Someone who looked like an attendant said so. Out of the corner of my eye, I could see Kanazawa's wife picking up my luggage that I had dropped. [l][r]
+
+I couldn't take my eyes off the vehicle in front of me. [r]
+
+A semi-armored railcar, the Kettenkrath, with tires on the front wheels and crawler tracks on the rear. This is its replica. [l][r]
+
+Just a mere reproduction that should have been made by a mere lover of things. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -34,22 +41,29 @@
 [bg  time="3000"  method="crossfade"  storage="tenji2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-じゃあ何でこの車両にはあのマークがあってあの番号があの書体で書いてあるんだろう？[l][r]
-それに、[l][r]
+Then why does this car have that symbol and that number in that typeface? [l][r]
+
+Besides, [l][r].
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="key.jpg"  ]
 [tb_start_text mode=3 ]
-イグニッションキーに何で、針金を巻いて作った魚がぶら下がっているんだろ[r]
-う？[l][r]
+Why is there a fish made of wire wrapped around an ignition key hanging from the ignition key[r]?
+
+[l][r][u]? [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-「じゃあ、これを誰が置いていって誰が所有しているのかは、ここの誰も把握してないんだな？」[r]
-イシイの声が聞こえたけれど私はその意味を追えない。[l][r]
-私の手が伸びた。そのキーに、そして、イグニッションボタンに触った。感触を確かめた。[l][r]
+'So no one here is keeping track of who left this behind and who owns it?' [r]
+
+I heard Isii's voice but I cannot follow its meaning. [l][r]
+
+My hand reached out. I touched the key, and then the ignition button. I felt the sensation. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -59,19 +73,26 @@
 [bg  time="2000"  method="crossfade"  storage="white.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-目の前が、真っ白になった。[l][r]
-[r]明るい。[l][r]
-[r]眩しい。[l][r]
+My eyes went blank. [l][r]
+
+[r][r]Bright. [l][r]
+
+[r][r]Dazzling. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="key.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-やがて目が慣れて、私は見ることができた。[l][r]
-[r]ケッテンクラート。[r]
-[r]魚のついた鍵。[l][r]
-[r]でもそれは「本物」だった。[l][r]
+Eventually my eyes adjusted and I could see. [l][r]
+
+[r]Kettenkrath. [r]
+
+[r][r]Key with fish. [l][r]
+
+[r]But it was "real". [l][r]
+
 [_tb_end_text]
 
 [cm  ]
@@ -79,7 +100,8 @@
 [bg  time="3000"  method="crossfade"  storage="tenji3.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-エンジンが外れ、朽ち果てて、私たちに放棄された、私の、私たちの……大切な相棒だった子。[l][r]
+The engine was off, rotting away, abandoned to us, my, our ...... child who was a precious partner. [l][r]
+
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -89,19 +111,26 @@
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-見上げると、近い空。[l][r]
-巨大な灰色の壁。巨大な歯車。[l][r]
-[r]ああ。[r]
-忘れるもんか。[l][r]
-ここは、この世界は……！！[l][r]
+Looking up, close sky. [l][r]
+
+Huge gray walls. Huge gears. [l][r]
+
+[r]Oh. [r]
+
+I will not forget. [l][r]
+
+This is where the world is ......! [l][r]
+
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="snow2.jpg"  ]
 [tb_start_text mode=3 ]
-そのとき、足音が耳に響いた。[l][r]
-私は音の方へ振り返った。[l][r]
+Then the sound of footsteps echoed in my ears. [l][r]
+
+I turned back to the sound. [l][r]
+
 [_tb_end_text]
 
 [cm  ]
