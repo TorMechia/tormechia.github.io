@@ -8,38 +8,28 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m5_musicbox.ogg"  ]
 [tb_start_text mode=3 ]
-I hear a heartbeat. [l][r]
-
-Tokun ...... and kun ...... and kun...[l][r].
-
-A beautiful sound, without any ornamentation, of life itself. [l][r]
-
-[r]Rhythm of happiness. [r]
-
-It sounds hopeful, as if you are waking up and plotting what you are going to do. [l][r]
-
+I can hear a heartbeat.[l][r]
+Thump... thump... thump...[l][r]
+A pure sound of life, unadorned by anything.[l][r]
+[r]The rhythm of happiness.[r]
+A sound full of hope, as if plotting what to do when it wakes up.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Not my heart. [r]
-
-I can't hear that one anymore. [l][r]
-
-[r]Then surely this is the last music I heard at the end of the world. [l][r]
-
+[r]It's not my heartbeat.[r]
+That sound is no longer there.[l][r]
+This must be the last music I heard, at the end of the world.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-...... Oh ......[l][r]
-
+...Ah...[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I'm ...... happy ...... you ....... [l][r]
-
+...I'm... happy... Yuu...[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -52,97 +42,63 @@ I'm ...... happy ...... you ....... [l][r]
 [bg  time="3000"  method="crossfade"  storage="kanaroom.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"......, so?" [l][r]
-
-That's it. There are no more surveys you can do. That's it."[l][r].
-
-I said this in a tone of voice that included a sense of disappointment and a bit of liberation. [l][r]
-
-What did Tito say?" Isii-san says over the phone in a voice whose expression is unreadable. [l][r]
-
-"He kept saying, 'Okay, thank you.'"[l][r].
-
-'Then is ...... good?' [l][r]
-
-"I don't know about ....... But Tito must have thought about it in her own way and came to that conclusion."[l][r].
-
-I know that," Ishii said, still not ready to give up. [l][r]
-
+"...So?"[l][r]
+"That's it. There's nothing more we can investigate. It's over." I said, with a voice mixed with regret and a hint of relief.[l][r]
+"What did Chito say?" Ishii asked over the phone, in an unreadable tone.[l][r]
+"She said 'I understand, thank you' multiple times."[l][r]
+"Is that... okay?"[l][r]
+"...I don't know. But Chito must have come to that conclusion in her own way."[l][r]
+"I get that." Ishii still seemed unwilling to give up.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="tenji2.jpg"  ]
 [tb_start_text mode=3 ]
-The person who displayed the example Kettenkrath there could not have been other than Tito and Yuri's grandfather or someone related to him. [l][r]
-
-Of course, we can't rule out the possibility that someone unrelated placed it there by tremendous coincidence, but that would render all investigation and even evidence meaningless. [l][r]
-
+The only ones who could have displayed that Kettenkrad there are Chito and Yuuri’s grandfather or someone related to him.[l][r]
+Of course, we can't completely rule out the possibility that it was placed there by some unrelated person through an extraordinary coincidence, but saying that would render any investigation or evidence meaningless.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="tenji.jpg"  ]
 [tb_start_text mode=3 ]
-As soon as my wife and I and Mr. Ishii left Tito's hospital, we headed back to the exhibition hall. [l][r]
-
-That vehicle was no longer there. [l][r]
-
-Mr. Ishii yelled at me to stop screwing around, and I ran around in surprise. I caught the attendant who had inquired before and questioned him again[r].
-
-and [r].
-
-All I got back was, "It was indeed there until two hours ago." [l][r]
-
-This means that somewhere between the moment we left the venue with Tito in the ambulance and the moment we returned, such a prominent vehicle disappeared without a trace. [l][r]
-
-Of course, there is no way that the vehicle could have moved on its own without human intervention. Someone had to have moved it. Both when moving it in and when moving it out. [l][r]
-
+As soon as my wife, Ishii, and I left Chito's hospital, we went back to the exhibition venue.[l][r]
+The vehicle was already gone.[l][r]
+Ishii yelled in frustration, and I, equally shocked, started running around looking for it. We caught the staff member we had asked before and questioned him again.[r]
+But all he said was, "It was here until two hours ago."[l][r]
+In other words, the vehicle had disappeared right after we left the venue with Chito in the ambulance.[l][r]
+Of course, vehicles don't move on their own. Someone must have moved it. Both for bringing it in and taking it out.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-While Mr. Ishii strangled the poor attendant, my wife and I gathered information on general admission sightings. But by the end of the event, we had no useful information. [l][r]
-
-I was getting angry, not to mention Mr. [r]ishii, too. It's not the kind of thing a nurturing parent would do to let Tito go through something like that and then run away without even saying his name, let alone apologizing. [l][r]
-
+While Ishii was wringing out the poor staff member, my wife and I collected eyewitness information from other attendees. But we didn’t get any useful information before the event ended.[l][r]
+Ishii was, of course, furious, and I was getting just as fed up. Putting Chito through this, not even apologizing or identifying themselves before running away—that’s not something a guardian should do.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="rf.jpg"  ]
 [tb_start_text mode=3 ]
-I was an investigator. I had contacts at a credit agency. Mr. Ishii said he would put all his bonuses for years into the investigation. [l][r]
-
-And after doing our best to investigate ...... we found nothing. [l][r]
-
-The results came back too quickly [r].
-
-So, Ishii's bonus was not wiped out, but of course it was not a satisfactory result. [l][r]
-
-However, the fact that all the investigations that could be done at the private level failed to come to fruition meant that we were dealing with something much more than that, namely, a national level. It was too much for them to handle. [l][r]
-
+I'm a private investigator. I have connections with detective agencies. Ishii said he would throw in several years' worth of bonuses for the investigation.[l][r]
+After a full-fledged investigation... we still found nothing.[l][r]
+The result came back quickly, sparing Ishii’s bonuses, but it was hardly satisfying.[l][r]
+If a civilian-level investigation turned up nothing, it means the adversary might be operating on a national level. We had no chance.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="blue.jpg"  ]
 [tb_start_text mode=3 ]
-And Tito gave up. Now that she herself has decided to end the investigation, there is nothing more she can do. [l][r]
-
-[r]efore that, it doesn't mean she despaired. I think she took a chance. [l][r]
-
-It is almost certain that Grandpa will be in our world. Then he will one day, of his own volition, appear before them. [r]
-
-...... to that possibility. [l][r]
-
+Chito gave up. Once she decided to end the investigation, there was nothing we could do.[l][r]
+But that doesn’t mean she despaired. I believe she placed her trust in a possibility.[l][r]
+It's almost certain that her grandfather is in this world. He will show himself to them someday—[r]
+In that possibility.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Because he is the one who raised Tito and Yuri. How could he not love those two? [l]Someday, I'm sure, he will tell us everything he knows. [l][r]
-
-[r]Otherwise, you're too sad[/r].
-
-Ka. [l][r]
-
+Because he is the one who raised Chito and Yuuri. He has to love them.[l]One day, he’ll tell them everything he knows.[l][r]
+Otherwise, it would be just too sad,[r]
+wouldn't it?[l][r]
 [_tb_end_text]
 
 [cm  ]

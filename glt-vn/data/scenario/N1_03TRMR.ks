@@ -8,192 +8,125 @@
 [bg  time="2000"  method="crossfade"  storage="sleepy.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-How long have I been sitting in the chair? [l][r]
-
-I stared at Yoo for a long time. She still has beautiful hair, slender limbs, and clear eyes. [l][r]
-
-[r]. None of the diminishing words I've heard so many times, none of the ephemeral statements, none of the songs with unfamiliar lyrics. [r]
-
-All that was exhaled from its mouth was really only faint, feeble breathing. [l][r]
-
+How long have I been sitting in this chair?[l][r]
+I've been staring at Yuu the whole time. Her hair is still beautiful, her limbs long and slender, and she has those clear, piercing eyes.[l][r]
+[r]Yet, she isn't her usual self. The sarcastic comments, the nihilistic outlook, the ramblings about song lyrics—none of those are coming out. Only faint, weak breaths escape her lips.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="knock01.ogg"  ]
 [tb_start_text mode=3 ]
-A small knock sounded through the curtain dividing the room. I rub my eyes with my arm and answer, "Come in. [l][r]
-
+A soft knocking sound comes from behind the curtain. I rub my eyes with my arm and respond, "Come in."[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-[r]ishii and a woman I didn't know came in [r].
-
-I was in the middle of a room with a man who was a man who was a man who was a man. [I looked into her eyes and immediately recognized her as Yuri's mother. This person was Yuri's mother in this world. [l][r]
-
-[r]"Tito, this is Yuri's mother."[r]
-
-Ishii stands between me and Yuri's mother and we exchange greetings. Then, in a voice a little like Yoo's, [l][r].
-
-He said to me, "You're a little girl, aren't you?" [r]
-
-......Why my, what do you call that? [l][r]
-
+[r]Ishii and an unfamiliar woman walk in.[l]
+I immediately realize from her eyes who she is. This has to be Yuu's mother in this world.[l][r]
+[r]"Chito, this is Yuu's mother," Ishii says, introducing her.[l]
+She introduces herself to me with a voice that sounds a bit like Yuu's, "You're Chi-chan, right?"[r]
+[l]Why does she know that nickname for me, I wonder?[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="diary.jpg"  ]
 [tb_start_text mode=3 ]
-As I was pouting, a notebook was handed to me. [l][r]
-
-Yuri," Yuri's mother continued, "wanted to see you. [l][r]
-
-'Tito, you should read that first. It's ......, but I want you to be prepared before you read it. [r]
-
-You have the right to read those notes. [r]
-
-No, it might be closer to saying it's an obligation. ......"[l][r].
-
-[r]et's talk about the details afterwards. With that, Ishii and Yuri's mother leave the hospital room. [l][r]
-
+The woman hands me a notebook while I stand there in a daze.[l][r]
+"Yuu wanted to see you," her mother continues.[l][r]
+"Chito, you should read this first. But be prepared... you have the right to read this, or rather, the obligation."[r]
+"We'll talk in detail afterward," Ishii adds, and then he and Yuu's mother leave the room.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I stare at the notebook in my hand. A notebook with no title or name written on it. [l][r]
-
-As soon as I opened it, I knew. ...... Yuri's handwriting. I must have never seen decent handwriting written by that guy before, but my heart jumped when I figured it out. [l][r]
-
-Yoo's, Diary. ....... Pulse speeds up. Breathing becomes restless. My head is going to spin. I feel like if I open this, something is going to flood my emotions all at once. [l][r]
-
-But I want to know. What happened after we broke up that time? Why didn't Yu come to see me right away? [l][r]
-
-[r]When I was ready, I started reading the diary from the very first page. [l][r]
-
+I look down at the notebook. There's no title or name on it.[l][r]
+As I open it, I immediately recognize it—Yuu's handwriting. Even though I've never seen her write so neatly before, my heart knows it. My chest tightens.[l][r]
+Yuu’s diary... My pulse quickens. My breathing becomes erratic. My head starts to spin. I feel like if I open this, an overwhelming rush of emotions will pour out.[l][r]
+But I need to know what happened after we parted ways. Why didn't Yuu come to see me right away?[l][r]
+[r]Resolute, I start reading from the very first page.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="white.png"  ]
 [tb_start_text mode=3 ]
-'________ [r]'.
+'X Month, Y Day[r]
+Memories of the other world (this opening was hastily scribbled out)[r]
+Some time has passed since I came to this world.[l][r]
+I still can't touch guns, and I feel uneasy.[r]
+I've been to a few hospitals, but they couldn't find a cause.[l][r]
 
-Remembering the other side of the world (with the note "the other side of the world" erased in a messy way) [r].
-
-It's been that long since I came to this world. [l][r]
-
-I still can't touch the gun and I'm still restless. [r]
-
-I went to several hospitals, but they said they don't know what caused it. [l][r]
-
-If I may say so, it's a mental illness or something."[l][r].
-
-[R]"But I think I know what caused it. When I fired the gun at myself to come to this world, it was so dark that I was surprised. [l][r]
-
-No, that's what happens when you're dead, but you still have to go to ......"[l][r].
-
+They said it might be a psychological issue or something.’[l][r]
+[r]‘But I think I know the reason. When I shot myself to come to this world, it was shockingly dark.[l][r]
+Of course, it would be dark if you die, but still...’[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-No, my hands are shaking. Let's get back to the story. At any rate, I can't see Chi-chan like this. [l][r]
+‘My hand is shaking. Let's get back on track. Like this, I can't meet Chi-chan.[l][r]
+If she saw me like this, she'd worry and blame herself.[l][r]
+So, I'm keeping this diary as a memo to get back to my normal self.[l][r]
+Oh, that's very Chi-chan-like of me. I hope I can keep it up. Now I'm already feeling lazy. I'll keep it brief.'[r]
+[l][r]
+'So, my illness (?).'[r]
+'The cause is unknown, so I bought some books about it.[l][r]
+Three of them are on something about psychogenic stuffs.[r]
+These are tough! But I'll give it a shot.'[l][r]
 
-When I see him, I worry about him and I definitely tell him it's his fault and I make him depressed. [l][r]
-
-So I decided to keep a diary instead of notes to get back to my original self. [l][r]
-
-Oh, I'm doing something chi-chi. But I wonder if I can continue. I'm already getting tired of writing. Let's just write the rest simply [r].
-
-U" [l][r].
-
-[r]"Let's see, anyway, my disease [r].
-
-(?) is unexplained, so I bought a book. [l][r]
-
-Introductory psychogenic nonsense, or at least three books. [r]
-
-Isn't this too difficult?　But let's do our best."[l][r].
-
-
-[cm] Underneath these scribbles, there were a number of keywords, like keywords from books that Yoo had probably read. [l][r]
-
-
-
+[cm]Below these scribbles are a few keywords from the books Yuu probably read.[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-[r]I continue and open the page. The date is immediately skipped. Still, there are notes scribbled here and there. [l][r]
+[r]I continue flipping through the pages. Dates are skipped, and notes are scribbled everywhere.[l][r]
+Seeing this, I understand she tried to jot down important words and figure out what to do in various situations.[l][r]
+[_tb_end_text]
 
-The minute I saw it, I realized that I had to write down the words that caught my attention, create my own thoughts, and think about how to respond in any given case. [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+‘X Month, Y Day[r]
+It’s no good. I’m not getting better at all. I tried touching a model gun at home, but I almost vomited again.[l][r]
+I calmed down a bit by lying down, but this is really bad.'[r][l]
+'I wonder what Chi-chan would do. Chi-chan is smart, so I feel she could help me. But I worry it might bother her.[l][r]
+No, if I tell her, she’ll get sad. That’s the last thing I want. So, I have to do my best alone.'[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-No, it's not getting any better [r].
+‘X Month, Z Day[r]
+Today, I thought I’d try remembering a bit about the other world.[r]
+I'm Yuu, and she's Chi-chan. Together, we're... okay, I’m doing good.[l][r]
+We lived with Grandpa there.[r]
+I remember wanting to eat more food.'[l][r]
+'After we started our journey, we met a lot of people. There was Kanagawa who gave us the camera, or was it Kanazawa? And Ishii who built the plane.[r]
+[l]There was also a white cat-like creature. I remember it wasn’t actually a cat, but it was so soft. I want to pet it again.'[l][r]
 
-I was so sick I wanted to throw up again. I tried to touch a model gun at home once, but I almost threw up again. [l][r]
-
-I've calmed down enough to lie down a little bit, but this could be really bad."[l][r].
-
-[r]‖[r]ee, I wonder what Chi-chan would do. [l]Chi-chan is smart, so I think she would help me. But I wonder if she would be annoyed if I asked her. [l][r]
-
-No, if I ask, Chi-chan will be sad. I don't want that. Then, I'll have to do it by myself."[l][r].
-
-
+[cm]‘X Month, X Day[r]
+Mom suggested I should get counseling.[r]
+Though we don't know the exact cause, she’s really supportive.[l][r]
+Dad asked if something happened one time, but hasn’t brought it up since. Maybe he senses it's something only I can understand.[l][r]
+I’m glad my parents are good people. I want to get better soon so I can introduce Chi-chan to them.'[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'____ Today I'm going to try to remember a few things about the world over there. [r]
-
-I'm Yuri and that's Chi Chi. The two of us together are ...... okay, okay, we're in good shape. [l][r]
-
-I lived with my grandfather over there. [r]
-
-I feel like I wanted to eat more rice."[l][r].
-
-[r]"Since I've been traveling, I've met a lot of people. Kanagawa, who gave me a camera, that? [r].
-
-Kanazawa, right?　And Ishii, who made the airplane" [l][r].
-
-[r]"A nookie that looks like a white cat. Come to think of it, that guy wasn't a cat after all. But it was soft, so I want to touch it again."[l][r]"I want to touch it again."[l][r]"I want to touch it again.
-
-
-[cm]"X month X day, your mother told you to go to counseling. [r]
-
-They help me so much, even though I don't really know the cause. [l][r]
-
-Dad even asked me once if something was wrong, but he never asked me again. I wonder if he's sensing that I'm the only one who understands."[l][r].
-
-[r]"My father and mother are very nice people, thank goodness. I can't wait to get well and reassure them and introduce them to Chi-chan."[l][r]
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-X days have passed since my counseling session. Today I was able to hold a model gun. I did it, I took a step forward. [l][r]
-
-I thought so, but when I pulled the trigger, my eyes went round and I realized I was throwing up. I was so close."[l][r].
-
-[r]There is one wet spot on the page. Gently touch it there. [r]
-
-Yeah, I know, u...... you were desperate. [l][r]
-
+‘X Month, Y Day[r]
+It’s been a few days since I started counseling. Today, I managed to hold a model gun. It felt like a small victory.[l][r]
+But when I pulled the trigger, my head spun, and I found myself vomiting. Just a little more...'[l][r]
+[r]There’s a tear stain on that page. I gently touch it.[r]
+I understand, Yuu... you were trying so hard.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-I was told to take a break from rehabilitation for a while. I told them I didn't want to, but they said I was too preoccupied and it would have the opposite effect. [l][r]
-
-Yes, I guess I need a little rest. I want to eat fish."[l][r].
-
-[r]"...... Chi-chan and I want to eat."[l][r][l][r][r].
-
+‘X Month, Y Day[r]
+They told me to take a break from rehab for a while. I said no, but they insisted I was pushing myself too hard, and it was having the opposite effect.[l][r]
+Maybe taking a little break is necessary. I want to eat fish.'[l][r]
+[r]‘...I'd like to eat it with Chi-chan.'[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -201,142 +134,92 @@ Yes, I guess I need a little rest. I want to eat fish."[l][r].
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Wet marks, two. [l][r]
-
-[r][l][r] After that, the date disappeared from Yoo's diary, [l][r][l][r].
-
-[r]"I couldn't even hold a gun today. I read a book, but I can't even get my head around rehab. I feel like something is chasing me and I'm scared."[l][r].
-
+Two tear stains.[l][r]
+[r]After that, dates disappear from Yuu’s diary.[l][r]
+‘Today, I couldn’t even handle holding a gun. Reading books, the rehab, none of it sinks in.[r]I feel like something’s chasing me, and it’s terrifying.'[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Sentences are shortened, [l][r].
-
-[r]"Just looking at the gun today made me want to throw up. I can't let Chi-chan see me like this."[l][r]
-
-[r] Instead of [l][r].
-
-[r]"But I want to see you. I want to see you, Chi-chan."[l][r][l][r].
-
-[cm]My name is [l][r].
-
-[r]"Chi-chan, what are you doing now?"[l][r].
-
+[r]The entries get shorter,[l][r]
+‘I almost threw up just looking at a gun today. I can't let Chi-chan see me like this.'[r][l]
+[r]Instead,[l][r]
+‘I really want to see Chi-chan. I miss her so much.'[r]
+[cm]My name is everywhere,[l][r]
+'What's Chi-chan doing right now?'[r][l]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]u's, tear marks [l][r].
-
-[r]"No. ...... I shouldn't cry, but I can't stop. I'm going to wet my notebook."[l][r][l][r].
-
-[r][r]Increasing. [l][r]
-
-[r]"Why, why?"[l][r].
-
-[r] "Chi-chan. Chi-chan. [r]
-
-Chi-chan." [l][r]
-
-[r]"uch ......yu, ugh" [l][r].
-
+[r]Yuu's tears are all over the page.[l][r]
+‘I can't stop crying even though I shouldn’t. The notebook's getting soaked.'[r][l]
+[r]More and more are appearing.[l][r]
+[r]'Why, why...'[r]
+[r]'Chi-chan. Chi-chan.[r]
+Chi-chan.'[l][r]
+[r]"...Yuu,"[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-A notebook wrinkled with tears. Yuri's letters trembling along with it. [l]A mournful cry calling out to me. Did he live ...... such ...... taut days? [l][r]
-
+The notebook is wrinkled from tears, just like Yuu's trembling handwriting calling out my name. She was living such a painful and torn existence.[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-[r][r]Suddenly, a diary with a solid writing style appeared. [l][r]
-
+[r]Suddenly, a well-formed diary entry appears.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m0_piano.ogg"  ]
 [tb_start_text mode=3 ]
-I had a dream. I dreamt that I was coming here. I had that dream when I shot myself. [l]Then I understood everything. I did indeed shoot at myself."[l][r].
-
-'But it's' [l][r].
-
-'It was with shooting 'chi-chan' who was with me all the time."[l][r].
-
-'So I didn't kill me.'[l][r].
-
-[r]"I killed Chi-chan."[l][r]"I killed Chi-chan."[l][r]"I killed Chi-chan."[l][r]"I killed Chi-chan.
-
-'I'm sorry, Chi-chan. ...... even though Chi-chan told me. [l]I thought we'd grown apart, but you've been with Chi-chan for a long, long time."[l][r].
-
+‘X Month, Y Day[r]
+I had a dream. It was of the time when I came to this world. It made everything clear. I did shoot myself.'[l][r]
+'But,'[r]
+'I wasn't just shooting myself.'[r]
+'I was shooting the “Chi-chan” who was always with me.'[l][r]
+'I didn’t kill myself.'[r]
+[r]‘I killed Chi-chan. I’m so sorry, Chi-chan... you told me to stay together. We thought we were separated, but we were always together.'[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
 [tb_start_text mode=3 ]
-'I killed Chi-chan. ...... I killed her. ......' [l][r].
-
-The end of it was filled with many tear marks. The lines of writing were extending in strange directions, as if he was no longer able to write. [l][r]
-
- [l][r]
-
-Tears overflowing from my eyes pour down there. It overlaps with the tear marks of Yoo. [r]
-
-'Sorry ......' [r].
-
-And on that last line, in one tremulous letter. [l][r]
-
-[r]"Chi-chan" [l][r].
-
-It was marginal. [l][r]
-
+‘I killed Chi-chan... I killed her...’[l][r]
+The rest of the page is soaked with tears. She couldn't even write properly; the lines of her letters extend strangely.[l][r]
+"Yuu...!"[l][r]
+My own tears fall, mingling with hers.[r]
+‘I'm so sorry...’[r]
+And in that final trembling line:[l][r]
+'Chi-chan'[l][r]
+It’s too much to bear.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="paper-take2.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Yoooooooooo!!!" [l][r]
-
-I hang on to the precious person in front of me who is no longer moving. [l][r]
-
-[r]Sorry. I'm sorry. I'm sorry! [l][r]
-
-I was helpless. I couldn't do anything. [l][r]
-
-You were alone, and you've been fighting this battle alone for a long, long time. [l]I never realized. [l][r]
-
-'I'm sorry, Higg, I'm sorry, [r].
-
-Yuri ...... Yurii ......!  [l][r]
-
-There is no mistake. I, I, I misjudged something fatal. [l][r]
-
+"YUUUU!!!"[l][r]
+I cling to Yuu, who will never move again.[l][r]
+[r]I'm sorry. I'm so sorry![l][r]
+I am so powerless. I couldn't do anything.[l][r]
+You were fighting all alone for so long, and I didn't notice.[l][r]
+"I'm sorry, hic, sorry, Yuu... Yuu..! Ahh!!"[l][r]
+No doubt about it, I made some fatal mistake.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-That's why Yuri is in this state. [l][r]
+That's why Yuu ended up like this.[l][r]
+But what mistake?[l][r]
+What did I do wrong? I can't figure it out. Shot me? Killed me? What does that mean?[l][r]
+Yuu, what was going on inside you? We were supposed to be like one being, yet I understand nothing.[l][r]
+Nothing makes sense.[r]
+And my self-loathing for my helplessness and ignorance consumes me.[l][r]
+All this unaddressable regret and unseen mistakes swirl around me. They turn into tears that soak my face and twist me inside.[l][r]
 
-But what? [l][r]
-
-What did I do wrong?　I don't know that. Did you [l]shoot me?　Killed you?　What do you mean? [l][r]
-
-Yu, what the hell was in you? [l] We could have been like one living thing. And yet, I don't understand anything! [l][r]
-
-[r]I don't know anything. [r]
-
-I am helpless and hate myself for not understanding. [l][r]
-
-Undoable regrets and invisible mistakes are circling around me. It fills my face with tears and makes me squishy. [l][r]
-
-
-[cm]Sorry, u[l][r].
-
-[r]...... sorry. [l][r]
-
-[r]Sorry. ....... [l][r]
-
+[cm]I'm sorry, Yuu[l][r]
+[r]...I'm sorry.[l][r]
+[r]Sorry... until the end.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -350,3 +233,4 @@ Undoable regrets and invisible mistakes are circling around me. It fills my face
 [cm  ]
 [cm  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
+

@@ -1,154 +1,109 @@
 [_tb_system_call storage=system/SB4_03LAST.ks]
 
-[playbgm  volume="100"  time="1000"  loop="false"  storage="m1_piano.ogg"  ]
-[tb_hide_message_window  ]
-[bg  time="2000"  method="crossfade"  storage="st_sB_B3.jpg"  ]
-[wait  time="2000"  ]
-[bg  time="1500"  method="crossfade"  storage="rf2.jpg"  ]
-[cm  ]
-[tb_show_message_window  ]
-[tb_start_text mode=3 ]
-Many sightings of Yuri were gathered. [l][r]
-
-Perhaps it was only natural, given their appearance. But for the amount of information we had, we didn't get any clues that would indicate what these women were up to, or where they were going. [l][r]
-
-Tito even more so. Even school officials said they last saw her more than two months before her disappearance. [l][r]
-
-Two withdrawal notices were mailed to the university and the bank account was fully drawn out. The withdrawers were definitely the people who made the withdrawals. In other words, planning is well underway. [l][r]
-
+[playbgm volume="100" time="1000" loop="false" storage="m1_piano.ogg"]
+[tb_hide_message_window]
+[bg time="2000" method="crossfade" storage="st_sB_B3.jpg"]
+[wait time="2000"]
+[bg time="1500" method="crossfade" storage="rf2.jpg"]
+[cm]
+[tb_show_message_window]
+[tb_start_text mode=3]
+There have been many sightings of Yuri.[l][r]
+Given her appearance, that might have been expected. But despite the volume of information, there were no clues indicating their movements or destination.[l][r]
+Chito was even less visible. Even school officials had last seen her over two months before she disappeared.[l][r]
+Their withdrawal notices had been mailed to the university, and their bank accounts were emptied. The withdrawals were definitely made by them, suggesting they had a solid plan.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[bg  time="1000"  method="crossfade"  storage="ap1.jpg"  ]
-[tb_start_text mode=3 ]
-The last person to see them in the country was an airport employee. The plane they boarded was bound for Hong Kong. It would be difficult to trace their steps from there with only my contacts. [l][r]
-
-As one might infer from his words and actions while in the city and from what was left behind, Chito had no friends who seemed to be friends other than Yuri, and Yuri, too, had cut off all social relations after a certain point in his life. [l][r]
-
-[r]eceived some information and speculation as to their steps beyond Hong Kong. It is possible that they went through Central Asia and headed overland toward Eastern Europe or Russia. [l][r]
-
-Russia or ...... Yuri should have chosen Russian. [r]
-
-You don't think it's ...... for this moment? [l][r]
-
-No, you're probably overthinking it. [l][r]
-
+[cm]
+[bg time="1000" method="crossfade" storage="ap1.jpg"]
+[tb_start_text mode=3]
+The last person to see them in the country was an airport staff member. Their flight's destination was Hong Kong. Tracking their movements beyond that point was beyond my connections.[l][r]
+Based on their behavior and belongings left behind in Tokyo, it seemed Chito had no other friends besides Yuri, and Yuri had cut off all social ties at a certain point.[l][r]
+[r]There was some information and conjecture about their movements after Hong Kong. They might have traveled through Central Asia and taken a land route to Eastern Europe or Russia.[l][r]
+Russia... Yuri had been learning Russian.[r]
+Could it really have been for this reason...? [l][r]
+No, I'm probably overthinking.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[bg  time="1500"  method="crossfade"  storage="rf2.jpg"  ]
-[playse  volume="100"  time="1000"  buf="0"  storage="page01.ogg"  ]
-[tb_start_text mode=3 ]
-"Thanks for your hard work at ....... Did you get enough money for the survey?" [r]
-
-Mr. Ishii said as he put the printed report back in its case. [l][r]
-
-I said, "That was way too much. Please give me some time to put it back in the account."[l][r].
-
-Instead of responding to my words, Ishii-san looked at the distant northwestern sky. [l][r]
-
-[r]eally shaking his shoulders. I wondered if she was crying, but she was not. [l]A faint laugh escaped his mouth. [l][r]
-
+[cm]
+[bg time="1500" method="crossfade" storage="rf2.jpg"]
+[playse volume="100" time="1000" buf="0" storage="page01.ogg"]
+[tb_start_text mode=3]
+"...Well done. Was the investigation budget sufficient?"[r]
+Ishii said while placing the printed report back into the case.[l][r]
+"It was more than enough. Give me some time to return what’s left to the account."[l][r]
+Without responding to my words, Ishii-san looked up at the northwestern sky.[l][r]
+[r]He was trembling. I thought he might be crying, but he wasn't. A slight chuckle escaped from his mouth.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[tb_start_text mode=3 ]
-[l][r]"...... can you laugh?" [l][r]
+[cm]
+[tb_start_text mode=3]
+"...Is it funny?"[l][r]
+"It sure is."[l][r]
 
-It's funny."[l][r].
-
-
-[r]ishii-san stifled a giggle before answering. [r]
-
-With a smile as it is, he exhales deeply, hah, and wipes the corners of his eyes quickly. [l][r]
-
-Then he put his hand on his chin in a bit of contemplation and opened his mouth again unexpectedly. [l][r]
-
+[r]Ishii-san stifled his laughter with a chuckling sound before responding.[r]
+With the same smile, he let out a deep sigh and gently wiped the corner of his eyes.[l][r]
+He then placed a hand on his chin as if in thought, and suddenly spoke.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[tb_start_text mode=3 ]
-[l]"...... Well, for example, what were you thinking when you died in that world?" [l][r]
+[cm]
+[tb_start_text mode=3]
+"...So, what were you thinking when you thought you were going to die in that world?" [l][r]
 
+"Huh?... Let's see, I think I was thinking, 'Finally, I can die' or something like that."[l][r]
 
-What?"[l][r]"What? ......[l]Yes, I was thinking, 'Now I can finally die.'......, I'm sure."[l][r]
+"See? But I bet those kids were different. Until their very last moments, they were alive, thinking about what to do next, and fell asleep filled with hope. [l]Even if it led to such a sad separation."[l][r]
 
+[r]Ishii-san continued as if lost in thought, without even glancing at me.[l][r]
 
-Right?"　But I bet those kids were different. They must have lived to their last moments and went to sleep happily envisioning what they would do next. [l]...... even if the result was such a sad separation."[l][r]
-
-
-[r]Ishii-san continued to search for words, as if he were alone in contemplation, without even a glance at us. [l][r]
-
-
-'Those kids remembered their feelings at that time all over again. ...... I'm sure they did. At least, that's what I'm going to think."[l][r].
-
+"Those kids must have remembered those feelings again... I'm sure of it. At least, that's what I'll believe."[l][r]
 [_tb_end_text]
 
-[cm  ]
-[tb_start_text mode=3 ]
-[l][r]"...... what do we do now?" [l][r]
+[cm]
+[tb_start_text mode=3]
+"...So, what will you do now?"[l][r]
+Being tactless, I could only come up with such a business-like question. But Ishii-san didn't seem displeased. Looking up at the sky, he smiled, squinting his eyes happily.[l][r]
 
-As a wild man, I can only speak clerical words like that. [But Ishii-san doesn't seem dissatisfied. He looks up at the sky and squints his eyes happily. [l][r]
-
-
-[r]-"You mean me?　Just the usual. Work, eat, sleep. That's all. [l][r]
-
-...... but don't get me wrong. I will not give up on these women, who are my esteemed friends and loving family. [l][r]
-
-They work, they get their strength, and they take off. Beyond the journey of those children. [l][r]
-
-It's ...... on my plane."[l][r].
-
-[r]While [r]turning your body half-turn[/r], [r]turn your body half-turn[/r], [r]turn your body half-turn[/r].
-
-[l][r][l]ishii-san laughed at that. [l][r]
-
+[r]"What will I do? Just the usual. Work, eat, sleep. That's it.[l][r]
+...But don't get me wrong. I won't give up on those admirable friends and beloved family.[l][r]
+I'll work, gain strength, and take off. Towards the journey those kids set out on.[l][r]
+On my plane... that’s it."[l][r]
+[r]With those words, Ishii-san spun around lightly and smiled.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[tb_start_text mode=3 ]
-'I envy you,' I say, not in a build-up. [l][r]
+[cm]
+[tb_start_text mode=3]
+"I'm envious," I replied sincerely.[l][r]
 
+"Want to come along?" For the first time, Ishii-san looked at me as he spoke.[l][r]
+I immediately responded, "I'd love to."[l][r]
 
-Do you want a ride too?" Mr. Ishii looked at me for the first time there and said. [l][r]
-
-I respond immediately, "With pleasure." [l][r]
-
-
-[r]"I'm kidding. You take care of your family."[l][r]
-
-I do. They are also my precious family."[l][r].
-
-'Oh yeah. I'll tell your wife, okay?" [l][r]
-
-Please."[l][r].
-
+[r]"Just kidding. Take care of your family."[l][r]
+"I do. They are also my precious family."[l][r]
+"Is that so? Should I tell your wife?"[l][r]
+"Go ahead."[l][r]
 [_tb_end_text]
 
-[tb_start_text mode=3 ]
-[r]When I replied, Ishii-san smiled mischievously as if he were Yuri, then looked up at the sky once more with eyes as straight as Tito's. [l][r]
+[tb_start_text mode=3]
+[r]As I answered, Ishii-san smiled mischievously like Yuri, and then with Chito's straight, honest gaze, he looked up at the sky again.[l][r]
 
-
-I follow suit. [l][r]
-
+I followed his gaze.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[bg  time="2000"  method="crossfade"  storage="blue2.jpg"  ]
-[tb_start_text mode=3 ]
-Blue sky without a cloud. [l][r]
-
-[r]Inside the stratosphere that envelops this world in a spherical shape, I followed the shadows of two girls who became my benefactors and my precious family. [l][r]
-
+[cm]
+[bg time="2000" method="crossfade" storage="blue2.jpg"]
+[tb_start_text mode=3]
+A clear blue sky without a cloud in sight.[l][r]
+[r]Within the stratosphere that envelops this spherical world, I chased the shadows of the two girls who had become my benefactors and precious family.[l][r]
 [_tb_end_text]
 
-[cm  ]
-[stopbgm  time="2000"  fadeout="true"  ]
-[tb_hide_message_window  ]
-[bg  time="3000"  method="crossfade"  storage="white.png"  ]
-[jump  storage="B4_04LAST.ks"  target=""  ]
-[s  ]
-[cm  ]
-[cm  ]
-[cm  ]
-[cm  ]
+[cm]
+[stopbgm time="2000" fadeout="true"]
+[tb_hide_message_window]
+[bg time="3000" method="crossfade" storage="white.png"]
+[jump storage="B4_04LAST.ks" target=""]
+[s]
+[cm]
+[cm]
+[cm]
+[cm]

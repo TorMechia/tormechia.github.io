@@ -4,45 +4,28 @@
 [bg  time="1000"  method="crossfade"  storage="zetu4.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'Do you have a good idea ......?　I don't think there is. You can't come up with it' [l][r].
-
-In a clear voice, 'that guy' said. [l][r]
-
-[r]"Better yet, why don't you try to remember　How lonely you were in that other world. Why don't you sympathize with them?　To Yuri's loneliness."[r]
-
-The "that guy" in my shape [r] quietly approached me.
-
-Ku. [l][r]
-
+『Do you have any idea...? Of course you don't, right? You could never think of anything.』[l][r]
+In a clear voice, 'it' said that.[l][r]
+[r]『Instead, why don't you remember? How lonely you were in that other world. Why don't you empathize? With Yuri's loneliness?』[r]
+The figure that looked like me stepped closer.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'What did you think of your time over there? [r]
+『What did you think when you lived in that other world?[r]
+Seeing discarded food in the alleys, friends who only drink flavored beverages, people who waste food by being picky—what did you really feel?』[l][r]
 
-How did you really feel when you saw food dumped in alleys, friends who only drank flavored drinks, and people who left their food because they didn't like it?" [l][r]
+[r]'It' continued with a challenging yet somewhat gentle smile.[l][r]
+『And you had warm meals every day, a clean hot bath every day, and could dry your body with a soft towel.[r]
+Didn't you feel sorry for Yuri?』[l][r]
 
+[cm]Stop it! Yes, I thought that. That's why I've been trying so hard! All this time![l][r]
+I've lived in regret, trying to bring Yuu to this modern world![l][r]
+『Then, just say it. Just one word.』[l][r]
+No! I can't say that to Yuu. I never would![l][r]
 
-[r]That guy smiles a challenging, yet somehow gentle smile and continues to speak. [l][r]
-
-'And you can eat a hot meal every day, take a warm bath every day with plenty of clean water, and wipe yourself with a soft towel.' [r]
-
-Hey?　Didn't you feel sorry for Yuri?" [l][r]
-
-
-[cm] Stop!　Yes, I thought so.　That's what I thought, that's why I've been trying so hard! [l][r]
-
-I've been living my life up to now, regretting myself and thinking about it, to bring you and you to the ...... present day in that world over there! [l][r]
-
-'Then just say it. Just one word."[l][r].
-
-I don't want to!　I can't say that to u. There is no way I would say that! [l][r]
-
-
-[r]"Then you're going to be over here forever, right?　It could be your first and last chance, you know? [r]
-
-If you miss this, you're going to live in that world over there, feeling sorry for YOU again, okay?" [l][r]
-
+[r]『Then Yuu will be stuck here. This might be your first and last chance, you know?[r]
+If you miss this, you'll continue living in that world feeling sorry for Yuu.』[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -50,69 +33,45 @@ If you miss this, you're going to live in that world over there, feeling sorry f
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m4_musicbox.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="zetu5.jpg"  ]
 [tb_start_text mode=3 ]
-I know, I know, I know, and now I'm trying to figure out how. Don't push your ideas on me! [l][r]
+I know, that's why I'm thinking of a way now. Stop imposing your ideas on me![l][r]
+[r]『You keep denying like a child. You've had plenty of time to think.[r]
+But you haven't come up with a single way to bring Yuu over.』[l][r]
 
-[R]"You've been denying it like a child since a while ago. I've had time to think. [r]
-
-But you haven't come up with a single way to bring u?" [l][r]
-
-
-Before I knew it, Moya had transformed into an adult version of me. Even though we are almost at the same eye level, I feel an overwhelming sense of intimidation. [r]
-
-No matter what I do, no matter what I plead, nothing seems to reach him, and my heart is soaked in despair. [l][r]
-
+Before I knew it, it had transformed into my adult self. Even though we were at the same eye level, an overwhelming sense of pressure filled the room.[r]
+My heart sank into despair, feeling like no matter what I did or said, it would have no impact.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="zetu6.jpg"  ]
 [tb_start_text mode=3 ]
-I don't think that's really going to save u.'[r].
-
-U?" [l][r]
-
-The "I" reaches out a hand. I touch her cheek. The eyes that stare into mine seem to see right through me, and I can't move. [l][r]
-
-[r]"How did it feel to live with such thoughts alone?" [l][r]
-
-I slide my hand down and stroke his neck. The unexpectedly gentle movement confounds me. [l][r]
-
-[r]"I have been thinking of you, longing for you, regretting and cursing myself for leaving you behind and coming here."[l][r]"I have been thinking of you, longing for you, regretting and cursing myself for leaving you behind and coming here.
-
- [l][r]
-
-[cm]"And I didn't come up with anything, you know. Of course it's hard."[l][r]
-
+『Do you really think you can save Yuu like this?[r]』
+'My' hand reached out, gently touching my cheek. Those eyes, staring intensely, seemed to see through everything about me.[l][r]
+[r]『How did it feel, going through life with those feelings alone?』[l][r]
+'My' hand slid down, caressing my neck. The unexpectedly gentle movement left me confused.[l][r]
+[r]『Thinking of Yuu, yearning for Yuu, regretting and cursing yourself for leaving Yuu behind and coming here』[l][r]
+'My' face moved closer.[l][r]
+[cm]『And even with all that, you couldn't think of anything. It must hurt, right?』[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="snow1.ogg"  ]
 [wait  time="1000"  ]
 [quake  time="100"  count="3"  hmax="0"  wait="true"  vmax="5"  ]
 [tb_start_text mode=3 ]
-Something pierced my chest. My legs lost their strength and I just crumpled down. [l][r]
-
-So ...... then what should I ...... do? ......[l][r]
-
-'All you have to do is accept what I say.'[r]
-
-I'm not going to do that! [l][r]
-
-'But you don't know, do you?　Then why don't you ask?　Why don't you just ask for advice?"[r].
-
-To whom! [l][r]
-
+Something pierced my chest. My legs lost strength, and I crumpled to the ground.[l][r]
+So what... so what should I... do...[l][r]
+『Just accept what I'm saying』[r]
+No way! I'll never do that![l][r]
+『But you don't know, do you? Then, why don't you ask? Consult with someone』[r]
+Who!?[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="zetu6C.jpg"  ]
 [tb_start_text mode=3 ]
-'...... even your most trusted, your favorite Yuri.'[l][r].
-
-[r]u ask ......? [l][r]
-
-[r]"I'm sure Yoo, who has the same feelings for you, will answer you. Kind Yuri. [r]
-
-Your own, my own ...... you" [l][r].
-
+『...Someone you trust the most. Someone you love—Yuri』[l][r]
+Ask... Yuu?[l][r]
+[r]『If it's someone who felt the same, Yuri will surely answer. Gentle Yuri.[r]
+Your own, my own... Yuu』[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -122,57 +81,36 @@ Your own, my own ...... you" [l][r].
 [bg  time="3000"  method="crossfade"  storage="bigwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Chi-chan, are you okay ......?" [l][r]
-
-Yoo's voice hit my eardrums. [l][r]
-
-The "I" also appears as a light gray "haze" [r].
-
-too, disappeared before I knew it. I looked to the side and saw Yu staring at me with a worried look on his face. [l][r]
-
-[r]"I don't know ......" [l][r].
-
-What should I say, what should I do, what is the right thing to do? [l][r]
-
-"I'm sorry, I don't know ....... ......"[r]
-
-I didn't know what to expect. [l][r]
-
-"Chi-chan ......" [r].
-
-Tears, I couldn't stop. [l][r]
-
+"Chi-chan, are you okay...?"[l][r]
+Yuu's voice rang in my ears.[l][r]
+The figure and the faint gray 'mist' had vanished. Startled, I looked to the side and saw Yuu gazing at me with a worried expression.[l][r]
+[r]"...I don't know"[l][r]
+I didn't know what to say, what to do, what was right.[l][r]
+"Sorry... I don't know..."[r]
+I couldn't figure out anything.[l][r]
+"Chi-chan..."[r]
+Tears wouldn't stop flowing.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="gear.jpg"  ]
 [tb_start_text mode=3 ]
-"I'm sorry ...... yu ...... hhh."[l][r]
-
-Oh no, I don't want them to see me like this. I rub my eyes to stop the tears. But they don't stop. I feel a chill. I remember this feeling. [l][r]
-
-[r][r]Hopelessness is trying to swallow me up. [l][r]
-
-[r]u reaches out and tries to wipe away my tears, but it grabs the sky. It's okay, Yu. You don't have to try to comfort me. [l][r]
-
-Still, Yoo was kind. Even though he knew there was nothing he could do, he gently cuddled me. [l][r]
-
+"Sorry... Yuu... hic"[l][r]
+No, I don't want Yuu to see me like this. I rubbed my eyes to stop the tears. But they wouldn't stop. A chill ran through me. This feeling, oh, I remember it.[l][r]
+[r]Despair was about to swallow me whole.[l][r]
+[r]Yuu reached out to wipe my tears, but her hand just grabbed the air. It's okay, Yuu. You don't need to comfort me forcefully.[l][r]
+Even so, Yuu was kind. Even when she knew she couldn't do anything, she stayed by my side.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Chi-chan, it's all right.'[l][r].
+"Chi-chan, it's going to be okay."[l][r]
+"...Thank you, Yuu"[l][r]
 
-"......Thank you, u."[l][r].
-
-
-[r]I put my own hand over Yoo's hand. Unfortunately, I still can't touch it. But I could feel Yoo's warmth. [l][r]
-
-That really made me happy and frustrated, and a sense of helplessness surrounded me that I couldn't control now. [l][r]
-
-[r]Another tear spilled. [l][r]
-
+[r]I placed my hand over Yuu's. Although I couldn't actually touch her, I could still feel her warmth.[l][r]
+That made me so happy yet frustrated, an overwhelming sense of helplessness enveloping me.[l][r]
+[r]Another tear fell.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -185,47 +123,32 @@ That really made me happy and frustrated, and a sense of helplessness surrounded
 [bg  time="2000"  method="crossfade"  storage="sinen.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Something, something warm touched my face. [l][r]
-
-I open my eyes. The round outline of the image is blurred. [l][r]
-
+Something warm touched my face.[l][r]
+I opened my eyes. A blurry round figure appeared before me.[l][r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-"Tito ......!　Tito ......!　......Good ......," the round outline said[r].
-
- [l][r]
-
-The round outline wore square glasses, and from the narrow eyes behind them, tears were overflowing[r].
-
- [l][r]
-
-[r]"Ishii ...... here, where?" [l][r]
-
-'It's a hospital,' Kanazawa, standing in the back, informed me. [r]
-
-Ishii holds my head to his chest and cries like it's on fire. [l][r]
-
-I stroked Ishii's head and explained briefly what had happened so that it would fit within the visiting hours. [l][r]
-
+"Chito...! Chito...! ...Thank goodness..." the round figure said.[r]
+The round figure wore square glasses, with narrow eyes behind that were brimming with tears.[r]
+[r]"Ishii... where is this?"[l][r]
+"It's a hospital," Kanazawa, standing behind, explained.[r]
+Ishii held my head to her chest, crying uncontrollably.[l][r]
+As I patted Ishii's head, I briefly explained everything that had happened, making sure to keep it within visiting hours.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Eventually, visiting hours were over and everyone pulled out. My parents from this side of the world will be arriving here soon, Kanazawa's wife told me. [l][r]
-
-[r]I said to my mother, "I'm fine. Don't worry," and when I was done, I closed my eyes. [l][r]
-
+Eventually, visiting hours ended and everyone left. My parents from this world were on their way, Kanazawa's wife had told me.[l][r]
+[r]I contacted my mom, telling her, "It's okay. Don't worry." Then I closed my eyes.[l][r]
 
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]Once more ...... just one more time, to look back. [l][r]
-
+[r]One more time... just one more time, to look back.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -234,120 +157,75 @@ Eventually, visiting hours were over and everyone pulled out. My parents from th
 [bg  time="2000"  method="crossfade"  storage="bigwall_k.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-You, now we're talking about me."[l][r].
+"Yuu, this time I'll talk about myself."[l][r]
+[r]I told Yuu about the world I was in now. A world where food and temperature were not a problem.[l][r]
+That Ishii and Kanazawa were there too. How I had been searching for Yuu since I got there, and the hypothesis I came up with.[l][r]
 
-[r]I told Yu about the world I am in. A world where you don't have to worry about food or temperature. [l][r]
+[cm]"So, if I die, I could meet Chi-chan, right?"[l][r]
+"That's a very straightforward way to put it... but considering everything, it might be true.[l][r]
+Ishii found herself in that world after losing consciousness, and I woke up in this one after sleeping..."[l][r]
+"I see. Then I'll die too!"[l][r]
+Yuu stood up with the enthusiasm of someone saying, "Today is the day." Wait, no, listen to me.[l][r]
 
-That Ishii and Kanazawa are also there. Since I came there, I have done a lot of thinking to find Yoo, and my hypothesis that was born. [l][r]
-
-
-[cm]"Does that mean that if I die, I get to meet Chi-chan?" [l][r]
-
-"I know it's too direct to say, ...... but after all we've been through, it might seem that way. [l][r]
-
-I heard that Ishii was over there when he lost consciousness for the last time, and I was over there when I went to sleep for the last time and woke up. ......"[l][r].
-
-I see. Then I'll die too!" [l][r]
-
-[You stand up, as if to say, "The moment I think of it, it's a good day. Wait, wait, no. Listen to me until the end. [l][r]
-
-
-[cm] "Why?　If I die, you'll see Chi-chan, right?" [l][r]
-
-"You're still seeing him. ......"[r]
-
-But you can't touch it."[l][r].
-
-[r]huffing and puffing, Yoo replies with a twinkle in his eye. No, wait, what are you so happy about killing yourself? [l][r]
-
+[cm]"Why? If I die, I'll meet Chi-chan, right?"[l][r]
+"We are meeting now..."[r]
+"But we can't touch."[l][r]
+[r]With bright eyes, Yuu replied eagerly. Wait, why are you happy about the idea of ending your own life?[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'No, yes, but ...... no, wait, no. [r]
+"Yes, but... no, wait, no. Just listen to me."[r]
+I stopped Yuu and rephrased, emphasizing that it was just a 'hypothesis.' I explained all the uncertainties: What if you die in a different context, what if you're not in the same place, and more.[l][r]
 
-Just listen to me for now."[l][r].
+[r]"So, in the end, it's up to you. It looks like you're doing well there, so you could always live your life to the fullest first and come over when your time naturally comes."[l][r]
+"Yeah, that might be a good option too."[l][r]
 
-[r]I'll stop the enthusiastic yoo anyway and add to the story that I am only 'hypothetical'. [l][r]
-
-If he harmed himself, he might be an exception, he might not be in the same city, etc. I will explain to Yoo including those uncertainties. [l][r]
-
-
-[r]"So the final decision is yours. From what I've seen, it looks like you're fulfilled over there, and I think it's totally fine to come back after you've fulfilled your entire life span."[l][r].
-
-Hmmm, maybe that's a thing."[l][r].
-
-
-[cm]"Your life is yours. So think hard before you act. It may be difficult."[l][r]
-
-It's hard, isn't it?"[l][r].
-
-'Yeah, I think so too.'[l][r].
-
+[cm]"Your life is your own. Think it through carefully before making any decisions. It might be hard, but..."[l][r]
+"Yeah, it's tough."[l][r]
+"Yes, I think so too."[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-But there's still time, and if time runs out, it means I might see Chi-chan anyway."[l][r]
-
-Well, yes."[l][r].
-
-Then I'll give it some more thought."[l][r].
-
-[I was so happy to see him, and he looked at me with those kind eyes. I felt as if something in my chest had become lighter, and I naturally smiled too. [l][r]
-
+"But, there's still time, and even if I run out, I might meet Chi-chan in the end."[l][r]
+"True."[r]
+"Then I'll think it over a bit more."[l][r]
+[r]With a gentle smile that only Yuu had, she looked at me. Feeling the relief in my chest, I smiled back naturally.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="yuhi_mae.jpg"  ]
 [tb_start_text mode=3 ]
-"I have to go home now ....... I know everyone is worried about you."[l][r].
+"…I have to go now. Everyone's probably worried."[l][r]
+"Yeah, it will be lonely again," Yuu said with a smile that contradicted her words.[l][r]
+"We'll meet again."[l][r]
+"Yeah."[l][r]
+"Well... bye."[l][r]
+"Yeah, goodbye."[l][r]
 
-Yes. I'll miss you again," Yu said with a smile that belied his words. [l][r]
-
-We'll see each other again."[l][r].
-
-Yes."[l][r].
-
-See you at ......."[l][r]
-
-Yeah. See you later."[l][r].
-
-
-[I turn my back to Yuri and reach for the keys to the vehicle. To the key that will take me back to the world from which I came. [l][r]
-
-The moment my fingers are about to touch it ...... I can't hold back and turn around again. [l][r]
-
-[r]I really wanted to see You smile just one more time. [l][r]
-
+[cm]I turned my back on Yuu and reached for the key to the vehicle, the key to return to my original world.[l][r]
+Just as my fingers touched it, I couldn't help but look back one more time.[l][r]
+[r]I wanted to see Yuu's smile one last time.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But was there a smile there? [l][r]
+But was there a smile?[l][r]
+[r]Did I manage to smile?[l][r]
+[r]Through tear-blurred vision, I saw Yuu standing still.[r]
+Her left hand waving goodbye. That gave me a slight sense of relief.[l][r]
 
-[r][r]Did I have a smile on my face? [l][r]
-
-[r]The shadow of Yoo just stands there, beyond a vision dulled by tears. [r]
-
-The left hand waving "bye-bye" to me. I feel just a little bit saved when I see it. [l][r]
-
-
-[cm] Yes. I'm sure u will be fine. [r]
-
-That guy can be random or overly optimistic, but somehow he should be able to make the right decision. [l][r]
-
-Believing in that must be the best I can do in the future. [l][r]
-
-[r]So it's going to be okay. I couldn't see Yoo's expression through my tears, but I waved back one last time and touched the ignition switch. [l][r]
-
+[cm]Yeah. Yuu will be okay.[r]
+She's carefree and overly optimistic, but in the end, she always makes the right decision.[l][r]
+Believing in that is what I can do from now on.[l][r]
+[r]So it'll be okay. Through the tears, I couldn't see Yuu's expression, but I waved back and touched the ignition switch.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="white.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-That became the last scene I saw in that world. [l][r]
-
+That became the last scene I saw in that world.[l][r]
 [_tb_end_text]
 
 [cm  ]

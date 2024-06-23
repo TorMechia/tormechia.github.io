@@ -5,59 +5,41 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="train-station-wickets-1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="stationjpg.jpg"  ]
 [tb_start_text mode=3 ]
-It was a balmy day. [l][r]
-
-The sun slowly shining warmed the concrete, and the high humidity added to the heat made it feel as if we were in a steamer. [l][r]
-
+It was a hot day.[l][r]
+The sun beat down steadily on the concrete, and the high humidity made it feel as if we were in a steam cooker.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Inside a train station in such a city, a woman with black hair tied in two knots stood alone with a pouty face. [l][r]
+[r]In such a stifling station, a woman with black hair tied in two ponytails stood alone with a sullen expression.[l][r]
+Apparently, she was waiting for someone. She kept glancing at her phone, sighing, crossing her arms, tapping her fingers, and wiping the sweat from her face with a handkerchief.[l][r]
 
-Apparently meeting someone, he looks at his phone screen constantly, sighs, crosses his arms, taps his fingers, and wipes the oozing sweat with his handkerchief. [l][r]
-
-
-[r]By the way, it has been almost 30 minutes since she repeated this action. The waiter is running late. [l][r]
-
+[r]She had been repeating this cycle for almost 30 minutes. The person she was waiting for was late.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-If she had to wait 30 minutes in this heat, she would be angry. At this rate, the boiling point in her head must be over the limit, and she must be lashing out in a hot rage. [l][r]
-
-[r], a woman turned her face to the side. It was as if someone had called her. From the crowd beyond, a blonde woman runs up to me, waving her hand. Apparently, she was the one who was waiting for him, who had been running late. [l][r]
-
+Being made to wait in this heat for 30 minutes would make anyone angry. It seemed like it wouldn't be long before she hit her boiling point and her frustration boiled over.[l][r]
+[r]Just then, she turned her head. It seemed someone had called out to her. From amidst the crowd, a blonde woman waved and hurried over. It looked like the person who was late had finally arrived.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r][r]A dark-haired woman with a wrinkled brow and a nagging complaint. [l][r]
-
-In contrast, the woman on the late side smiles wryly and apologizes, clasping her hands together. [l][r]
-
+[r]The woman with black hair frowned and began to complain.[l][r]
+The blonde woman who was late smiled apologetically, clasping her hands in front of her and bowing repeatedly.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Eventually, apparently, he was forgiven [r].
-
- [l][r]
-
-The dark-haired woman smiled and said. [l][r]
-
-[r]"It's late."[l][r].
-
-[r]The blonde woman replied. [l][r]
-
-[r]"Sorry to keep you waiting."[l][r].
-
+Eventually, it seemed she was forgiven.[l][r]
+The woman with black hair smiled and said,[l][r]
+[r]"You're late."[l][r]
+The blonde woman replied,[l][r]
+[r]"Sorry to keep you waiting."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Then they disappear into the crowd together. [l][r]
-
-[r][r]Hold those hands tightly together so that they don't separate. [l][r]
-
+And so, the two of them disappeared into the crowd together.[l][r]
+[r]Holding hands tightly, so they wouldn't be separated.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -71,9 +53,10 @@ Then they disappear into the crowd together. [l][r]
 [l][r]
 [_tb_end_text]
 
-[jump  storage="title_screen.ks"  target="*titele_0"  ]
+[jump  storage="title_screen.ks"  target="*title_0"  ]
 [s  ]
 [cm  ]
 [cm  ]
 [cm  ]
 [cm  ]
+

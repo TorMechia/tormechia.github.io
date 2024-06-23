@@ -8,154 +8,99 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="bonfire-1.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The wood is burning with a crackling sound. [l][r]
-
-Temperatures are cooler in the mountains at higher elevations, even in summer[r].
-
-And this natural warmth was very pleasant. [l][r]
-
-[r]"But whatever the form, it's a pleasure to have all of us together again like this."[l][r]
-
-Yeah, really."[l][r].
-
-With that, Kanazawa takes the coffee his wife gave him and puts it in his mouth. [l][r]
-
-[r]This is a camp[r] where you can see the stars in a certain place in Nagano Prefecture.
-
-Place. [r]
-
-When we looked up at the sky, the stars were full of stars looking down on us. [l][r]
-
+The fire crackles as the logs burn.[l][r]
+Even in summer, the temperature is pretty low here in the mountains.[r]
+This natural warmth is incredibly comforting.[l][r]
+[r]"No matter the circumstances, it's wonderful that we can all gather like this again,"[l][r]
+"Yes, it truly is."[l][r]
+Kanazawa takes a sip of coffee, a gift from his wife.[l][r]
+[r]This is a campsite in the mountains of Nagano.[r]
+Looking up at the sky, the stars were watching over us.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It has been several months since Yuri was found. She still has not woken up. [l]The first time Tito saw Yuri in a coma, it was honestly painful to see and hear. [l][r]
+It's been a few months since we found Yuri. She still hasn't woken up.[l] Seeing Chito's reaction the first time she saw Yuri in a coma was heart-wrenching.[l][r]
+All I could do was close the door gently so her sobs wouldn't echo outside.[l][r]
 
-All I could do, though, was gently close the door so that her sobs would not echo outside. [l][r]
-
-
-[r]"Tito is really a great kid. Even though all his hard work was undone, he never despaired."[l][r] "He never despaired.
-
-[r]I also bring the coffee to my mouth, savoring its aroma and remembering that time [r].
-
- [l][r]
-
-It was some time after I left Tito and Yuri alone together. [l][r]
-
+[r]"Chito is an amazing girl. Despite her efforts being seemingly in vain, she never gave up,"[l][r]
+[r]I took a sip of my coffee, savoring its aroma as I recalled that moment.[l][r]
+It was shortly after I left Chito and Yuri alone.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="curtain.jpg"  ]
 [tb_start_text mode=3 ]
-When I returned to check on them, she had a determined look on her face, with a trace of tears on her face. [l][r]
-
-[r]Oh, those eyes I've seen so many times, the eyes of a girl in a daze, challenging despair[/r].
-
- [l][r]
-
+When I returned to check on them, Chito had tear-streaked cheeks but a determined look in her eyes.[l][r]
+[r]Ah, those were the eyes of a girl who defiantly challenges despair time and again.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Ishii. I've decided."[l][r].
-
-"...... what?" [l][r]
-
-I'll stay with you as long as I can. I'll be waiting for him whenever he wakes up, I ...... will be waiting for him."[l][r].
-
-"...... I see. [l]Well, you can try."[l][r].
-
+[r]"Ishii, I've made up my mind,"[l][r]
+"...About what?"[l][r]
+"I'm staying by Yuri's side. So that I’m here when she wakes up, I'll be waiting."[l][r]
+"…I see.[l] That's good. Go ahead and try it."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="hospital7.jpg"  ]
 [tb_start_text mode=3 ]
-Thus, Tito began to visit Yuri as long as he had time. [l][r]
-
-She would stay until the last minute of visiting hours to talk about what had happened today, study, and sometimes take turns staying in the hospital room with Yuri's parents, and when she could find time for herself, she put it all into Yuri. [l][r]
-
-[r]I was worried that I would indeed break down and told Tito to take a few days off. [l][r]
-
-However, Tito says that when he is away from Yuri for long periods of time, he conversely becomes ill, and in fact, when he comes to Yuri's hospital room, he feels much better. [l][r]
-
+From that moment, Chito spent all her available time with Yuri.[l][r]
+She talked about her day, studied, and sometimes spent nights in the hospital room, taking turns with Yuri’s parents.[l][r]
+[r]I worried she might make herself sick and suggested she take a few days off.[l][r]
+But Chito said being away from Yuri for too long actually made her feel worse, and she felt much better when she was with Yuri.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-According to Tito, it was not hard at all for him to work hard for Yuri because it was good for him. [l][r]
-
-[r]And so one month ...... six months ...... and the days passed. [l][r]
-
-Despite Tito's best efforts to get through to him, Yuri was still not likely to wake up. [l][r]
-
-Nevertheless, Tito continued to go to see Yuri without despairing at all. [l][r]
-
+According to Chito, doing things for Yuri also benefited her, so it wasn't a burden at all.[l][r]
+[r]And so, a month passed... then half a year… time continued to flow.[l][r]
+Despite Chito’s dedicated visits, Yuri still showed no signs of waking up.[l][r]
+But Chito never despaired and kept visiting Yuri.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="campb.jpg"  ]
 [tb_start_text mode=3 ]
-"'I'm always with Yuri, so it's okay' [r].
-
-...... Tito said so clearly. [l][r]
-
-Perhaps some support was born, awakened, or realized in that child."[l][r].
-
+"‘I'll be with Yuri no matter what.’[r]
+That's what Chito firmly said.[l][r]
+Probably, something within her either awakened or she realized something crucial."[l][r]
 
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="yamahosi.jpg"  ]
 [tb_start_text mode=3 ]
-[r]Right now, Tito and Yuri are both going to a meadow a little ways away to look at the stars. [l][r]
-
-I was a little apprehensive about being alone with him, but it's not far and the campground is well maintained, so as long as we are careful about getting cold, it shouldn't be a problem. [l][r]
-
+[r]Right now, Chito and Yuri have gone a bit away to stargaze in a meadow.[l][r]
+I was a bit worried about them being alone, but it's a well-maintained campsite, and they should be fine as long as they stay warm.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'It's not every day you find a group of kids who are so tightly knit together. I envy them."[l][r].
+"Kids like them, so tightly knit, are rare. It's enviable,"[l][r]
+Kanazawa remarked, causing his wife to look slightly miffed. I noticed but didn't point it out.[l] Go on, Kanazawa, smooth things over yourself.[l][r]
+[r]"It's just a baseless prediction…"[r]
+I murmured as I closed my eyes lightly.[l][r]
 
-When Kanazawa said this, the lady next to him looked a little miffed. I didn't miss it, but I'm not wild enough to point it out. [l]Now, Kanazawa, you do your best to follow up. [l][r]
-
-[r]"It's a prediction that has no basis in anything [r].
-
-but ......," I mutter with my eyes lightly downcast. [l][r]
-
-
-I put down my coffee and say, thinking of Tito's eyes challenging despair and Yuri's that positive attitude. [l][r]
-
+Setting down my coffee, I thought of Chito's determined gaze and Yuri’s positive demeanor.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"I think that Yuri is really going to wake up one of these days, ......, I think so [r].
-
-Yo." [l][r]
-
-[r]"You have a wild theory, like Tito."[l][r].
-
-Because I felt like I kind of knew how she felt."[l][r].
-
-[r]I laugh to myself. But Mr. and Mrs. Kanazawa smile at me as if it contains understanding. [l][r]
-
+"...I have a feeling Yuri will wake up soon."[l][r]
+[r]"You're making bold claims, just like Chito,"[l][r]
+"I think I'm starting to understand how she feels."[l][r]
+[r]I smiled wryly. But the Kanazawas gave me a warm, understanding smile.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I feel that way too, though."[l][r].
-
-Even though I know you will. Somehow, I don't feel a painful future. [l]Even if Yuri didn't wake up like this, I think we would still be the same. [l][r]
-
-[r]Well, this feeling is similar to what I felt when the wing of my plane broke. [l][r]
-
-No ...... or maybe a little different. It was a strange feeling. [l][r]
-
-[r]Well, I guess that's all right. [l][r]
-
-[r]Because I guess I just have to help them as much as I can so they can live straight. [l][r]
-
+"I feel the same way,"[l][r]
+Me too. Somehow, I don't foresee a bleak future.[l] Even if Yuri doesn't wake up, we’ll continue on as usual.[l][r]
+[r]It’s similar to how I felt when the airplane’s wings broke off.[l][r]
+Or maybe, it's a bit different. It was a strange feeling.[l][r]
+[r]But that's okay.[l][r]
+[r]I'll do whatever I can to support them, to help them live their lives fully.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -167,16 +112,11 @@ No ...... or maybe a little different. It was a strange feeling. [l][r]
 [bg  time="2000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-We looked up at the sky. There, shining like scattered sugar, the stars looked down on us. [l][r]
-
-[r]ishii was right, the starry sky here was really beautiful. [l][r]
-
-This place, with nothing to disturb it, such as city lights, dust and dirt, is as clear as that world. [l][r]
-
-But that's not all. There's the sound of insects, a hooting owl or something, and the sound of grass and trees swaying in the wind. [l][r]
-
-It was a lovely place where one could feel the breath of living creatures. [l][r]
-
+I looked up at the sky. The stars sparkled like scattered sugar, gazing down at us.[l][r]
+[r]Just like Ishii said, the starlit sky here was truly beautiful.[l][r]
+There was nothing to obscure the sky—no city lights, no dust. The air was clear, like another world.[l][r]
+But it wasn't just that. The sounds of insects, owls, and the wind rustling through the grass were all around us.[l][r]
+It was a wonderful place that made us feel the lively presence of nature.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -186,79 +126,53 @@ It was a lovely place where one could feel the breath of living creatures. [l][r
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Can you see me?" [l][r]
+"Yuu, can you see it?"[l][r]
 
+[r]I pushed the wheelchair to the middle of the meadow and crouched beside Yuu.[l][r] She still doesn't respond, probably because I'm late again.[l][r]
 
-[r]I pushed my wheelchair to reach the middle of the meadow and crouched [r]next to You.
+[r]But that's okay. I'll wait. And I'll keep calling her.[l][r]
 
-MU. Maybe because I'm late for the meeting today, this guy doesn't answer me. [l][r]
+[r]This is my way of making amends for my mistakes.[l][r]
 
+Until Yuri wakes up. Until she returns to me, I'll stay by her side.[l][r]
+[_tb_end_text]
 
-[r]But then all I have to do is wait. And I will continue to call and wait. [l][r]
-
-
-[r]Because this is the best way to make up for the mistakes I made. [l][r]
-
-
-Until you wake up. I decided to stay with you until you come back here. [l][r]
+[cm  ]
+[tb_start_text mode=3 ]
+"Look. It's beautiful, right? The stars look like they're raining down. You said the same thing, right, Yuu?"[l][r]
+[r]The wind blows, making the grass whisper. Life is certainly here. But it still feels like we’re the only two in this world, and it's so peaceful.[l][r]
+That's when I thought this must be the entirety of the world.[l][r]
+"At that time, I felt like I became one with the world, and I think you felt the same.[l][r]
+…Sorry for teasing you with 'You of all people.' I was actually very happy."[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Look. Isn't it beautiful? It's like the stars are falling. You said it too."[l][r].
-
-The wind blows with a [r]zap. The grass and trees sway and begin to rustle and chatter. There is certainly life here. But it seems that we are the only two people in this world, and it is very quiet. [l][r]
-
-It must be all the world, I thought. [l][r]
-
-'At that moment, I felt like I and the world were one, and you felt the same way. [l][r]
-
-I'm sorry I said ...... 'You're a you' or something like that. I was actually happy."[l][r].
-
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Yes, it's the same. This sky, the air I'm breathing, the earth I'm stepping on. [l][r]
-
-All of them, every single one of them, is everything in the world. [l][r]
-
-[r]Whether it's the world that's over or the world today, it's the same thing. [l][r]
-
-Of course, I, and YOU, are one and all in this world. [l][r]
-
-[r]So it's not hard. I can wait [r] forever.
-
-I am not a "you". For my very existence is the proof of Yoo's existence. [l][r]
-
+Yes, it's the same. This sky, the air we breathe, the ground we tread on.[l][r]
+Everything is a part of the world.[l][r]
+Whether it's the end of the world or this current one, it's the same thing.[l][r]
+Of course, I'm also part of it, and so is Yuu. We are everything in this world.[l][r]
+[r]So it's not painful. I can wait forever.[l][r]
+My very existence is proof of Yuri's existence.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="n_last2.jpg"  ]
 [tb_start_text mode=3 ]
-Come on. Come on, come on. The world is so big and so neat."[l][r].
-
-I hold Yoo's hand and look at the sky. It's a slender, skinny hand, but I feel a certain warmth. [l][r]
-
-Yes, YOU are alive. Here we are. [l][r]
-
-[r]That's what it's all about. [l][r]
-
+"Come on. Hurry up. The world is so vast and wonderful."[l][r]
+I held Yuri's hand and looked up at the sky. Her hand, though thin, was warm.[l][r]
+Yes, Yuri is alive. She's here.[l][r]
+[r]That's everything.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="n_last3.jpg"  ]
 [tb_start_text mode=3 ]
-I held Yoo's hand a little tighter. [l][r]
-
-[r][r]u. [l][r]
-
-I'll be waiting for you. [l][r]
-
-[r][r]I want you to hold this hand back again. [l][r]
-
+I gripped Yuri's hand a little tighter.[l][r]
+[r]Yuri.[l][r]
+I'll be waiting for you.[l][r]
+[r]Until you hold my hand again.[l][r]
 [_tb_end_text]
 
 [cm  ]

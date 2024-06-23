@@ -4,49 +4,35 @@
 [tb_show_message_window  ]
 [bg  time="3000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-Something, something warm touched my face. [l][r]
-
-I open my eyes. The round outline of the image is blurred. [l][r]
-
+Something warm touched my face.[l][r]
+I opened my eyes. A round figure came into blurry focus.[l][r]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m1_arr.ogg"  ]
 [bg  time="2500"  method="crossfade"  storage="hospital.jpg"  ]
 [tb_start_text mode=3 ]
-"Tito ......!　Tito ......!　......Good ......" [r].
-
-The round outline told me that. [l][r]
-
-The round outline wore square glasses, and from the narrow eyes behind them, tears were overflowing[r].
-
- [l][r]
-
+"Chito...! Chito...! Thank goodness..."[r]
+The round figure said.[l][r]
+The round figure had square glasses and tears streaming from narrow eyes behind them.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Ishii ...... here, where?" [l][r]
-
-'It's a hospital,' Kanazawa, standing in the back, informed me. [r]
-
-Ishii holds my head to his chest and cries like it's on fire. [l][r]
-
-I stroked Ishii's head and explained briefly what had happened so that it would fit within the visiting hours. [l][r]
-
+[r]"Ishii... Where are we?"[l][r]
+"You're in a hospital," Kanazawa told me from the back.[r]
+Ishii held my head against his chest, crying like a child.[l][r]
+While I gently patted Ishii's head, I briefly explained what had happened, keeping it short to fit the visiting hours.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="hospital2.jpg"  ]
 [tb_start_text mode=3 ]
-Eventually, visiting hours were over and everyone pulled out. [l]My parents from this side of the world are going to arrive here soon, Kanazawa's wife told me. [l][r]
-
-[r]I said to my mother, "I'm fine. Don't worry," and when I was done, I closed my eyes. [l][r]
-
+Eventually, visiting hours ended, and everyone left.[l] Kanazawa's wife told me that my parents from this side of the world would be arriving soon.[l][r]
+[r]I sent a message to my mom, assuring her, "I'm fine. Don't worry," then closed my eyes.[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-To see the afterimage of happiness, once more under the eyelids. [l][r]
-
+To see a trace of happiness once more beneath my eyelids.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -55,61 +41,44 @@ To see the afterimage of happiness, once more under the eyelids. [l][r]
 [bg  time="2500"  method="crossfade"  storage="lastwall.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"I have to go home now ....... I know everyone is worried about you."[l][r].
-
-Yes. I'll miss you again," Yu said with a smile that belied his words. [l][r]
-
-We'll see each other again."[l][r].
-
-Yes."[l][r].
-
+"...I have to go now. Everyone must be worried."[l][r]
+"Yeah. It's going to be lonely again," Yuu said with a smile that contradicted her words.[l][r]
+"We'll meet again, right?"[l][r]
+"Yeah, we will."[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Because the time we don't see each other will always end. [l][r]
-
+[r]Because the time we can't meet will eventually end.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Tell me one thing," u. [l][r]
-
-What?" And I. [l][r]
-
-[r]"Chi-chan, are you happy?" [l][r]
-
-'Oh, I'm happy. Are you?" [l][r]
-
-Me too."[l][r].
-
+"Just tell me one thing," Yuu said.[l][r]
+"What?" I replied.[l][r]
+[r]"Are you happy, Chii-chan?"[l][r]
+"Yeah, I'm happy. How about you?"[l][r]
+"Me too."[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I don't ask for [r]easons. I don't even need a reason. [l][r]
-
-Because we already know. [l][r]
-
+[r]No need to ask why. No proof necessary.[l][r]
+Because we already know.[l][r]
 [_tb_end_text]
 
 [bg  time="2000"  method="crossfade"  storage="yuhi_mae.jpg"  ]
 [tb_start_text mode=3 ]
-See you later."[l][r].
-
-See you later."[l][r].
-
+"See you later."[l][r]
+"Yeah, see you."[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]We say this to each other like little children who promised to play again tomorrow, and we smile at each other. [l][r]
-
-I let Yoo's happy face show through the tilted sunlight. [l][r]
-
+[r]Like small children promising to play again tomorrow, we exchanged smiles.[l][r]
+I watched Yuu's happy face through the setting sun's light.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Please let this smile remain on my retina forever. [l][r]
-
+Wishing that this smile would stay imprinted on my retina forever.[l][r]
 [_tb_end_text]
 
 [cm  ]

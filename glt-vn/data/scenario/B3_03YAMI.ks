@@ -10,187 +10,122 @@
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'm relieved that at least you're safe and sound."[l][r].
-
-He meant what he said, but I don't know if he got the message. [l][r]
-
-[r]"...... I am ......" [r].
-
-I know. It's not your fault."[l][r].
-
-"If I hadn't taken my eye off the ball then, none of this would have ...... happened."[l][r]
-
-[r]Kanazawa mutters on the other end of the phone. He must be nodding his head. [l]It's only natural that he would do so. I couldn't stop them, even though I was the one closest to them. [l][r]
-
+"At least you're free now. That makes me feel better."[l][r]
+I meant what I said, but I wasn't sure if it came across.[l][r]
+[r]"...I..."[r]
+"I know. It's not your fault."[l][r]
+"If only I hadn't looked away, this wouldn't have happened..."[l][r]
+[r]Kanazawa mumbles on the other end of the phone. He must be sitting with his head in his hands. Of course he's upset. He was right there and couldn't stop them.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-He was the one who filed the missing person report to the police. He was also the only one there. [Although he was neither charged nor arrested, after lengthy and numerous interviews, the official police statement was [l][r]
-
-[r]"Missing by suicide or accident" [l][r].
-
-The only words that were common and clichéd were. [l][r]
-
+He was the one who filed the missing person report. He was the only one there.[l]He wasn't charged or arrested, but after endless hours of questioning, the police's official statement was,[l][r]
+[r]"Suicide or accidental disappearance."[l][r]
+Such a cliché, empty phrase.[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="souko.jpg"  ]
 [tb_start_text mode=3 ]
-[r]When Kanazawa returned to the warehouse, they were gone. [l][r]
-
-But it seems that the back door was open, perhaps because of the wind. Beyond that, the ocean. [l][r]
-
+[r]When Kanazawa went back into the warehouse, they were gone.[l][r]
+The back door was open, maybe blown by the wind. Beyond it: the sea.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="minato.jpg"  ]
 [tb_start_text mode=3 ]
-There is nothing suspicious about his background, and of course no motive. [l][r]
-
-With no physical evidence or even official contact with the girls in the first place, there is little conclusion the police can draw at best. [l][r]
-
-The search into the sea near [r][r] is said to be continuing, but so far there is no news ...... that any clues have been found. [l][r]
-
+There was nothing suspicious about his background, and he had no motive.[l][r]
+Without any physical evidence or even an official connection to the girls, that was the best the police could conclude.[l][r]
+[r]The search of the nearby coastline continues, but so far, there's been no news.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_start_text mode=3 ]
-"...... you don't have to fret about it. It would be difficult to say, ...... but I just had a feeling that sooner or later I would end up like this."[l][r].
-
-"......" [r].
-
-No answer from phone. [r]
-
-I continued without a care. [l][r]
-
-[r]"Yuri had told me many times[r].
-
-It is. Tito had reached his limit. Every time I heard from that boy, the Chito I knew was dying. [l][r]
-
-That boy tried to challenge despair as best he could. But he was crushed."[l][r]
-
-"...... for us."[l][r]
-
-[l][r]"n......?" [l][r]
-
-"Couldn't we have ...... done anything about it?" [l][r]
-
+"...You shouldn't blame yourself. I know it's hard, but, I always felt it would end this way."[l][r]
+"..."[r]
+There's no response from the phone.[r]
+I continue regardless.[l][r]
+[r]"Yuu kept telling me that Chito was at her limit. Every time I heard from her, more of the Chito I knew was gone.[l][r]
+She tried to fight the despair, but it crushed her."[l][r]
+"We... we did nothing, didn't we?"[l][r]
+"Sorry...?"[l][r]
+"We couldn't do anything, could we?"[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Kanazawa asks a question. A question to which you probably know the answer. [l][r]
-
-[r]"Aren't you frustrated, Mr. Ishii? [r]
-
-Don't you ...... sadly ......?" [l][r]
-
-It's frustrating and ...... sad. But those kids came to their own conclusions. It's not something we can do anything about, it was never a problem in the first place.
-
-[r]I said this with a thin exhalation of breath, trying to stifle the tremor in my voice. [l][r]
-
+Kanazawa asked the question, knowing the answer.[l][r]
+[r]"Ishii-san, aren't you sad? Angry?"[r]
+"...Of course I am. But they made their choice. It was never something we could decide for them."[l][r]
+[r]I try to steady my voice, exhaling slowly.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="blue2.jpg"  ]
 [tb_start_text mode=3 ]
-I looked at the eastern sky. Remembering the night sky of Tokyo where I walked with Tito. [l][r]
-
-[r]Surely ...... this world must have been too small for them. The world that they had expanded together was narrowed by other things, and they couldn't see the more important, natural things. [l][r]
-
-So they are not dead. [l][r]
-
+I look to the eastern sky, remembering the Tokyo nights I spent walking with Chito.[l][r]
+[r]The world was just too small for them. The world they discovered together was shrinking, and they couldn't see what really mattered anymore.[l][r]
+So, they didn't die.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"They've ...... left for that world again. To that ended world that we both lived in. To that wide, wide world where we can feel each other because of the end."[l][r].
-
-"...... such" [r].
-
-'The key that was stuck, you saw it, albeit only for a moment, didn't you?　A key that shouldn't be there, in a kettenkrath that shouldn't be there."[l][r].
-
-"......" [r].
-
-Then it shouldn't ...... matter what you think now."[l][r]
-
-[r]I cut off my words. Kanazawa stopped refuting me too. [l][r]
-
+"They set off on another journey. To that world they lived in together. A world that ended, letting them truly feel each other."[l][r]
+"That's..."[r]
+"You saw it for a moment, didn't you? The key in the Kettenkrad that shouldn't have been there."[l][r]
+"..."[r]
+"So, it's okay to believe that now."[l][r]
+[r]I stop speaking. Kanazawa has no retort.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m0_piano.ogg"  ]
 [bg  time="2000"  method="crossfade"  storage="rf2.jpg"  ]
 [tb_start_text mode=3 ]
-On this rooftop, where I called Tito that day, I am shaking with the thought of them again. [l][r]
-
-But it was different from that day. The sky was clear and blue. It was an abominably clear, sunny day, as if to congratulate them on their departure. [l][r]
-
-[r]I look up at that sky, inhale slowly, and then I talk to the phone again [r].
-
- [l][r]
-
+On this rooftop where I once talked to Chito, I remember them and feel the longing in my heart.[l][r]
+But today's different. A clear blue sky, as if celebrating their departure, mocking us with its purity.[l][r]
+[r]I look up, take a deep breath, and start talking to the phone again.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"What did you name it?" [l][r]
-
-"What, ......?" [l][r]
-
-Your children. Oh, I'm sorry it's taken me so long to send my congratulations. Girl twins?　Congratulations. You'll have to take good care of your wife."[l][r]
-
-"Ah ...... yes."[l][r]
-
-'You're going to be a father, get a grip. Go to ...... and what are your names? [l] You're not going to tell me it's Tito and Yuri, are you?"[l][r].
-
-No, no way." [r]
-
-Because ...... I bet those two are still on the road, aren't they?" [l][r]
-
-'Yes, I'm sure.'[r][r][r][i][i][i I bet."[r].
-
-"Yeah. ......" [l][r].
-
+"Did you name them?"[l][r]
+"What...?"[l][r]
+"Your kids. Sorry I'm late. I heard they're twin girls. Congrats. Take good care of your wife."[l][r]
+"Oh... yes."[l][r]
+"You'll be a dad. Be there for them. So, what did you name them? Don't tell me, Chito and Yuu?"[l][r]
+"No, of course not.[r]
+...They're still out there, right? The two of them, still traveling."[l][r]
+"Yes. I'm sure of it."[r]
+"Yeah..."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-I closed my eyes before I knew it, listening to Kanazawa's voice. [l][r]
-
-A dry wind blows on the rooftop and shakes my hair [r].
-
- [l][r]
-
-[r]Over the phone, the voice of someone who once experienced the same despair. [l][r]
-
-It seemed to me to be the last remnant. A remnant of that gray world. [l][r]
-
+As I listen to Kanazawa's voice, I close my eyes without realizing.[l][r]
+A dry wind blows, rustling my hair.[l][r]
+[r]On the phone, a voice that once shared the same despair.[l][r]
+It feels like the last lingering scent of that gray world.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playse  volume="100"  time="2000"  buf="0"  storage="kettenRun3.ogg"  fadein="true"  ]
 [tb_start_text mode=3 ]
-Sound can be heard in the distance. [l][r]
+I hear a sound from afar.[l][r]
 
-
-The sound of heavy crawlers scraping the ground. [r]
-
-The sound of an engine that turns lightly for its weight. [l][r]
-
+The heavy tracks scraping the ground.[r]
+Despite the weight, the engine ran smoothly.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-The last girls in the world, [l][r].
-
-[r][r]The sound of the last journey in the world. [l][r]
-
+The sound of the last girls in the world,[l][r]
+[r]on their final journey.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

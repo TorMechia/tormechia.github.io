@@ -5,297 +5,186 @@
 [bg  time="2000"  method="crossfade"  storage="isiroom_2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[r] "What do you think of ......?" [r]
-
+"What do you think?"[r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I wonder. ......"[l][r]
-
-[r]The young man, who identified himself as Akira Kanazawa, replied vaguely over the phone. [l][r]
-
+"Hmm, hard to say..."[l][r]
+The young man who introduced himself as Akira Kanazawa gave a vague response over the phone.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-My conversation with Tito was not very fruitful after that, as we were both confused. We could only confirm. The fact that I feared the most. [l][r]
-
-[r]"Can you imagine not having Yuri by Tito's side?" [l][r]
-
-It's difficult. But I only heard Tito's voice, but I thought it was very mature, not like her."[r]
-
-"...... I know you would."[l][r]
-
+The conversation with Chito didn't amount to much. Both of us were left confused and unable to discuss anything substantial. But we did confirm one crucial fact: the thing we feared most.[l][r]
+"Can you imagine Yuri not being by Chito's side?"[l][r]
+"It's hard. Although I've only heard Chito's voice, she seemed unusually subdued."[r]
+"Yeah, that's what I thought."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-As soon as I got back to my room, I called the contact number Chito had given me, and we began talking about Chito's current situation, without even introducing ourselves to each other. [l][r]
-
-[r]Kanazawa-kun, like me, was also employed in a job related to the actions he was performing in that world, perhaps through some strange cause and effect. [l][r]
-
-In his case, he was a staff member of a research company that produces maps. After all, Tito must have had a good idea and made repeated inquiries. [l][r]
-
-
+As soon as I got back to my room, I called the contact information Chito had given me, and we started introducing ourselves and discussing Chito's current situation.[l][r]
+Kanazawa, like me, found a job that somehow related to what he did in that world. He works for a survey company that makes maps. Chito must have tracked him down through persistent inquiries.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-This leaves only Yuri and her grandfather, who she says raised her, as the only people who were related to her in that world. Incidentally, she is not related to either of them. [l][r]
-
-The grandfather figure may have been a military man, and he would like to inquire with the Self-Defense Forces or military personnel, but there are supposed to be confidentiality requirements for that type of business, which is a hurdle. [l][r]
-
-[r]eally, of course, Chito has not given up. As the person closest to her, she has been gathering information in the hope of somehow meeting him, but it has yet to bear fruit. [l][r]
-
-Both Kanazawa-kun and I pledged our cooperation. The girl alone would not have been able to do it, but with the cooperation of two adults, we might eventually be able to get something out of it. But ......[l][r]
-
+This leaves Yuri and Chito's caregiver, an old man who isn't related by blood, as the only people she had significant connections with in that world. The old man was likely a soldier, and Chito seems keen to contact military personnel, but confidentiality in those fields creates a high barrier.[l][r]
+Of course, Chito hasn't given up. She hopes to reunite with him and gathers information, although she hasn't had much luck yet. Both Kanazawa and I promised to help. With two adults on her side, she might eventually find something, but...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The question at hand is ultimately that. How do we find Yuri?"[l][r].
-
-Blonde hair, blue eyes. I'd like a girl in her late teens who is good with guns, loves to eat, and is always laughing. ......"[l][r].
-
-Yes," he said. And above all, there is Tito's hypothesis."[r].
-
-"But ...... no way."[l][r]
-
+"The immediate problem is how to find Yuri."[l][r]
+"Blonde hair, blue eyes. Skilled with guns, loves to eat, always smiling, a girl in her late teens."[l][r]
+"Exactly. And there's also Chito's theory."[r]
+"But... there's just no way."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Kanazawa does not openly refute this. but I don't think it's possible either. [r]
-
-It is hard to imagine that Yuri could continue to live in that world, all alone, even with the loss of Tito. [l][r]
-
-He is a self-defeating ephemeralist who seems to have no life skills at all. That is our common perception of Yuri. [l][r]
-
-[r]eally, Tito said to it. There was nothing on the top level, he said. They had run out of food and fuel. [r]
-
-There's no way you can live with it. But ......[l][r]
-
+Kanazawa didn't openly argue, but I also found it hard to believe.[r]
+Imagining Yuri surviving alone without Chito in that world was difficult. A hedonistic, seemingly helpless girl—it was our shared perception of Yuri.[l][r]
+Furthermore, Chito said there was nothing at the top level—no food, no fuel.[r]
+How could anyone survive? But still...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[......It might be more likely than you think," Kanazawa said unexpectedly. [l][r]
-
-[l][r]"...... have any thoughts?" [l][r]
-
-Yes. I also experienced a lot of despair in that world, but it was Yuri who helped me get back on my feet. [l][r].
-
-That girl is strong. And somehow, it's strange[r].
-
-There was a kind of grace that saw through the essence of what ...... was all about."[l][r].
-
-I agree with you on that."[r But ......"[r]
-
-'So I think. If she had come to our world, there is no reason why I wouldn't fly to Tito's side at once[r].
-
-What's ......?"[l][r].
-
-"........." [l][r].
-
+"Actually, it might be possible," Kanazawa suddenly said.[l][r]
+"What makes you say that?"[l][r]
+"Even though I went through a lot of despair in that world, Yuri helped me bounce back. She's strong, and she has this strange kindness that sees through to the essence of things."[r]
+"I agree with that. But still..."[r]
+"So, if she came to this world, there's no reason she wouldn't rush to be by Chito's side."[l][r]
+"........."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I don't disagree with Kanazawa's opinion [r].
-
-I think that's a good thing. [l]And maybe Tito thinks similarly. [r]
-
-That's why I made such a wild hypothesis. [l][r]
-
+I couldn't completely disagree with Kanazawa.[r]
+Chito probably felt the same way, which is why she came up with that wild theory.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But if that's the case, we're out of options."[r]
-
-I think so. I don't think it will be possible to let Tito meet Yuri unless Yuri comes to our world."[l][r].
-
-Kanazawa said very indifferently. I was a little irritated. [l][r]
-
-[r]"You sound like an engineer."[r]
-
-Kanazawa mutters, as if to say, "That's ...... like we're both here." [l][r]
-
-No, I don't think I'm going to get along with this guy. I don't mind. [l][r]
-
+"But if that's the case, we're out of options."[r]
+"Yeah. Unless Yuri comes to this world, we can't reunite her with Chito."[l][r]
+Kanazawa spoke coldly, which annoyed me a little.[r]
+"That's a very engineer-like way to put it."[r]
+"Well..." Kanazawa muttered, implying we both spoke in a similar way.[l][r]
+I can't get along with this guy. Not that it matters.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[r]"...... still on the phone?" [r]
-
-Another voice arrived faintly from the other end of the phone. [l][r]
-
-"...... hey, excuse me."[r]
-
-Kanazawa said this and apparently covered the phone with his hand. Only [l]rustling and noise could be heard for a few seconds, and then [r]
-
-'I'm sorry ....... Let's continue our conversation," a low, strangely warm voice announced again. [l][r]
-
-[r]"Is that your wife?" [r]
-
-"...... yeah well. She's from that world too."[l][r].
-
-Is that so?"[r].
-
-Yes."[l][r].
-
+"...Still on the phone?"[r]
+From the other end, I heard a faint voice.[l][r]
+"Hold on a second."[r]
+Kanazawa covered the receiver, rustling sounds followed, then he spoke again, his voice low and oddly warm.[l][r]
+"Sorry about that. Let's continue talking."[r]
+"Your wife?"[r]
+"Yeah, she also came from that world."[r]
+"Is that so?"[r]
+"Yes."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I think that's what Tito said. [r]
-
-They said that the camera they had was the one they received from Kanazawa, and that there was a picture of a woman next to him who smiled at him in a friendly way. [l][r]
-
-[r]"So you've been reunited here with your companion over there. [r]
-
-......I see, so you have a basis and a real feeling for what you are saying."[l][r].
-
-I won't go that far." ...... but I am convinced that if Yuri is on our side of the world, he and Tito will always be reunited, no matter what. [r]
-
-......Selfishly."[l][r]
-
-"...... No, my bad. I agree."[r].
-
-I apologized for my impolite language. [l][r]
-
+I remember Chito mentioning it.[r]
+The camera they had was given by Kanazawa, and there was a photo of him and a woman smiling together.[l][r]
+"So you reunited with your partner from that world here."[r]
+"Yeah. I guess that gives my words some weight."[l][r]
+"I'm not saying that. But if Yuri is here, she will find Chito, no matter what.[r]
+It's just my opinion."[l][r]
+"No, you're right. I think so, too."[r]
+I apologized for my rudeness.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Both Kanazawa and his wife must have experienced the same feelings as Tito. [r]
-
-The pain that preceded me, the guilt that I survived. The loneliness of not seeing them. [l][r]
-
-[r]"Survivor's Guilt, or something like that."[r]
-
-They call it the suffering experienced by the survivors in disasters, etc. [l][r]
-
-It's odd because the dead side feels it, but perhaps it is."[l][r].
-
+Kanazawa and his wife probably went through the same feelings as Chito. The pain of losing someone, the survivor's guilt, the loneliness of being left behind.[r]
+"Survivor's guilt, they call it."[r]
+The term used for the guilt felt by those who survived a disaster.[l][r]
+"It's strange since it's the dead who should feel it, but yes, that's probably it."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-By putting it into words like that, I felt like I was getting my feelings straightened out. [l][r]
-
-
+Putting it into words made me feel like my emotions were more settled.[l][r]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m5_piano.ogg"  click="false"  ]
 [tb_start_text mode=3 ]
-What, I thought I was always worried about Tito, but actually I wasn't. [l][r]
-
-[r]"...... me, you, Tito, you're all thinking about her. ...... about that girl."[r][r
-
-"...... yes" [l][r].
-
-Kanazawa answered in a muffled voice. I, too, felt a tear roll down my cheek. [l][r]
-
+All this time, I thought I was just worried about Chito. But maybe that wasn't the case.[l][r]
+"We all care about her, don't we? Chito, you, me... all of us care about Yuri."[r]
+"Yeah."[l][r]
+Kanazawa answered in a muffled voice. I felt tears running down my cheeks.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"......Yuri is a good boy. ......Yuri is a good boy."[l][r]
-
-"............ yeah."[l][r]
-
-[r]I couldn't continue the conversation any further and ended the call, just telling them I would get back to them. [l][r]
-
+"She's a good girl... Yuri."[l][r]
+"...Yeah."[l][r]
+I couldn't continue the conversation, so I promised to contact him again and ended the call.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="i_room3.jpg"  ]
 [tb_start_text mode=3 ]
-A dark room of my own where I forgot to turn on the lights and air conditioning [r].
-
-looks like the site of that air force base. [r]
-
-I wish I were. [l][r]
-
-[r]And even now, alone in that world, enduring cold, hunger, and loneliness, I couldn't wait to meet the girl who might continue to face to face with despair. [l][r]
-
+My dark room, forgotten to turn on the lights and air conditioning, felt like that old air force base.[r]
+I wish it were so.[l][r]
+Thinking of the girl who might be facing despair alone in that world, I couldn't help but want to see her.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="2000"  method="crossfade"  storage="yoru3.jpg"  ]
 [tb_start_text mode=3 ]
-As I lay in bed I thought back to a conversation I had with Tito this afternoon when we parted ways. [l][r]
-
+Lying in bed, I remembered the conversation I had with Chito earlier that afternoon.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"You can't see the stars, can you?"[l][r].
-
-Tito said this as he looked up at the darkening sky. [l][r]
-
-[r]"Tokyo is bright even at night."[r]
-
-Yes."[l][r].
-
+"You can't see the stars here, can you?"[r]
+Chito said, looking up at the darkening sky.[l][r]
+"Tokyo is bright even at night."[r]
+"Yeah, that's true."[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I look at Tito's round cheeks. [r]
-
-The tear marks were still, still there. [l][r]
-
-We used to cry a lot for each other."[r]
-
-[l][r]"Yeah. That made me feel better."[l][r].
-
-[r]Chito laughs a little shyly. When I saw that, I thought to myself that it was still not like Tito. [l][r]
-
+I looked at Chito's round cheeks.[r]
+The traces of tears were still there.[l][r]
+"We cried a lot, didn't we?"[r]
+"Yeah, but I feel better now."[r]
+Chito smiled a little, embarrassed. I thought to myself that it didn't quite seem like her usual self.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="isiroom_2.jpg"  ]
 [tb_start_text mode=3 ]
-But now it's a little different. Maybe she's the kind of girl who inherently smiles like that. [l][r]
-
+But it felt a little different now. Maybe that's how she really is.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I couldn't imagine Tito without Yuri by his side. [r]
-
-Yuri believed that without Tito, Yuri would not be able to live. [l][r]
-
-...... I am the selfish one. [l][r]
-
+I couldn't imagine Chito without Yuri by her side.[r]
+I thought Yuri couldn't live without Chito.[l][r]
+I was the selfish one.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Even if Yuri was not there, Tito was still Tito. [r]
-
-That boy is also a strong boy. Perhaps even more than Yuri. [l][r]
-
-[r]And I, who was allowed to meet these girls, can't keep crying forever. [l][r]
-
+Even without Yuri, Chito is still Chito.[r]
+She's strong, maybe even stronger than Yuri.[l][r]
+And as someone who met those girls, I can't keep crying forever.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Let's cry over Yuri and that world just one more day tomorrow. [l][r]
-
-Then we'll see what we can do next. When I see Yuri again. So that we can all laugh together. [l][r]
-
+Tomorrow, I'll cry one more day for Yuri and that world.[l][r]
+Then, I'll think about what to do next. For when Yuri and I meet again, so we can all laugh together.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Yeah, I want to show Tito the starry sky [r].
-
-Na. [r]
-
-I will take you sometime, even to the mountains of Nagano, where I went on a business trip some time ago. [l][r]
-
-I want to see it sometimes, too. A starry sky as clear and as ready to fall as I have seen in that world. [l][r]
-
+Oh, I'd like to show Chito the starry sky one day.[r]
+Maybe I'll take her to the mountains in Nagano, a place I visited for work.[l][r]
+I want to see it too, a starry sky as clear as the one in that world.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -303,10 +192,8 @@ I want to see it sometimes, too. A starry sky as clear and as ready to fall as I
 [bg  time="2000"  method="crossfade"  storage="hosi.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Wrapped in a thin blanket, I draw starry skies behind my eyelids. [l][r]
-
-[r]As I counted those stars, deeper and deeper, my consciousness fell into sleep. [l][r]
-
+Wrapped in a thin blanket, I pictured the starry sky behind my eyelids.[l][r]
+Counting the stars, I slowly drifted into sleep.[l][r]
 [_tb_end_text]
 
 [cm  ]

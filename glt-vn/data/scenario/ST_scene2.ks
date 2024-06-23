@@ -5,97 +5,62 @@
 [bg  time="2000"  method="crossfade"  storage="Chitroom.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-'That would be ...... a pretty bad symptom,' says Ishii. [l][r]
-
-I replied ambiguously, "Hmmm. I wonder," I reply ambiguously. [l][r]
-
+"That's... really not good," said Ishii.[l][r]
+"I'm not so sure," I replied ambiguously.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"But even if I went to the hospital, there's no way to explain the cause."[r]
-
-"Well, yes, but ......" [l][r].
-
-I was lying on my bed in my room, enjoying a call with Ishii that had become completely habitual. [l][r]
-
-Are you okay?　Are you sleeping okay?　Yes, the test results are at ......."[r]
-
-It's okay."[l][r].
-
-I reply in a pain in the ass way, but I can't help but smile a little under my breath. I hope they don't know it's a phone call. [l][r]
-
+[r]"Even if I went to the hospital, there's no way to explain the cause."[r]
+"True, but..."[l][r]
+I was lying on my bed, enjoying what had become a routine call with Ishii.[l][r]
+"Are you okay? Are you sleeping well? And how about the test results..."[r]
+"I'm fine, really."[l][r]
+I replied, somewhat annoyed but with a small smile that couldn't be seen over the phone.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I feel bad for Ishii, but when he worries about me, he's just a little funny. [l][r]
-
-Not necessarily because of that, but I tried to talk to Ishii about all the things that are usually difficult to talk about with others, such as my loneliness, my guilt, and my physical and mental illnesses that may be caused by such things. [l][r]
-
-[r]I remember Kanazawa saying, "It's easier to be listened to than to have words spoken to you." [r]
-
-......These are words with real feeling. [l][r]
-
-In fact, I think it made me feel much better. Before I met Ishii, I was having a hard time standing up and sleeping without warning. [l][r]
-
+I feel a bit guilty, but I find it a little amusing when Ishii worries about me.[l][r]
+It's not just because of that, but I started sharing everything with Ishii—my loneliness, guilt, and all the things that usually bother me physically and mentally that are hard to talk about with others.[l][r]
+[r]"It's easier to feel better when someone listens to you than when they just talk to you," Kanazawa once said.[r]
+Wise words.[l][r]
+Thanks to Ishii, I feel like I've been much better lately. Before meeting Ishii, I sometimes couldn't stand up or sleep with no warning.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Yes, the last time we talked about this, we talked about going to Nagano."[l][r].
-
-[r]"Oh, and what did your parents say?" [r]
-
-He said it would be good if I got accepted to college."[l][r].
-
-'Well, I guess you're right. I need a couple of nights. ......"[r]
-
-I wish I could have gone."[l][r].
-
-You can do it. The exam should be a piece of cake for you, right?" [r]
-
-I didn't, I wanted to go right away [r]."
-
-Yo" [l][r].
-
-I'm glad you're looking forward to it so much."[l][r].
-
-Ishii says in a really happy voice. He's so cute. [l][r]
-
-I remember when I was building airplanes[r].
-
-Whenever I am absorbed in something, I become so absorbed that I can't see anything else, and I can't hide my feelings. [l][r]
-
+"By the way, about that trip to Nagano we talked about..."[l][r]
+"Oh, what did your parents say?"[r]
+"They said it’s fine if I get into college."[l][r]
+"Yeah, that makes sense. We'll need about two nights..."[r]
+"I really wanted to go."[l][r]
+"You'll get to go. For you, the entrance exams will be a piece of cake, right?"[r]
+"That's not it. I wanted to go right away."[r]
+"It's great to know you're that excited; it makes me happy."[l][r]
+Ishii’s voice sounded genuinely pleased. He really is cute.[l][r]
+When he was building the airplane, he was so absorbed that he couldn't see anything else around him.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
 
-I mean, that's how much Ishii cares about me. And also about u. [l][r]
-
+In other words, Ishii really cares about me. And about Yuu as well.[l][r]
 [_tb_end_text]
 
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-[r]I'm glad. [l][r]
-
-I don't know how far away Yu and I are now, but if Ishii is with us, it means we can be in the same place then. [l][r]
-
-Who said, "Thoughts are faster than light." [l][r]
-
-To be honest, I think that is just idealism. Still, the feeling of being happy is true. [l][r]
-
-I'm sure that guy would take good care of that feeling. [l][r]
-
+[r]I'm happy.[l][r]
+I don't know how far apart Yuu and I are right now, but if Ishii is thinking about us together, it means we're in the same place at that moment.[l][r]
+Who said it again? "Thoughts travel faster than light." That’s what they said.[r]
+Honestly, I think that's just idealism. Even so, the feeling of happiness is genuine.[l][r]
+Knowing him, he'll treasure that feeling.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Ah ....... [l][r]
-
-I found a small stain on the wall by my bed. That stain moved. It wasn't a ...... bug or something. It's that thing. [l][r]
-
+Oh...[l][r]
+I noticed a small stain on the wall next to my bed. The stain moved... It’s that thing again.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -103,13 +68,11 @@ I found a small stain on the wall by my bed. That stain moved. It wasn't a .....
 
 [bg  time="1500"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_start_text mode=3 ]
-You are so annoying. ...... Please don't interrupt this fun time. [l][r]
-
+What a bother... I wish it wouldn't interrupt such a pleasant moment.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-What's wrong?" Ishii's voice rings in my ear. [r]
-
+"Is something wrong?" Ishii's voice echoed in my ear.[r]
 
 [_tb_end_text]
 
@@ -117,13 +80,10 @@ What's wrong?" Ishii's voice rings in my ear. [r]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="ST_scene2.ks" size="20" text="It's nothing. ..............." target="*no" x="24" y="400" width="" height="" _clickable_img="" ]
-
-[glink color="black" storage="ST_scene2.ks" size="20" text="That 'Moya' is out ......" target="*yes" x="24" y="450" width="" height="" _clickable_img="" ]
-
+[glink  color="black"  storage="ST_scene2.ks"  size="20"  text="“It’s nothing...”"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="ST_scene2.ks"  size="20"  text="“That ‘mist’ is back...”"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage="ST_scene2.ks"  target="*CS3Stop"  cond="sf.CS3!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
-
+[glink  color="black"  storage=""  size="20"  text="Skip to the next choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS3Stop
 
 [s  ]
@@ -133,32 +93,22 @@ What's wrong?" Ishii's voice rings in my ear. [r]
 [tb_eval  exp="sf.CS3=1"  name="CS3"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-"I'm ...... that 'moya' again. ......"[l][r].
-
-What?" ...... now?" Ishii says in a surprised voice. [l][r]
-
-'Yeah ....... Sorry Ishii. I'm still okay, but if you leave it alone it will bother me later, so I'm going to hang up the ...... phone now."[l][r].
-
-I'm fine with that. More importantly, are you okay with ......?" [r]
-
-'Yeah, I'm used to it. Okay then."[l][r].
-
-[cm]I said that and ended the call. The "moya" seemed to waver a little louder than usual. [l][r]
-
-'Are you happy?　...... weird guy" [l][r].
-
+"That 'mist' is back again..."[l][r]
+"What?... Right now?" Ishii sounded surprised.[l][r]
+"Yeah... Sorry Ishii. I'm okay, but if I leave it, it'll get annoying later... I have to hang up now."[l][r]
+"Of course, don't worry about it. Are you alright?"[r]
+"Yeah, I'm used to it by now. Talk to you later."[l][r]
+[cm]I ended the call as I said that. The "mist" seemed to be stirring a bit more than usual.[l][r]
+"Is it happy? What a weird thing."[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-When I called out to her, "Moya" came right up to me. Like a puppy or something begging to be petted on the head. [l][r]
-
-[r]I let out a light sigh, close my eyes and hold it in front of me on my chest. [l][r]
-
-...... feeling a sense of disappointment and a somewhat nostalgic feeling at the same time. [l][r]
-
+As I spoke those words, the "mist" came up to me like a puppy begging to be petted.[l][r]
+[r]I sighed softly and closed my eyes, holding it close to my chest.[l][r]
+...Feeling a mix of exasperation and a strange sense of nostalgia.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -168,19 +118,15 @@ When I called out to her, "Moya" came right up to me. Like a puppy or something 
 *no
 
 [tb_start_text mode=3 ]
-'...... it's nothing. By the way, there's some math I need you to teach me. ......"[l][r].
-
-I dare to talk about my weakest subject and pass over that "moya". [l][r]
-
+"...It's nothing. By the way, there's something in math I need help with..."[l][r]
+I intentionally brought up a subject I wasn’t good at, distracting myself from the "mist".[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_start_text mode=3 ]
-...... Don't look at me like that. [l][r]
-
-I'll make sure to comfort you when the call is over. [l][r]
-
+...Don't look at me like that.[l][r]
+I'll comfort you once the call is over.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

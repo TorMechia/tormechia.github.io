@@ -8,107 +8,69 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m0_piano.ogg"  ]
 [tb_start_text mode=3 ]
-Hey, u."[l][r].
-
+“Hey, Yuu...”[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[l][r]"What is it?" [l][r]
-
-Chi-chan opened her mouth on my lap, looking vaguely at the moon. [l][r]
-
-[r]"You know, this world here. It's convenient."[l][r].
-
-[r] "Yes. We don't have to worry about food, clothes, baths, or even living."[r].
-
-Yeah. I know. But."[l][r].
-
-[r]Chi-chan said that and stirred up the sake. Her face was already pouty and red. [l][r]
-
+“What is it?”[l][r]
+Chi is sitting on my lap, staring at the moon absentmindedly, and begins to speak.[l][r]
+[r]“This world is pretty convenient, isn’t it?”[l][r]
+“Yeah. We have food, clothes, baths—life isn’t too hard.”[l][r]
+“Right. But...”[l][r]
+Chi says this and takes a swig of her drink. Her face is already flushed red.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'It's fun to study and work part-time, but you know. You lose track of a lot of things when there are so many people."[l][r].
-
-"...... I guess so."[l][r]
-
-Every day. I try so hard to live and live, but nothing comes back to me in return."[l][r].
-
+“Studying and working part-time can be fun, but when there are so many people, it's easy to get lost in everything.”[l][r]
+“...Yeah, I get that.”[l][r]
+“Every day, we try so hard to live, just to survive, but it feels like we get nothing in return.”[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="CanPeki.ogg"  ]
 [tb_start_text mode=3 ]
-The sound of a can crushing with a snap. [l][r]
+The sound of a can being crushed.[l][r]
 
-
-[r]"I'd rather just lose it. I'm losing nothing."[l][r] "I'm losing nothing."[l][r] "I'm losing nothing.
-
-"...... un" [l][r].
-
-I just want to forget everything."[l][r]
-
-"...... un" [l][r].
-
-"............ Hmmm, funny me."[l][r].
-
+[r]“Instead, it feels like we keep losing things, until we have nothing left.”[l][r]
+“...Yeah.”[l][r]
+“Sometimes, I just want to forget everything.”[l][r]
+“...Yeah.”[l][r]
+“...Heh, I must sound silly.”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan chuckled as she took the last sip of her beer. It was too dark to see clearly, but there were several beer cans lying around Chi-chan. Maybe she was trying to force herself to sleep and drank alcohol. [l][r]
-
-[r]Chi-chan crushes the empty can and throws it plop into the room and says. [l][r]
-
+Chi chuckles bitterly and finishes her drink. Although it’s dark and I can’t see well, I notice several beer cans scattered around her. Maybe she’s been drinking to force herself to sleep.[l][r]
+[r]She crushes the empty can and tosses it aside, speaking again.[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="can_t.ogg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"Oh, it's a pain in the ass, isn't it? It's a pain in the ass, this world."[l][r].
-
-Empty eyes stared blankly at the full moon. I thought that Chi-chan's soul might be sucked into the moon, so I hugged her from behind[r].
-
- [l][r]
-
-[r]"...... I guess so. Is it tight?"[l][r]"I don't know.
-
-[r]Chi-chan says, "Right." I glance at Chi-chan's face right next to me; there are shadows under her eyes. I wonder if she hasn't slept much. [l][r]
-
+“Ahh, this world is such a pain.”[l][r]
+Her vacant eyes stare blankly at the full moon. I wrap my arms around her from behind, worried that her soul might drift up to the moon.[l][r]
+[r]“...Yeah. It feels pretty suffocating.”[l][r]
+[r]“Right?” Chi says, turning her tired eyes to me. She has dark circles under her eyes—she must not be sleeping well.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Hey yu."[l][r].
-
-[l][r]"What is it?" [l][r]
-
-"Let's just go somewhere and have fun.
-
-I?" [r]
-
-Now?" [l][r]
-
-Yeah. Come to think of it, I've never done nightlife before."[l][r].
-
+“Hey, Yuu...”[l][r]
+“What is it?”[l][r]
+“Let's go do something fun.”[l][r]
+“Right now?”[l][r]
+“Yeah. You know, we’ve never really gone out at night.”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan smiles hehehe. That smile looks incredibly painful, and you can tell that she wants to get as comfortable as possible[r].
-
-I am sure that [l]he would not have said this or thought this. [l]I am sure that the previous Chi-chan would not have said or thought this. [l][r]
-
-But I won't say I don't like it. If I said it, Chi-chan would break. I have always thought about how to prevent it from breaking. [l][r]
-
-[r]There is only one thing I can do. [l][r]
-
-'Great. Let's go."[l][r].
-
- [l][r]
-
+Chi smiles weakly, her expression hinting at a desire to escape even just a little. She wouldn't have said or thought of such a thing before.[l][r]
+But I can’t say no. I’ve always tried to think of ways to keep her from breaking.[l][r]
+[r]There’s only one thing I can do.[l][r]
+“Sounds good. Let’s go.”[l][r]
+[r]I have to fulfill as many of Chi's wishes as I can.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -120,121 +82,72 @@ But I won't say I don't like it. If I said it, Chi-chan would break. I have alwa
 [wait  time="3000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Midnight. We left home and took the last train to the downtown area. Even though it was already past midnight, there were people everywhere. [A scene that would be unthinkable on the other side of the world. Glittering neon lights, people calling out to stores, drunks making noise, drunks sleeping on the street. [l][r]
-
-Even though it was nighttime, the city was ridiculously busy. The first time I came downtown late at night, it was much livelier than it was during the day, and yet it was a mess. [l][r]
-
+Late night. We leave the house and go to the nightlife district on the last train. Despite it being past midnight, the streets are swarming with people.[l]It’s a scene unimaginable in our old world. Blinding neon lights, shop promoters, rowdy drunks—some even passed out on the road.[l][r]
+The city is incredibly lively at night, even more so than during the day. It’s chaotic, but in a strangely fun way. We’re quickly enveloped by the atmosphere.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But it was strangely enjoyable, and we were quickly swallowed up by the atmosphere. [l][r]
-
-It's kind of amazing."[l][r].
-
-"Yeah."[r].
-
-Everybody's playing."[l][r].
-
-Like an idiot."[r].
-
-...... us, let's play, too."[l][r].
-
-"...... hehe. Yeah."[l][r].
-
+Everywhere you look, people are having fun.[l][r]
+“Wow, it’s amazing.”[l][r]
+“Yeah.”[r]
+“Everyone’s out enjoying themselves.”[l][r]
+“They’re acting like fools, really.”[r]
+“...Shall we join them?”[l][r]
+“...Heh, okay.”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="yoru3.jpg"  ]
 [tb_start_text mode=3 ]
-We played around. At first, to get used to the atmosphere, we went into an all-you-can-drink karaoke bar and drank anyway. [l][r]
-
-[hehehe, yuuuuu!!! [l][r]
-
-[wow, chi-chan. [r]
-
-Here comes the song!" [l][r]
-
-'Ah, hehe, I'll let you hear my beautiful voice!' [l][r]
-
-[l][r]"Yippee!" [l][r]
-
-'Hey, what the hell, it's not grading, yoo this is broken' [l][r].
-
-'Haha, chi-chan, the microphone is not switched on!' [l][r]
-
-[l]"True, ah ha ha!" [l][r]
-
-Heh heh heh, ha ha ha!" [l][r]
-
+We went wild. We entered an all-you-can-drink karaoke place to get used to the vibe and drank a lot.[l][r]
+“Hehehe, Yuu!”[l][r]
+“Whoa, Chi. The song's about to start!”[l][r]
+“Ahaha, I'll show you my amazing voice!”[l][r]
+“Yay!”[l][r]
+“Wait, why isn’t it scoring? Yuu, this machine is broken!”[l][r]
+“Haha, Chi, you didn't turn on the mic!”[l][r]
+“Oh, you’re right, haha!”[l][r]
+“Lol, haha!”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I want to forget. Anyway, everything. With this thought in mind, we enter the izakaya without any second thoughts. [l][r]
+We wanted to forget everything, even if just for a while. So, without thinking ahead, we went to a bar.[l][r]
 
-
-[r]"Ha ha ha, u drink this drink, it will only burn your throat!" [l][r]
-
-[r] "Which one is ......, ah, ah, kefu, this is great chi-chan! [r]
-
-Fuel, fuel!" [l][r]
-
-Really!　Or run into a vehicle!" [l][r]
-
-[r]eally we make a fuss. We order the harshest drinks we've ever had, and we drink them in a frenzy. The snacks are all delicious. [l][r]
-
+[r]“Haha, Yuu, try this drink—it burns!”[l][r]
+“Lemme see... Ouch, it’s like fuel, Chi!”[l][r]
+“Right? Feels like we could run a car on this!”[l][r]
+[r]We made noise, ordering strong drinks we’d never had before, and kept drinking. One drink, two drinks, three drinks. Everything tasted good, the snacks too.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Upp, ugh.'[l][r].
-
-Chi-chan, ah chi-chan mi-chan mi-chan too much, uppu."[l][r].
-
-
-
-"Chi-chan ...... morning sickness, ooey gooey."[l][r]
-
-[r][r]I threw up a lot. [l][r]
-
-[r]"U, p, next time, tsugii!" [l][r]
-
-[l][r][r]yes! [l][r]
-
+“Ugh, bleh.”[l][r]
+“Chi, you drank too much, ugh.”[l][r]
+“Blurgh, haha, Yuu, you’re puking too, haha, bleh.”[l][r]
+“We puked a lot.[l][r]
+[r]“Ugh, let’s go to the next place.”[l][r]
+“Alright!”[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Anyway, I tried to forget. [l][r]
-
-The Now that is about to break. [l][r]
+[r]We just wanted to forget. Forget everything, for now.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="gamecen.jpg"  ]
 [tb_start_text mode=3 ]
-[r] "Okay, I got you. [r]
+“Got it! Just a bit more... Ah, come on! Yuu, this crane game is rigged! I can’t get anything!”[l][r]
+[r]Chi is glued to the glass of the crane game, complaining. Her squished cheeks look funny from the side.[l][r]
 
-A little more ...... ahhh! [r]
+“Chi, you’re not very good at this.”[r]
+“It’s the machine’s fault, not mine!”[l][r]
 
-Hey u, this crane rip-off [r].
-
-It is!　I can't get it at all!" [l][r]
-
-[r]Chi-chan gets angry when she sticks to the glass of the crane game. From the side, his cheeks stuck together and looked funny. [l][r]
-
-
-Chi-chan heda na na na."[r].
-
-What are you doing?　It's the machine, I swear!" [l][r]
-
-
-Chi-chan protests, turning her head to me and turning red in the face. Then she seems to find something and looks behind me. [l][r]
-
-[r]"Oh, what's that... uh, shooting game."[l][r]
-
+Chi turns to argue, her face red, but then she spots something behind me.[l][r]
+[r]“Oh, what’s that... Oh, it’s a shooting game.”[l][r]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -243,36 +156,23 @@ Chi-chan protests, turning her head to me and turning red in the face. Then she 
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="3"  wait="true"  ]
 [tb_start_text mode=3 ]
- [l][r]
-
-[r]"You used to tell me, 'You're a bad shot,' or something like that. ....... Alright then, I'll show you what I'm really capable of."[l][r] "I'll show you what I'm really capable of."[l][r]"I'll show you what I'm really capable of.
-
-After saying so, Chi-chan puts in the money and starts the game. [l][r]
-
-[r]A target pops up on the screen, but Chi-chan shoots in the wrong direction. [l][r]
-
-'Oh, you just hit it!' [l][r]
-
-'Chi-chan, I'm coming next.'[l][r].
-
-[l]"Watch it, you a-hole!" [l][r]
-
+A chill runs down my spine.[l][r]
+[r]“Remember when you said I sucked? Now I’ll show you my real skills.”[l][r]
+Chi inserts coins and starts the game.[l][r]
+[r]Targets pop up on the screen, but Chi’s shots keep missing.[l][r]
+“Hey, I hit that!”[l][r]
+“Chi, another one’s coming.”[l][r]
+“Watch this!!”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan shoots at flying targets. All of them hit the target in the wrong direction and score. [l][r]
-
-[r]"Haha, look at u!　Manmaru, they said you got a zero!" [l][r]
-
-Hahaha, uke!"[l][r].
-
-'Look, Yu, you try it, it's good, it's good, it's good.'[l][r].
-
-[r]Then Chi-chan tries to hand me the gun. [r]
-
-I stare at it for a while. [l][r]
-
+Bang, bang—Chi keeps missing the targets. Her score reflects that.[l][r]
+[r]“Hahaha, Yuu, look at this! A perfect zero!”[l][r]
+“LOL, that’s hilarious.”[l][r]
+“Here, Yuu, you try. You’re better at this.”[l][r]
+[r]Chi tries to hand me the gun.[r]
+I look at it for a moment.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -280,16 +180,14 @@ I stare at it for a while. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="4"  wait="true"  ]
 [tb_start_text mode=3 ]
-Heart beats faster. Stomach churning. My head is spinning. [l][r]
-
+My heartbeat quickens. My stomach churns. My head spins.[l][r]
 
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="5"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]Trigger, gunshot. Dark, dark world. [l][r]
-
+[r]Trigger, gunshot. A dark, dark world.[l][r]
 
 [_tb_end_text]
 
@@ -297,8 +195,7 @@ Heart beats faster. Stomach churning. My head is spinning. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="3"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]Just a moment of solitude, fear. [l][r]
-
+[r]A fleeting moment of loneliness and fear.[l][r]
 
 [_tb_end_text]
 
@@ -306,22 +203,15 @@ Heart beats faster. Stomach churning. My head is spinning. [l][r]
 [playse  volume="100"  time="1000"  buf="0"  storage="hito_ge_sinzou.ogg"  ]
 [quake  time="100"  count="2"  hmax="6"  wait="true"  ]
 [tb_start_text mode=3 ]
-[r]I was almost dizzy. But no. If I collapse ...... in front of Chi-chan. [l][r]
-
-It makes me worry more. [l][r]
-
+[r]I feel dizzy. But I can’t, not in front of Chi... If I collapse, it will worry her even more.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"I'm sorry, ......, Chi-chan. I'll pass."[l][r].
-
-[r]I reply with a smile as best I can. [r]
-
-I hope it's okay, I hope I'm fooling around properly. [l][r]
-
-Chi-chan looked a little strange. But she immediately smiled and fell into me as if a thread had been broken. [l][r]
-
+“...Sorry, Chi. I’ll pass on this one.”[l][r]
+[r]I force a smile.[r]
+Am I fooling her?[l][r]
+Chi looks a bit puzzled but then smiles warmly and leans against me as if a string binding her was cut.[l][r]
 
 [_tb_end_text]
 
@@ -330,22 +220,16 @@ Chi-chan looked a little strange. But she immediately smiled and fell into me as
 [bg  time="1000"  method="crossfade"  storage="gamecen2.jpg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-Wah, chi-chan."[l][r].
-
-"...... hehe, yu ......" [l][r].
-
-[r]He grabbed my arm weakly and Chi-chan fell asleep. I guess I was tired after drinking so much and making so much noise. Good thing I have a constitution strong enough to drink. [l][r]
-
-[Chi-chan is sleeping soundly and comfortably. I gently stroke her head. [l]I was so happy in that moment that I could truly forget everything. [l][r]
-
-[r][r]Ahhhh. [l][r]
-
+“Whoa, Chi.”[l][r]
+“...Hehe, Yuu...”[l][r]
+[r]Chi’s grip on my arm weakens as she drifts off to sleep. After all that drinking and partying, she must be exhausted. I’m glad I can handle my liquor.[l][r]
+[cm]Chi snores softly, her breathing steady. I gently stroke her head.[l]In this moment, I feel incredibly happy, capable of forgetting everything.[l][r]
+[r]Ah, really...[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]I really wish I could just stay like this forever and forget everything. [l][r]
-
+[r]I wish I could stay like this forever, forgetting all the worries.[l][r]
 [_tb_end_text]
 
 [cm  ]

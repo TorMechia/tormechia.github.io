@@ -8,74 +8,55 @@
 [bg  time="2000"  method="crossfade"  storage="fgd.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I am happy. [l][r]
-
-My parents are a little nagging but kind, and school is a little boring but not uncomfortable. [l][r]
-
-I think the activities of the library committee are suited to me, and I enjoy talking with my book-loving friends. [l][r]
-
+I'm happy.[l][r]
+My parents are a bit strict but kind, and school is a bit boring but comfortable enough.[l][r]
+I feel that the library committee activities suit me and talking to my book-loving friends is enjoyable.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-
-
-No fear of collapsing buildings, no shivering in the cold waiting for morning. [l][r]
-
+[r]I don't have to worry about daily meals, melting snow for water, fearing collapsing buildings, or shivering in the cold while waiting for morning.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-
-
-You must miss ....... [l][r]
-
+[r]Why am I so happy, so privileged, yet... why do I feel so...[l][r]
+...lonely?[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Even .........[l][r].
-
+...because...[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[R]eally, I know. I don't need to think about this stuff. [l][r]
-
+[r]I know. I shouldn't be thinking like this.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]...... but...[l][r].
-
+[r]...But...[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Something inside me is crying out. [l][r]
-
+[r]Something inside me is crying out.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-That "misty" something, light gray in color, appears before my eyes, sometimes periodically, sometimes unexpectedly. [l][r]
-
-When it gets so big that I can no longer ignore it, I reach for it, wanting to stop thinking about unnecessary things. [l][r]
-
-[r]It's okay. [r]
-
-I know. [r]
-
-Don't cry. [l][r]
-
+That gray, mist-like thing appears in front of me, sometimes periodically, sometimes suddenly.[l][r]
+When it gets too big to ignore, I reach out to it, desperate to stop thinking about unnecessary things.[l][r]
+[r]It's okay.[r]
+I understand.[r]
+Don't cry.[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="moya120.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[r]Hold Moya's head and stroke it. [l][r]
-
-The haze thickens, changes shape, and eventually becomes clearly visible. [l][r]
-
+[r]I cradle the mist's head, stroking it.[l][r]
+The mist thickens, shifts its shape, and eventually reveals a clear form.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -83,58 +64,37 @@ The haze thickens, changes shape, and eventually becomes clearly visible. [l][r]
 [bg  time="2500"  method="crossfade"  storage="zetu1.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-A small child. [r]
-
-I was a little ...... girl in that world, dressed in dingy clothes that looked like they were just rags. [l][r]
-
+A small child's form.[r]
+Wearing dirty, tattered clothes, resembling my younger self from that world.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-What's wrong?" I ask. [l][r]
-
-'I'll miss you ......,' I reply. [l][r]
-
-'It's all right,' I comfort. [l][r]
-
-I'm not fine. ......] [l][r]
-
-But, you know, I don't have a choice."[l][r].
-
-"No. ......" [l][r].
-
-[r]I will not [r]listen to my words.
-
-He does not cry, nor does he try to hold back his tears. [l][r]
-
+"What's wrong?" I ask.[l][r]
+"I'm lonely..." she answers.[l][r]
+"It's okay," I comfort her.[l][r]
+"It's not okay..." she whines.[l][r]
+"But, you know, it's inevitable."[l][r]
+"No, it isn't..."[l][r]
+[r]She refuses to listen to my words,[r]
+or to stop crying.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [quake  time="600"  count="10"  hmax="3"  wait="false"  ]
 [tb_start_text mode=3 ]
-Aiitai ......Aiitai yo! ......[r]
-
-You. ...... you! [r]
-
-...... Where are you? ...... Where are you!　 [l][r]
-
-I try to cover my ears as I hold my head. [l][r]
-
-Still my voice crying out unreservedly [r].
-
-shakes my eardrums and makes me tremble. [l][r]
-
+"I want to see you... I want to see you!...[r]
+Yu... Yuu![r]
+...Where are you? ...Where are you!? Waaargh!!!"[l][r]
+I hold my head and try to block my ears.[l][r]
+But my crying, screaming voice[r]
+shakes my eardrums and my whole being.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I'm going to crack my head open. [l][r]
-
-It's going to rip my heart out. [l][r]
-
-Stop screaming. Stop crying. [l][r]
-
-I continue to hold me as if in prayer, wishing only for that. [l][r]
-
+[r]My head feels like it's about to split.[l][r]
+My heart feels like it's about to tear apart.[l][r]
+Stop screaming. Stop crying.<br>I wish for nothing else as I hug myself desperately.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -142,18 +102,15 @@ I continue to hold me as if in prayer, wishing only for that. [l][r]
 [bg  time="2000"  method="crossfade"  storage="moya50.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Eventually, perhaps tired of crying, my figure fizzles out, returning to its original "moya". [l][r]
-
+Eventually, exhausted from crying, her form returns to the original mist and dissipates.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-...... How many times has this happened? [l][r]
-
-Swearing that nothing had to come out late at night before a test, I shook my heavy head and began the futile effort to get back to sleep. [l][r]
-
+...How many times has this happened now?[l][r]
+Thinking it shouldn't disrupt my sleep before a test, I shake my heavy head and futilely attempt to fall back asleep.[l][r]
 [_tb_end_text]
 
 [cm  ]

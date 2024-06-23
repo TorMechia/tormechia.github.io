@@ -7,12 +7,8 @@
 [bg  time="2000"  method="crossfade"  storage="stationjpg.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I thought Kanazawa-kun was very chic. [l][r]
-
-Tito and I had already arrived at the rendezvous point and [r].
-
-They were waiting for Mr. and Mrs. Kanazawa. They had been informed that they would be arriving soon, so they stood side by side in a prominent place. [l][r]
-
+Kanazawa is really thoughtful.[l][r]
+Chito and I had already arrived at the designated meeting place and were waiting for the Kanazawas. We had been notified they would arrive soon, so we stood together in a prominent spot.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -20,85 +16,52 @@ They were waiting for Mr. and Mrs. Kanazawa. They had been informed that they wo
 [bg  time="3000"  method="crossfade"  storage="date.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I wonder what it looks like to those around us, us. [r]
-
-Are they sisters, separated in age?　I don't want people to think they are parents and children, but at least they don't look like a couple of ordinary friends. [l][r]
-
-In fact, our relationship is strange, on second thought. Friends?　Comrades?　None of the above. [l][r]
-
-...... warriors?　No, wait. It may seem close, but it's not at all. ...... [l][r]
-
+I wonder how we look to others around us?[r]
+Sisters with an age gap? I hope we don't look like a parent and child, but we probably don't look like just friends either.[l][r]
+To be honest, even when I think about our relationship, it's odd. Friends? Comrades? It doesn't seem right.[l][r]
+...Battle buddies? No, that's close but not quite right...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l]"Ishii, do you have a stomach ache?" [l][r]
-
-'No, not at all. ...... why would you ask that?" [l][r]
-
-He seems kind of restless."[l][r].
-
-"Does it look that way to you?" [r]
-
-Yeah."[l][r].
-
-Tito nodded as if it was only natural. Then I must not be calm. At any rate, I took a light breath and relaxed my shoulders. [l][r]
-
-[r]"Do you want a drink if you want?" [l][r]
-
-Tito offered me the water bottle he was carrying and said so. ...... a water bottle that was a little too brash and practical for a girl of this age to carry. [l][r]
-
-Thank you. Tea?" [r]
-
-'Tap Water. Uncalcified" [l][r].
-
-"I'll take ......."[r]
-
-Yes."[l][r].
-
+"Isii, does your stomach hurt?"[l][r]
+"No, not at all. Why do you ask?"[l][r]
+"Because you seem uneasy."[l][r]
+"Do I?"[r]
+"Yeah."[l][r]
+Chito nodded as if it were obvious. So, I must seem uneasy. I took a light breath and relaxed my shoulders.[l][r]
+"Would you like a drink?"[l][r]
+Chito offered me her canteen. It looked too rugged and practical for a girl her age.[l][r]
+"Thanks. Is it tea?"[r]
+"Tap water. De-chlorinated."[l][r]
+"...I'll have some."[r]
+"Here you go."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I drank the water Chito gave me, thanked him and handed back the water bottle. Chito took a sip himself as he did, smiled lightly and put the lid back on. [l][r]
+I took a drink from Chito's canteen and thanked her, then handed it back. She took a sip herself, smiled gently, and closed the cap.[l][r]
+"You look like you're having fun."[r]
+"Yeah, I'm having fun. Also, I'm looking forward to it."[l][r]
+"The Kettenkrad?"[r]
+"I might cry when I see it."[l][r]
+"...It's okay to cry."[r]
+"Yeah."[l][r]
 
-Sounds like fun."[r]
-
-'Yeah, it's fun. And I'm looking forward to it."[l][r].
-
-[l]"Kettenkrath?" [l][r]
-
-I might cry if I saw it."[l][r].
-
-"...... you can cry if you want."[l][r]
-
-Yes."[l][r].
-
-
-[r]Strange conversation. But I find it fun [r] too.
-
-I had a feeling of being in the middle of a storm. I haven't had this feeling in a long time. [l][r]
-
-It was just like the days when the three of us were recklessly building airplanes at that base. Yuri is not even there. [l][r]
-
+It's a weird conversation. But I felt happy too. This feeling is rare for me.[r]
+It reminds me of the time when the three of us were recklessly making that airplane at the base, even though Yuuri isn't here.[l][r]
 [_tb_end_text]
 
 *Jump
 
-[bg time="0" method="crossfade" storage="date.jpg"]
-
+[bg  time="0"  method="crossfade"  storage="date.jpg"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-'Yes, Tito,' I said, dropping my voice a little and pulling my head closer to Tito's. [r]
-
-"Is the 'Moya' in the ...... example safe today?" And. [l][r]
-
-[l][r]"Yeah. I left this morning, but I comforted him well."[l][r].
-
-I was going to say, "Hey ...... why didn't you say that ......" earlier. But [r].
-
-[l]"It's all right," Tito assures her, as if nothing had happened. [l][r]
-
+"Hey, Chito," I lowered my voice and leaned in closer to her.[r]
+"...Is that 'fog' going to be okay today?"[l][r]
+"Yeah. It appeared again this morning, but I comforted it."[l][r]
+"Why didn't you tell me sooner?" I wanted to say, but,[r]
+"It's fine," Chito said resolutely, as if it was nothing.[l][r]
 
 [_tb_end_text]
 
@@ -106,13 +69,10 @@ I was going to say, "Hey ...... why didn't you say that ......" earlier. But [r]
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink color="black" storage="ST_scene4.ks" size="20" text="Admonish Tito" target="*no" x="24" y="400" width="" height="" _clickable_img=""]
-
-[glink color="black" storage="ST_scene4.ks" size="20" text="Do not admonish Tito" target="*yes" x="24" y="450" width="" height="" _clickable_img=""]
-
+[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="Reprimand Chito"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="Don't Reprimand Chito"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage=""  target="*CS4Stop"  cond="sf.CS4!=1"  ]
-[glink color="black" storage="" size="20" text="Skip to next option" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
-
+[glink  color="black"  storage=""  size="20"  text="Skip to the next choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS4Stop
 
 [s  ]
@@ -121,54 +81,35 @@ I was going to say, "Hey ...... why didn't you say that ......" earlier. But [r]
 [tb_eval  exp="sf.CS4=1"  name="CS4"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
 [tb_eval  exp="f.CP+=1"  name="CP"  cmd="+="  op="t"  val="1"  val_2="undefined"  ]
 [tb_start_text mode=3 ]
-How is that possible? I think you're holding yourself back. [l] If you keep doing that, ...... someday ....... [l][r]
-
-I wanted to say that. [l][r]
-
-I couldn't say ....... [l][r]
-
-Because there is no way that this clever girl is unaware of such a degree. [l][r]
-
+There’s no way that's true. Are you suppressing your own emotions? If you keep doing that... one day...[l] 
+I wanted to say that.[l][r]
+...But I couldn’t.[l][r]
+Clearly, this smart girl knew all too well already.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I kept quiet and lightly shook Tito's hand. [l][r]
-
-[............ ishii?" [r]
-
-I'm going to go to ...... and see what I can find out. If that's what you want to do, that's fine. [l]...... Just let me know if you need to vent or if you need to cry."[l][r].
-
-Yes, I do. I do. [r]
-
-Thank you ......."[r]
-
-Tito said and shook my hand back. [l][r]
-
+I silently squeezed Chito's hand lightly.[l][r]
+"...Isii?"[r]
+"...If that's how you want it to be, then it's fine.[l]...But if you ever need to let something out or if you want to cry, you can tell me."[l][r]
+"Yeah, I will.[r]
+...Thank you."[r]
+Chito said that and squeezed my hand back.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-'Well, can I discuss one thing with you right away?' [r]
-
-[l][r]"What is it?" [l][r]
-
-My eyesight seems to be slipping lately. Which do you think is better, glasses or contacts?
-
-U?" [r]
-
-"E" [l][r].
-
+"Can I ask you for one favor then?"[r]
+"What is it?"[l][r]
+"My eyesight has been getting worse lately. What do you think is better, glasses or contacts?"[r]
+"Huh?"[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Tito gave me a serious look when I would have looked dumb, wondering why he was suddenly doing that again. [l][r]
-
-It was a further milestone, and in a way that completely exploited my stiffening, Chito quickly reached out with both hands and took the glasses from my face. [l][r]
-
-Oh, hey. What?" [l][r]
-
+I must have made a silly face, confused by Chito’s sudden question. She looked at me seriously.[l][r]
+With that as a prelude, she swiftly reached out and took my glasses.[l][r]
+"Hey, what are you doing?"[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -177,50 +118,33 @@ Oh, hey. What?" [l][r]
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-[l][r]"Does ...... suit you?" [l][r]
-
-I don't want to be looked up at with big, square glasses that are disproportionate to my small face. [l][r]
-
-I was beaten. I was completely defeated. I can only laugh. [l][r]
-
+"...Do they suit me?"[l][r]
+Seeing her wearing these oversized square glasses doesn't really do her petite face justice.[l][r]
+I was completely caught off guard. I could only laugh.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="stationjpg.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"Ha ha ha ha ......" [l][r].
-
-"What?　Doesn't that look good on you?" [l][r]
-
-Oh, not at all. Give me back ....... Mine are too big for you," I say with a laugh, and take the glasses back. [l][r]
-
-I thought it was nice."[r]
-
-'You choose properly at the store. Totally ...... like ...... Yuri."[l][r].
-
-"E" [r].
-
-You're starting to look a lot like Yuri these days," I said, with a sneer and a show of retribution. [l][r]
-
-"Yeah ...... that's ......" [r].
-
-[l][r]"Are you happy?" [l][r]
-
-I hate it."[r].
-
-That's right."[l][r].
-
+"Hahaha..."[l][r]
+"What? Do they not suit me?"[l][r]
+"Not at all... give them back. They’re too big for you."[l][r]
+"I thought they looked good."[r]
+"Make sure you get the right size at the store. Ah... pulling a stunt like Yuuri... "[l][r]
+"What?"[r]
+"You’ve been acting like Yuuri a lot lately," I said with a mischievous grin, planning to tease her.[l][r]
+"No way..."[r]
+"Happy about it?"[l][r]
+"No."[r]
+"Exactly."[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I agreed with Tito with a straight face as he said it with a look of sincere disgust on his face, then we looked at each other and both laughed out loud. [l][r]
-
-From a short distance away, I could hear him apologizing for the delay. [r]
-
-But Tito and I were left holding our bellies and unable to respond to his voice for a while. [l][r]
-
+Chito said in a genuinely displeased tone, and I agreed seriously. Then we looked at each other and laughed.[l][r]
+From a short distance away, I heard someone apologizing for being late.[r]
+But Chito and I were too busy laughing to respond right away.[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -232,14 +156,10 @@ But Tito and I were left holding our bellies and unable to respond to his voice 
 [cm  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-I said, trying to keep my voice as low as possible, "It can't be..." [Tito did not answer. I wondered if he already knew what I was going to say. [l][r]
-
-[r]"I think you're stifling yourself!　If you keep doing this... if you keep doing this ...... eventually ......"[r].
-
-I forced myself to squeeze the words out, but it was all I could do to say that much. [l][r]
-
-Because my voice was grazed. Because my tears were about to spill. [l][r]
-
+"That can’t be true..." I tried to keep my voice as composed as possible.[l] Chito didn't respond. Had she anticipated my reaction?[l][r]
+[r]"Aren't you suppressing your own emotions?! If you keep doing this... it will... eventually..."[r]
+I forced my voice to continue, but that was all I could say.[l][r]
+Because my voice started to crack. Because my tears were about to fall.[l][r]
 
 [_tb_end_text]
 
@@ -247,54 +167,33 @@ Because my voice was grazed. Because my tears were about to spill. [l][r]
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="station2.jpg"  ]
 [tb_start_text mode=3 ]
-...... I know. This smart girl knows in her head that she knows a hundred things like that. [l][r]
+I understand. This smart girl knows all too well.[l][r]
+What has become of me? Ever since I received Chito's message that day, it feels like my heart is no longer mine.[l][r]
 
-What has happened to me? Ever since I received the email from Tito that day, I feel as if my heart no longer belongs to me. [l][r]
-
-
-[r]Tito lent me a handkerchief. I took off my glasses and wiped the tears from the corners of my eyes. I thanked him and returned the handkerchief to him, and he held my hand. [l][r]
-
-The small, strong grip of his hand, as if it would break on its own, calmed my disturbed mind. I looked at Chito. Chito looked at me too [r].
-
-[l][r]"Thank you." [l][r]
-
+Chito handed me a handkerchief. I took off my glasses and wiped the tears from the corners of my eyes. After thanking her, I handed it back, and she squeezed my hand again.[l][r]
+That small, seemingly fragile hand had a calming effect on my restless heart. I looked at Chito. She looked back at me and said, "Thank you."[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="station3.jpg"  ]
 [tb_start_text mode=3 ]
-'I'm doing what I'm doing because Ishii is like that, worrying about me. ...even if u don't have ......."[l][r].
+"Because you care for me, I can keep going... even without Yuuri."[l][r]
+"But... I..."[l][r]
+"It's fine. You are precious to me, Isii."[r]
+"..."[l][r]
 
-"Whether you are ...... or ...... I am ......" [l][r].
+The crowd bustling before me seemed distant. I felt like everything around us had turned unusually quiet.[r]
+I realized something. Back then, I had found it again, the "airplane blueprint".[l][r]
+Unable to bear dying alone in that city, I had clung to the blueprint found at the base. And in the end, I, who should've died alone in this world, clung to this girl who found and relied on me.[l][r]
 
-It's all right. Ishii is Ishii, and he is my precious person."[r]
+There's no real difference between the numerous strangers and this girl, apart from the fact that we once shared a place, hardships... and a bit of joy. That's all it should be.[l][r]
 
-"......" [l][r].
-
-
-[cm]The hustle and bustle that passed in front of us seemed so far away. Only our surroundings seemed so much quieter. [r]
-
-Oh, I get it. I found it again that time. [l][r]"Airplane drawings." [l][r]
-
-Unable to bear dying alone in that city, I put my trust in the drawings I found at the base. And in the end, in the same way, I should have died alone in this world, I put my trust in this girl who relied on me and found me. [l][r]
-
-
-There is no difference between this girl and the many others who thought they had nothing to do with her. [l][r]
-
-It's just that we lived in the same place for a time, experienced the same suffering and ...... a little bit of fun. That's all there was to it. [l][r]
-
-
-[cm] I heard a voice calling Tito and me from far away. [l][r]
-
-'It's Kanazawa. ...... here I come, Ishii."[r].
-
-"...... Oh."[l][r]
-
-[r]I close my eyes and count to only three. Just as I did that day, just before takeoff, to calm my mind. [l][r]
-
-Then I opened my eyes, regained my normal expressionless face, and said bitterly to the young man who had come running with the young woman, "You're late. I've been waiting for you," I said bitterly. [l][r]
-
+From a distance, I heard someone calling out to Chito and me.[l][r]
+"It's Kanazawa. ...He's here, Isii."[r]
+"...Yeah."[l][r]
+I closed my eyes and counted to three, just as I had calmed my nerves before takeoff that day.[l][r]
+Then I opened my eyes, reclaiming my usual stoic expression, and reprimanded the young man running towards us with a young woman, "You're late. We have been waiting."[l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

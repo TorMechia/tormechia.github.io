@@ -8,111 +8,77 @@
 [bg  time="2000"  method="crossfade"  storage="snow.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I wake up. [l][r]
-
-Eating the last ration with Chi-chan [r].
-
-Then, sleep ......[l][r]
-
+I wake up.[l][r]
+Chii-chan and I had our last ration[r]
+Then we slept...[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]I woke up and wondered how much time had passed, and I didn't know [r].
-
-Well, I'll sleep again. [l][r]
-
-He has done this at least three times. [l][r]
-
-I shook my head and adjusted my blurry eyes, and it was snowing. [l][r]
-
+[r]I wake up again and wonder how much time has passed, but I don't know,[r]
+So I fall back asleep.[l][r]
+At least three times, I've repeated this.[l][r]
+When I shake my head to clear my blurry eyes, I see that it's snowing.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Looking up at the sky, the dreary clouds are looking down on us. [r]
-
-Ah, lunch. That's good. If it had been at night, I would have been a little scared. [l][r]
-
+[r]When I look up at the sky, the overcast clouds are looking down on us.[r]
+Ah, it's noon. Thank goodness. It would've been a little scary if it was night.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... chi-chan" [l][r].
-
-I call out to Chi-chan, who is sleeping next to me. A precious little girl, one size smaller than me. [l][r]
-
-No more breath is breathed in or out of that mouth ....... [l][r]
-
+"…Chii-chan"[l][r]
+I call out to Chii-chan who is sleeping next to me. A precious girl, smaller than me by one size.[l][r]
+She is no longer breathing in or out from her mouth...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Yay, my little bookworm-"[r].
-
-Let me tease you. Oh, I don't know what bookworm means. Oh well. [l][r]
-
-"............ Chi-chan's, ba-"[r].
-
-Chi-chan didn't answer me anything. I know that because I myself tried many times to wake her up. [l][r]
-
-No amount of shaking, tapping, poking his cheeks, or pinching his nose woke him up. [l][r]
-
+"Heh, bookworm Chii-chan!"[r]
+I try to tease her. Wait, what did bookworm mean again? Well, whatever.[l][r]
+"...Stupid Chii-chan."[r]
+Chii-chan didn't answer me. I know because I've tried waking her up several times.[l][r]
+No matter how much I shook her, hit her, poked her cheeks, or pinched her nose, she didn't wake up.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-It was [r]so ...... sad. We had spent so much, so much time together, and he was like a part of my body already. [l][r]
-
-This girl is no longer moving ....... [l][r]
-
-After I realized this, I had a heavy pain that felt like a hole in my chest. [l][r]
-
+[r]It was really... sad. We had spent so much time together, she was like a part of my body.[l][r]
+But now, her body doesn't move anymore.[l][r]
+Since I realized that, it's felt like there's a heavy hole in my chest.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-But Chi-chan remained asleep with a kind face. When I saw that, I was really glad to be next to her at the end. [l][r]
-
-I pat Chi-chan's head. Good night. Thanks for always driving me. [l][r]
-
-I keep calling out to them, even though I know they can't reach me. [I wish I could stop waking up like this. Chi-chan has gone ahead of me, and I have to go soon too. [l][r]
-
+But Chii-chan slept with a kind face. Seeing that, I felt really glad to be next to her in the end.[l][r]
+I stroke Chii-chan's head. Thank you for always driving us around.[l][r]
+Even knowing she can't hear, I keep calling out to her.[l]I wish I could stay asleep like this too. Since Chii-chan went ahead, I need to go soon too.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Giggle, and hug Chi-chan and I cover myself with a blanket. [l][r]
-
-I hope it doesn't happen again next time. That's when I was thinking. [l][r]
-
+[r]I hug Chii-chan tightly and pull the blanket over us.[l][r]
+I hope I don't wake up next time. That's what I was thinking when...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"E......" [l][r].
-
-Suddenly a drop of water falls on my head and I look up. [l][r]
-
-I noticed that the snow that had been falling earlier had stopped, and instead a number of waters were falling from the sky. [l][r]
-
+"Huh...?"[l][r]
+Suddenly, a drop of water falls on my head, so I look up.[l][r]
+Before I realize it, the snow has stopped, and instead, multiple drops of water are falling from the sky.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="rain1.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="rain.jpg"  ]
 [tb_start_text mode=3 ]
-[r]rain. Oh no, it was snowing a lot earlier. [l][r]
-
-We stood up without a second thought. Meanwhile, the rain gains momentum and drenches us. [r]
-
-No, we have to run inside the stairwell.  [l][r]
-
+[r]It's raining. How could it be, it was snowing so much just now.[l][r]
+I instinctively stand up. In that time, the rain grows stronger and starts soaking us.[r]
+I need to escape inside the stairs. [l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I covered Chi-chan with a blanket, picked her up, and ran out, pocketing the tools I had seen while I was at it. [l][r]
-
-The snow, which had been soft and fluffy, quickly became soaked to the socks because of the rain. [l][r]
-
-Anyway, I have to go downstairs. I ran with Ki-chan in my arms, trying to keep her dry. That's when it happened. [l][r]
-
+I cover Chii-chan with the blanket, pick her up, and grab the tools I see, putting them in my pocket as I run off.[l][r]
+The fluffy snow has quickly become slushy from the rain and soaks through my socks.[l][r]
+I need to get down somehow. Holding Chii-chan to avoid getting her wet, I start running. That’s when it happens.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="zuru.ogg"  ]
@@ -121,14 +87,10 @@ Anyway, I have to go downstairs. I ran with Ki-chan in my arms, trying to keep h
 [bg  time="0"  method="crossfade"  storage="black.png"  ]
 [cm  ]
 [tb_start_text mode=3 ]
-[ah! [l][r]
-
-Suddenly, a hole appeared in the snow and I stepped off the ground. At the same time, it went black before my eyes and I heard something bouncing around. I fell down, into a hole or something. [l][r]
-
-We fall down, hitting our bodies here and there. It hurts more than Chi-chan's punch. Oh, and no helmet ....... [l][r]
-
-This could be bad. [l][r]
-
+"Ouch!?"[l][r]
+Suddenly, a hole opens in the snow, and I lose my footing. Everything goes dark, and I hear bumping sounds. I must have fallen into a hole or something.[l][r]
+My body crashes everywhere as we fall. It hurts more than one of Chii-chan's punches. And I don't have a helmet...[l][r]
+This is bad.[l][r]
 [_tb_end_text]
 
 [bg  time="0"  method="crossfade"  storage="white.png"  ]
@@ -136,30 +98,25 @@ This could be bad. [l][r]
 [wait  time="300"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="false"  vmax="10"  ]
 [tb_start_text mode=3 ]
-The moment I think that, I hit my head. Then my consciousness becomes distant. But strangely, I'm not afraid. [l][r]
-
+The moment I thought that, I hit my head. My consciousness starts fading, but strangely, I'm not scared.[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]Now, if you sleep all the time, you'll ...... die[r].
-
-Ba, you can go to Chi-chan's place. ...... [l][r]
-
+[r]If I sleep forever like this... if I die[r]
+I can go be with Chii-chan...[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="hit03.ogg"  ]
 [wait  time="300"  ]
 [quake  time="300"  count="2"  hmax="10"  wait="false"  ]
 [tb_start_text mode=3 ]
-I hear a thumping sound. But it doesn't hurt anymore. [l]Chitty, chitty. ....... [l][r]
-
+I keep bumping around. But it doesn't hurt anymore. Chii-chan, Chii-chan...[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-[r]I'm coming to you now. [l][r]
-
+[r]I'm coming over to you now.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="down1.ogg"  ]
@@ -171,215 +128,149 @@ I hear a thumping sound. But it doesn't hurt anymore. [l]Chitty, chitty. .......
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="black.png"  ]
 [tb_start_text mode=3 ]
-I did not die. The next time I woke up, I was in a pitch-dark place. I thought, "If I'm awake and it's pitch black, then I'm really dead. [l][r]
-
-But my body hurts everywhere, and it's not even warm, even though it's the afterlife. [God is a lie after all. This kind of afterlife is neither dreamy nor hopeful. [l][r]
-
+I didn't die. When I wake up next, it's completely dark. I think maybe I really did die since it's so dark even when I'm awake.[l][r]
+But my whole body hurts, and if it's the afterlife, it's not warm or anything.[l]Turns out the whole idea of God was just a lie. This kind of afterlife isn't any kind of dream or hope.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Then I realized. Chi-chan is gone. [r]
-
-We should have fallen together, but the precious chi-chan I was holding was not there. [l][r]
-
+[r]Then I noticed. Chii-chan wasn't there.[r]
+We fell together, but the important Chii-chan I was holding wasn't there.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[l][r]"Chi-chan!" [l][r]
+"Chii-chan!"[l][r]
+My head still hurts, but I somehow manage to move. When I check my pocket, I find the random gear I shoved in there while escaping the rain.[l][r]
+A rope, knife, a broken mini-stove, and some other stuff. Useless, none of this can help.[l][r]
 
-My head still hurt, but I managed to get moving. I touched my pocket and found the appropriate equipment I had shoved into it when I ran away from the rain. [l][r]
-
-Rope, knives, a disused mini-stove, and more. No good, this is not going to help. [l][r]
-
-
-[r][r]I listened carefully and heard the sound of water cascading down. [l][r]
-
-As my eyes became accustomed to the darkness, it finally dawned on me that I was in a big pipe. [l][r]
-
-Oh well, I was washed away with the rain. My clothes are soaked and my body hurts all over. [l][r]
-
+[r]Listening closely, I hear water flowing.[l][r]
+As my eyes adjust to the darkness, I realize I'm inside a large pipe.[l][r]
+Oh, I must've been washed in with the rain. My clothes are soaked and my body hurts everywhere.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan must have been swept away by the water. He might have been thrown out somewhere. [l][r]
-
-Oh, no. I have to find Chi-chan. [l][r]
-
+Chii-chan must have been washed away too. She might be thrown out somewhere.[l][r]
+No, I can't let that happen. I have to find her.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I walk frantically. [r]
+I walk desperately.[r]
+Somehow, I crawl through the pitch-dark pipe. But my body feels so heavy. That's right, I haven't eaten anything since our last ration.[l][r]
+All I've had was a bite of snow, so my stomach is empty. At the very least, I want something to drink.[l][r]
+Guided by the sound, I scoop up some water flowing nearby and put it to my lips. It tasted like iron, mud, and something oily. Couldn't drink it at all.[l][r]
 
-I somehow managed to keep walking hand in hand through the pitch black pipe. But I felt so heavy. That's right, I hadn't eaten anything since my last ration. [l][r]
-
-I've just nibbled on some snow, so I don't have anything in my stomach. Then I need a drink at least. [l][r]
-
-With the sound as my guide, I scooped up some water that was running down the side and put it to my mouth. It tasted like iron, mud, and oil. No, it was not very drinkable. [l][r]
-
-
-[To be honest, it's tough. I wanted to put a little something in my mouth. But if I can't seem to find any food or drink, it's obviously better to look for Chi-chan first. [l][r]
-
-Because you must be lonely and alone. [l][r]
-
-[r]eally called it a number of times. Oooh, oooh, and oooh. I knew I would never get a reply. [l][r]
-
-Still, I called his name many times. Chi-chan, chi-chan. [l][r]
-
-[r]What is it, YOU?" [l][l]I called several times, expecting such a voice to return. [l][r]
-
+[cm]Truthfully, this is tough. I wanted to put something, anything, in my mouth. But food or no food, finding Chii-chan comes first.[l][r]
+I'm sure she's lonely and scared out there alone.[l][r]
+[r]I called out many times. Hey, hey! Even though I knew there wouldn't be a response.[l][r]
+Still, I kept calling her name. Chii-chan, Chii-chan.[l][r]
+[r]"What is it, Yuu?"[l] I called over and over, hoping to hear that voice again.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Many, many times. [l][r]
-
-Many times, I screamed. [l][r]
-
-[r]"Ch-ch-ch-ch-ch-ch!" [r]
-
-Many times, I bumped my leg. [l][r]
-
-Many times, I bumped my head. [l][r]
-
+Over and over again.[l][r]
+I shouted over and over.[l][r]
+"Chii-chan!!"[r]
+I hit my legs many times.[l][r]
+I hit my head many times.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="down08.ogg"  ]
 [quake  time="300"  count="1"  hmax="0"  wait="false"  vmax="10"  ]
 [tb_start_text mode=3 ]
-Many times, I fell down, scraped and tumbled. [l][r]
-
+I fell and rolled many times.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"...... I'm hungry."[r]
-
-Many times, my stomach rumbled. [l][r]
-
-My throat was parched all the time, all the time. [l][r]
-
-Still, I keep walking the pipe. I have to find Chi-chan. I have to find Chi-chan. [l][r]
-
-Walking. Reach out. Searching. Crouch. Searching. Walk. As I repeated the process over and over again, I realized that what I had just touched was in the same place. [l][r]
-
+[r]"…I'm so hungry."[r]
+My stomach growled many times.[l][r]
+My throat was parched forever.[l][r]
+Even so, I kept walking through the pipe. I have to find Chii-chan. I have to find Chii-chan.[l][r]
+Walking. Reaching out. Searching. Kneeling. Searching. Walking. As I kept repeating these actions, I realized I was touching things I'd touched before.[l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Not moving? [l][r]
-
-[I couldn't walk. I thought I was walking, but I wasn't making any progress. [l][r]
-
-My stomach no longer rumbled. I wanted to say "chi-chan" out loud, but all that came out was air. [l][r]
-
-When I realized all of that, I felt like I had lost everything and ...... I couldn't move a finger. I couldn't even breathe. [l][r]
-
+Have I not been moving?[l][r]
+[r]I couldn't walk anymore? I thought I was walking, but I wasn't moving at all.[l][r]
+Even the sound of my stomach growling stopped. I wanted to say Chii-chan's name, but only air came out.[l][r]
+Realizing all this made me feel like I'd lost everything... and I couldn't move a single finger. Even breathing felt pointless.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-I don't know if my eyes are open or closed. The sound of my heart is distant, and I suddenly realize. Am I going to die? [l][r]
-
+I don't know if my eyes are open or closed. The sound of my heartbeat feels distant, and suddenly, I realize: maybe I'm going to die.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-...... in such a dark, dark place. [r]
-
-Where there is no chi-chan. [r]
-
-If I was going to die, I would have preferred to be with you. ...... [l][r]
-
+…In such a dark place.[r]
+Without Chii-chan.[r]
+If I'm dying, I wish we could have died together...[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"Chi ......-chan" [l][r].
-
-Once more, just one more time, I speak out. But I still couldn't hear it even with my own ears. I don't even know if I'm not speaking out loud or if I'm deaf. [l][r]
-
-I'm scared...... it's so dark...... why are you gone, why are you gone, Chi-Chi?　Please, please, stay on ...... side of me. ...... [l][r]
-
-Tasuke ...... Chi-chan ....... [l][r]
-
-Soooo, the pitch-dark world is getting even darker. Oh no, I'm afraid of the dark. I'm afraid of the dark. I'm scared without Chi-chan. Oh no. ...... no no no. ...... no no. [l][r]
-
+[r]"Chii...chan"[l][r]
+One more time, one more time I try to speak. But I can't even hear my own voice. Is it because I'm not producing any sound, or have my ears gone deaf? I don't know.[l][r]
+I'm scared... it's so dark... why did you leave me, Chii-chan? Please... stay with me...[l][r]
+Help me... Chii-chan...[l][r]
+The pitch-black world is becoming even darker. No. I'm afraid of the dark. I'm scared without Chii-chan. No... I don't want this...[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-- Yuri -[l][r].
-
+— Yuu —[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Beyond the closed consciousness, I heard something. [l][r]
-
-No, it's not something. I'm sure of it. I definitely heard it. [l][r]
-
+In the depths of my closing consciousness, I heard something.[l][r]
+No, it wasn't 'something'. There's no mistake. I definitely heard it.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]"...... chi, chan?" [l][r]
-
-Somehow I open my eyes. I hear it, I'm sure of it. No doubt, Chi-chan's voice. [l][r]
-
+[r]"...Chii-chan?"[l][r]
+I manage to open my eyes. I heard it. I definitely did. It was Chii-chan's voice.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 [r][r]
-[r]-you, over here-[l][r]
-
+[r]— Yuu, over here —[l][r]
 [_tb_end_text]
 
 [cm  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="m5_piano.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="light50.jpg"  ]
 [tb_start_text mode=3 ]
-"Chi-chan ......!" [l][r]
-
-My world suddenly became brighter. I opened my eyes. Move, move, I said as I lifted my lead-heavy body. Then I saw something. Something white, like a white light. In it, a familiar little shadow. [l][r]
-
-[r]"Chi-chan!" [l][r]
-
-Ah, it's Chi-chan. Chi-chan is here. I tried to stand up, but I immediately rolled over. My legs wouldn't move. Why, oh no. Move. [l][r]
-
-I stretch out my arms and drag myself forward, the heaviest person in the world. Slowly but surely, the light, Chi-chan, approaches. [l][r]
-
+"Chii-chan...!"[l][r]
+My world suddenly brightened. I opened my eyes. Move, move, I tell my leaden body. Then I see something. A white light. And in that light, a familiar small figure.[l][r]
+[r]"Chii-chan!"[l][r]
+Ah, it's Chii-chan. Chii-chan has come. I try to stand, but I immediately tumble down. My legs refuse to move. Why, oh why. Move, please.[l][r]
+Pulling myself forward despite my body's weight, I'm getting closer to the light, to Chii-chan.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-- Ugh. Here, come here. Come here. -[l][r]
-
+— Yuu, come over. This way —[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]Chi-chan, chi-chan! [l][r]
-
-Move, my arm. Move, my heart. [r]
-
-Faster, farther away. Because Chi-chan is waiting for you. [l][r]
-
+[r]Chii-chan, Chii-chan![l][r]
+Move, arms. Beat, heart.[r]
+Faster and further. Because Chii-chan is waiting.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="light.jpg"  ]
 [tb_start_text mode=3 ]
-The light grows larger. Chi-chan's shadow also grows larger. [r]
-
-Chi-chan reaches out her hand. I lean forward to grab his hand as well. [l][r]
-
-Chi-chan, chi-chan, where have you been [r]?
-
-of!　Don't leave me here just because my reaction is funny! [l][r]
-
-But, but it was good. I finally got to see him, I got to see him again! [l][r]
-
-I stretch my hand so far that it almost tears off. I almost reach it. I can reach Chi-chan. A little more, a little more! [l][r]
-
+The light grows larger. Chii-chan's figure becomes clearer.[r]
+Chii-chan reaches out her hand. I stretch mine to catch hers.[l][r]
+Chii-chan, where have you[r]
+been! Don't leave me because you find my reactions funny![l][r]
+But thank goodness. I finally found you again![l][r]
+I reach out as far as I can. Almost there. Almost to Chii-chan.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -387,139 +278,97 @@ I stretch my hand so far that it almost tears off. I almost reach it. I can reac
 [playse  volume="100"  time="1000"  buf="0"  storage="down1.ogg"  ]
 [quake  time="300"  count="2"  hmax="0"  wait="true"  vmax="10"  ]
 [tb_start_text mode=3 ]
-Gueh."[r].
-
+"Ugh"[r]
 
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="fact.jpg"  ]
 [tb_start_text mode=3 ]
-I tumble to the hard floor. I'm lucky I didn't hit my head, but my whole body hurts everywhere already. [l][r]
-
-In the corner of the visible world, a pipe with a big mouth. Ah, you must have fallen down from there. But more importantly, where is Moo-chan? I moved my body, which had lost all sensation, and somehow managed to look up in front of me. [l][r]
-
+I tumble onto a hard floor. I'm glad I didn't hit my head, but my whole body hurts.[l][r]
+I can see, barely, the big, gaping hole in the pipe. Oh, that's where I fell from. But where is Chii-chan? With my exhausted body, I manage to look up.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="imo.jpg"  ]
 [tb_start_text mode=3 ]
-Imo, there was. [l][r]
-
-And a lot of it. [r]
-
-"............" [l][r].
-
-I watched it dumbfounded for a while and unconsciously grabbed a potato that was hanging close at hand. I can't take it. [l][r]
-
-I've pulled and pushed, but I can't get it off at all. [l][r]
-
+There were potatoes.[l][r]
+A lot of them.[r]
+"..."[l][r]
+For a while, I stared at them blankly, then unconsciously grabbed one hanging nearby. Couldn't pull it off.[l][r]
+I pushed and pulled, but it wouldn't come off.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="rope03.ogg"  ]
 [wait  time="200"  ]
 [quake  time="200"  count="2"  hmax="0"  wait="true"  vmax="5"  ]
 [tb_start_text mode=3 ]
-It became troublesome and I forced myself to shred it with my weight. [l][r]
+I got frustrated and used my weight to forcibly tear it off.[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=3 ]
+I put it in my mouth. It's tough. Very tough.[l]But why? This is so sweet. Really sweet. What is this?[r]
+Is a raw potato this delicious without cooking it?[l][r]
+The sweet taste spreads throughout my mouth, filling me with bliss. I hold the potato tight with both hands and stuff my mouth.[l][r]
+[r]"Mmff... nom... gulp, nom, mmff!"[r]
+I couldn't stop. Delicious. Delicious. Potatoes, lots of potatoes. [l][r]
 
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I put it in my mouth. It's hard. Very hard. [But I don't know what it is. It's very sweet. Very sweet. What is this? [r]
-
-How can potatoes taste so good without boiling or baking? [l][r]
-
-The sweet taste fills my mouth and happiness goes straight into my head. I grab the potato with both hands and stuff it into my mouth so that no one can take it away from me. [l][r]
-
-[r]"Mmmm ...... hahm ...... goku, ahm, hahm, nng, nng!" [r]
-
-Couldn't stop. Delicious. Delicious. Imo, lots and lots of imo. [l][r]
-
-
-[_tb_end_text]
-
-[cm  ]
-[tb_start_text mode=3 ]
-Hug, ah, mmm, ah, ah, ah, ah, ah, mmm, ah, ah, ah!" [l][r]
-
-I really enjoyed the raw potatoes. More than rations, more than fish, more than any food I've ever eaten, raw potatoes tasted better. [l][r]
-
-Who was that guy who said it could be boiled and eaten? Oh, that's Ishii. He said "even if you boil it," so ...... yes, of course you can eat it raw. So raw was the best. [l][r]
-
-[r]I ate potatoes at random, feeling like I wasn't myself anymore. My stomach hurt a little in the process, but more than that, everything in my body was screaming for more food. [l][r]
-
+"Hug, mmm, mmm, agh, hum hum, mmm, mmm, agh!!" [l][r]
+The raw potatoes were really delicious. They were better than rations, better than fish, better than any other food I had ever eaten.[l][r]
+Who was it that said it could be eaten boiled? Ah, it was Ishii. He said it could be eaten boiled... That's right, it could be eaten raw. So raw is the best. [l][r]
+[r]I felt like I was no longer myself and ate all the potatoes I could get my hands on. My stomach started to hurt a little, but more than that, my whole body was screaming that I wanted to eat more. [l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="fact2.jpg"  ]
 [tb_start_text mode=3 ]
-I looked and saw what looked like a faucet. My feet, which were heavy like lead, moved softly. I reach the spot as quickly as I can and twist the faucet. [l][r]
-
+Looking around, I saw what looked like a faucet. My legs, which had been heavy like lead, started to move lightly. I rushed to the spot as quickly as I could and turned on the faucet. [l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="sei_ge_jaba01.ogg"  ]
 [tb_start_text mode=3 ]
-Clear water came out. I didn't hesitate to stick my head in [r].
-
+Clear water came out. Without hesitation, I stuck my head in.
 Drink it. [l][r]
-
-'Nn, nn ...... nmmm, nnggg ...... hah!' [l][r]
-
-[r]eat, eat, drink, drink. The body that had not moved was able to move like a lie. [r]
-
+"Hmmm, hmmm... mmm, ugh... haaa!" [l][r]
+[r] Eat, eat, drink, drink. My body, which had been immobile, was able to move as if by magic. [r]
 I'm alive. I'm still alive. [l][r]
-
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-The sweet potatoes are getting soggier and soggier. Something is wrong. My vision is blurry. [l]My eyes are burning. [r]
+The sweet potatoes are gradually becoming salty. Something's wrong. My vision is also blurry. [l] I wonder why my eyes are burning. [r]
+Huh, huh? [l][r]
 
-Huh, that? [l][r]
-
-
-[r]eally I found myself in tears. Was it because I was alive, or was it because the potatoes tasted so good? [l][r]
-
-But it doesn't matter. It doesn't matter anything, because it tastes so good. Yes, it's a waste to eat alone. [l][r]
-
+[r]Before I knew it, I was crying. Was it because I was alive or because the potatoes were delicious? [l][r]
+But who cares. It's so delicious, it doesn't matter. Yes, it would be a shame to eat it alone. [l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Hm, amm, nngggghhhh! Chi-chan, Chi-chan, you should eat too! There are so many potatoes here, see, Chi-chan!" [l][r]
-
+"Ham, ham, nggg, haa! Chi-chan, Chi-chan, you should eat too! There are so many potatoes, come on, Chi-chan!!" [l][r]
 I stand up and look around. My voice echoes off the walls of the building. [l][r]
-
 [r]Chi-chan was nowhere to be found. [l][r]
-
-"............aa" [l][r].
-
-I realized. Chi-chan, who was in the light earlier, was no longer there. [l][r]
-
+"...... Ah" [l][r]
+I realized. The Itachi-chan I saw in the light earlier was no longer there. [l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"...... is a waste of time, Chi-chan[r].
+"...Haha, Chi-chan, you're such a waste.
+"You're just telling me where it is. It'll taste even better if we eat it together." [l][r]
+I take another bite of the potato. The potato I just ate tasted extremely salty. [l][r]
+[r] "I wanted to eat with Chi-chan... [r]
+But..." [l][r]
+I rubbed my eyes and ate the potato. It was still salty. [l][r]
+[r] "Thank you...Chi-chan." [l][r]
 
-I can't believe you just told me where it is. I can't believe I just told you where to go. It would taste even better if we ate together.
-
-Another bite, and I eat a potato. The potato I just ate tasted ridiculously salty. [l][r]
-
-[r]"I wanted to eat ...... with Chi-chan[r].
-
-to ......" [l][r].
-
-I scrubbed and rubbed my eyes and ate the potato. It was still dreary. [l][r]
-
-[r]"......, thank you ...... chi-chan" [l][r].
-
-
-[cm] Oh. Yeah. [l][r]
-
-[r]I, you were crying because Chi-chan wasn't here. [l][r]
-
+[cm]Oh. That's right. [l][r]
+[r]I was crying because Chi-chan wasn't there. [l][r]
 [_tb_end_text]
 
 [cm  ]

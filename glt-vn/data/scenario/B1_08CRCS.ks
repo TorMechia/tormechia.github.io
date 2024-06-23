@@ -7,54 +7,36 @@
 [bg  time="1500"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-Night. Chi-chan had regained her composure since then, but her face was so exhausted that I couldn't look at her. [l][r]
-
-[r]But I can't turn away. [r]
-
-I have to protect my little girl. [l][r]
-
-[r]I was thinking about how I wanted to be protected or whatever. [l][r]
-
-Now is not the time. [l][r]
-
+It's nighttime. Chi-chan seems calm again, but she still looks so exhausted that it's really hard to watch.[l][r]
+[r]But I can't look away. I have to protect Chi-chan.[r]
+I used to wish someone would protect me.[l][r]
+But now's not the time for that.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-[...... chi-chan, you want something to drink?" [l][r]
+“...Chi-chan, do you want something to drink?”[l][r]
+Chi-chan gazes weakly out the window at the night sky. There's no moon out there, just a pitch-black darkness with only a few visible stars.[l][r]
 
-Chi-chan was standing by the window looking up at the night sky without any effort. There was no moon beyond. It was pitch black, and there was only darkness where even the stars could only be counted. [l][r]
-
-
-[r]"I don't need ......" [l][r].
-
-It was a shell of a reply. I sat down next to Chi-chan idly and put my hands on top of hers. [l][r]
-
+[r]“...No, I don't.”[l][r]
+Her response is hollow, like a shell. I sit down beside her in silence and place my hand on hers.[l][r]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="hand2.jpg"  ]
 [tb_start_text mode=3 ]
-With a jerk, his hand moves. I am relieved that Chi-chan has not yet broken. [l][r]
+Her hand twitches slightly. I feel relieved that Chi-chan isn't completely broken.[l][r]
 
-
-[r]"...... Finally, I figured it out."[l][r].
-
-What?" [l][r]
-
-Why is it so unfulfilling?"[l][r].
-
+[r]“...I finally understand.”[l][r]
+“Understand what?”[l][r]
+“Why I feel so empty.”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Chi-chan started talking like a machine. I intertwine my fingers to listen to it silently. [l][r]
-
-[r]"This place is too ...... filled. There is food. There are people. We have a place to live. We have a way to contact people even if they are far away. [l][r]
-
-It's so convenient that it's unthinkable over there. [l][r]
-
-[r]But. ...... on the contrary, it makes you narrow-minded."[l][r].
-
+Chi-chan starts to speak mechanically. I stay silent and interlace my fingers with hers to listen.[l][r]
+[r]“Here... everything is too perfect. There's food, there are people, we have places to live, and even ways to communicate across distances.[l][r]
+It's unimaginably convenient compared to the other world.[l][r]
+[r]But... because of that, my heart feels so small.”[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -62,68 +44,43 @@ It's so convenient that it's unthinkable over there. [l][r]
 [bg  time="3000"  method="crossfade"  storage="penag.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"It was just the two of us over there [r].
-
-We were. We were everything in the world. [l][r]
-
-[r]But it's not like that over here. There are a lot of people. There are a lot of people other than us. It's easy to contact them. [l][r]
-
-It's made us so far apart. [l][r]
-
-[r]u talking to someone other than me is weird... [r].
-
-...... Yes, I was jealous. [l][r]
-
-[r]For example, if you try to contact them and they don't respond, you're worried. [r]
-
-I have a means of communication, but when I don't get a response, I'm afraid of the opposite. [l][r]
-
-
+“Back there, it was just the two of us. We were each other's whole world.[l][r]
+[r]But here, it's different. There are so many people. We can easily keep in touch with others.[l][r]
+Because of that, we've grown distant.[l][r]
+[r]It disgusts me to see you talking to others.[r]
+...I was jealous.[l][r]
+[r]For example, when I try to contact you and you don't reply, I get really anxious.[r]
+Even though we have ways to communicate, not getting a reply makes it even scarier.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I thought Yu would go to someone else and forget about me. [l][r]
+I'm scared you'll go to others and forget about me.[l][r]
 
-
-[r]u's knowledge was also my knowledge. So as Yoo learned what others had taught me, I felt like I was disappearing more and more. [l][r]
-
-That's what I was afraid of. ......" [l][r].
-
+[r]Your knowledge used to be my knowledge as well. So when you learn something new from someone else, I feel like I'm disappearing bit by bit.[l][r]
+It's terrifying…”[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="room5_n.jpg"  ]
 [tb_start_text mode=3 ]
-After saying that much, Chi-chan shuts her mouth once. I rest my head on Chi-chan's shoulder to let her know that I am as close as possible. [l][r]
-
-[r]"I've never forgotten ...... you, Chi-chan."[l][r]
-
-Oh. Yeah. [r]
-
-That should be a given, and yet ......" [l][r].
-
-[r]Chi-chan's voice trembles. I thought, "I shouldn't do that," and I hugged Chi-chan from the front.  [l][r]
-
+After saying all this, Chi-chan goes silent. I rest my head on her shoulder, letting her feel my presence.[l][r]
+[r]“I've never forgotten you, Chi-chan.”[l][r]
+“Yeah, I know.[r]
+It's obvious, but still...”[l][r]
+[r]Chi-chan's voice trembles. Sensing the need to comfort her, I hug her tightly. Her weak hands grip mine.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-"Oh, ......, I don't want to be with you anymore. I'd rather die together ......."[l][r]
-
-"...... chi-chan" [l][r].
-
-"...... hehe ...... I know. Just saying."[l][r].
-
-[r]He pulled his face away and smiled bitterly. The glint in his eyes was half true and half ...... lie. [l][r]
-
-[r]I place my hand on Chi-chan's cheek. [l][r]
-
-Chi-chan. I'm fine with that. If you want."[l][r].
-
-[cm] I'll do anything for you. [l][r]
-
+“Ah... sometimes I just feel like dying together, you know...”[l][r]
+“...Chi-chan.”[l][r]
+“...Yeah, I know. I'm just saying.”[l][r]
+[r]She pulls away with a forced smile. In her eyes, I see half-truths... and half-lies.[l][r]
+[r]I place my hand on her cheek.[l][r]
+“Chi-chan, even if that's what you want, I'm here for you.”[l][r]
+[r]Whatever you need.[l][r]
 [_tb_end_text]
 
 [cm  ]

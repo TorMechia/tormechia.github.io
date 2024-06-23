@@ -5,45 +5,30 @@
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m5.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-It was late afternoon, a dry wind was blowing slightly. That street vendor who deals in miscellaneous items thought that he had an unusual customer. [l][r]
-
-A young woman, apparently Oriental, asks in faltering speech what is on the road ahead [r].
-
-The two were accompanied by a woman who also seemed to be European, asking about the items for sale in a one-word accent. [l][r]
-
+A dry wind gently blew on that afternoon. The street vendor, who sold various items, noticed the unusual customers.[l][r]
+A young woman who seemed to be from the East asked, in broken words, what was ahead on the road.[r]
+And another woman, who appeared to be European, also asked about the wares with her limited language skills. They were quite the pair.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]-"There's another town down the road. But, like everywhere in this country, it is still in turmoil from the civil war. I don't think it's a place for two young girls like you to go."[l][r]
-
-The owner advises them to do so, but they get through [r].
-
-Or not, I don't know. The dark-haired woman muttered a short thank you and stared down the road. [l][r]
-
+[r]“There’s another town ahead. But in this country, like everywhere else, the chaos from the civil war hasn’t settled yet. It’s not a place for young girls like you two to go alone,” he advised.[l][r]
+Whether they understood or not was unclear. The black-haired woman briefly mumbled her thanks, and then stared ahead down the road.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-At that moment, another blonde woman cheered, her blue eyes shining. She held up one of the items for sale with both hands and gestured for this to be sold. [l][r]
-
-His companion seems to be trying to stop him, but his shining blue eyes are not going to listen. [l][r]
-
-The owner is, of course, a businessman. If they want to buy, they want to sell. [l][r]
-
-[r]I really wanted to blow the price higher, but I decided that I should close the deal quicker than to be interrupted by my companion's dark hair, so I held up a finger and told him the market price. [l][r]
-
-The blue-eyed man seemed satisfied with the price. [l][l]He paid with a smile and left the store with the antiquated item, complaining to his partner. [l][r]
-
+At that moment, the blonde woman with sparkling blue eyes exclaimed joyfully. She lifted one of the seller’s items with both hands, indicating that she wanted to buy it.[l][r]
+Her companion seemed to be trying to stop her, but those shining blue eyes had no intention of listening.[l][r]
+Of course, the vendor was a businessman. If someone wanted to buy, he wanted to sell.[l][r]
+[r]Although he wanted to price it higher, he decided to settle the deal quickly before the black-haired companion could interfere, naming a fair price with his fingers.[l][r]
+The blue-eyed woman seemed satisfied with the price. With a smile, she paid and left the shop with the vintage item, all while her companion complained.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The item was dusted off roughly and placed softly on top of the blonde. [l][r]
-
-Short brimmed steel brody helmets[r].
-
-The same as the one worn by the dark-haired girl in that apocalyptic city. It was the same one worn by the dark-haired girl in that doomsday city. [l][r]
-
+After brushing off the dust, she gently placed the item on top of her blonde head.[l][r]
+It was a steel Brodie helmet with a short brim,[r]
+just like the one the black-haired girl wore back in the post-apocalyptic city.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -52,53 +37,33 @@ The same as the one worn by the dark-haired girl in that apocalyptic city. It wa
 [wait  time="2000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I'm like, "Wow, now I'm Mo-chan! I mean, I'm God!" [l][r]
-
-How cheesy is God if that's how you can be me?"[l][r].
-
-'Cheap or small, God is God.'[l][r]"
-
-"Then I'd have to pay for that helmet, and I'd have to pay for that reduced dinner[r].
-
-Give me your money, pay me your money."[l][r].
-
-"I don't want to be a low-class god."[l][r] "I don't want to be a low-class god.
-
-Give me the word incoherent and I'll give you [r].
-
-You're a gift from God, you should rejoice."[l][r].
-
+“Yay, now I can be Chi-chan! Which means I’m a god!”[l][r]
+“If becoming me is that easy, what a cheap god you are.”[l][r]
+“Cheap or small, a god is still a god.”[l][r]
+“Then donate the money you spent on that helmet to cover our dinner costs.”[r]
+“As a god of a lower rank, I refuse.”[l][r]
+“I'll grant you the word ‘nonsense’ as a gift from the god, you should be grateful.”[r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-As they said this to each other, an old man gazed out of the window of one of the houses they passed, as if watching their backs. [l][r]
-
-[r]Squinting under his square top-rimmed glasses, the old man stared at them until their backs were out of sight. [l][r]
-
-[r][r]With a gentle, nostalgic, loving smile on his mouth. [l][r]
-
+As they bantered, an old man watched their backs from the window of a nearby house.[l][r]
+Squinting under his square-rimmed glasses, he watched them until they disappeared from sight, a gentle smile with a hint of nostalgia and affection on his lips.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="EU1.jpg"  ]
 [tb_start_text mode=3 ]
-A dry wind blows through the air. Mixed with it is the heat of the sun and the earth. And the smell of people, plants, and animals. [l][r]
-
-It's very different from the winds of that world, which are just [r]cold. But maybe it's all the same in the end. [l][r]
-
-[r]The sun shines the same as it did in that world. It shone on them just as it did in that world. [l][r]
-
+A dry wind blew through. Mixed with the wind were the heat of the sun and earth, and the scents of people, animals, and plants.[l][r]
+[r]It was so different from the cold winds of that other world. Or maybe not so different after all.[l][r]
+[r]The sun shone brightly, just like in that world. It illuminated the two of them, just like before.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-Laughter echoes through the city. [l][r]
-
-[r]It's the laughter of a girl who was once the happiest girl in the world and the unhappiest girl in the world. [l][r]
-
-[r]The two voices mingled, enveloping each other and their surroundings in a small happiness, and echoed forever beyond the hustle and bustle. [l][r]
-
+Laughter echoed through the town.[l][r]
+[r]The laughter of the girl who was once the happiest in the world, and the girl who was once the most unfortunate.[l][r]
+[r]Their voices mingled, wrapping each other and the surroundings in a small but precious happiness, and echoed through the bustle of the town, forever.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -112,7 +77,7 @@ Laughter echoes through the city. [l][r]
 [l][r]
 [_tb_end_text]
 
-[jump  storage="title_screen.ks"  target="*titele_0"  ]
+[jump  storage="title_screen.ks"  target="*title_0"  ]
 [s  ]
 [cm  ]
 [cm  ]
