@@ -5,7 +5,7 @@
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-I couldn't even move a finger.[l][r]
+I couldn't even lift a finger.[l][r]
 
 [_tb_end_text]
 
