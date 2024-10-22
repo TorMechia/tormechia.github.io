@@ -1,11 +1,19 @@
 [_tb_system_call storage=system/Sscene1.ks]
->>The following is an UNOFFICAL and very much INCOMPLETE translation. Expect a full release s̶o̶o̶n̶ eventually.<<
+
 [_tb_end_text]
-[playbgm  volume="100"  time="1000"  loop="false"  storage="m0_claves.ogg"  ]
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
+;	<--START TEMP WARNING-->
+[playbgm  volume="0"  time="0"  loop="false"  storage="m0_claves.ogg"  ]
+>>NOTICE<<[r]
+The following is an UNOFFICAL and very much INCOMPLETE translation.[r]
+Expect a full release s̶o̶o̶n̶ eventually.[l]
+[_tb_end_text]
+[cm  ]
+;	<--END TEMP WARNING-->
+[playbgm  volume="100"  time="1000"  loop="false"  storage="m0_claves.ogg"  ]
 I couldn't even lift a finger.[l][r]
 
 [_tb_end_text]
