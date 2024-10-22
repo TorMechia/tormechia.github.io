@@ -1,6 +1,5 @@
 [_tb_system_call storage=system/Sscene1.ks]
 
-[_tb_end_text]
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
