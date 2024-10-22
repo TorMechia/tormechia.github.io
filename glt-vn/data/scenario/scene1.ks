@@ -1,5 +1,6 @@
 [_tb_system_call storage=system/Sscene1.ks]
-
+>>The following is an UNOFFICAL and very much INCOMPLETE translation. Expect a full release s̶o̶o̶n̶ eventually.<<
+[_tb_end_text]
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m0_claves.ogg"  ]
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="black.png"  ]
