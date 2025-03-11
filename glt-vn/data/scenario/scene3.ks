@@ -86,7 +86,7 @@ She spoke of those sorrowful yet tender days, with a tone that felt somewhat nos
 And then she concluded. [l][r]
 [r][r]
 "When we reached the top, there was nothing there. [r]
-Yu and I had our last meal there, [r]
+Yuu and I had our last meal there, [r]
 and then we fell asleep together." [r]
 …… [l][r]
 [_tb_end_text]
@@ -203,7 +203,7 @@ Chi said this, and then dropped her gaze to her clasped hands again, saying with
 [cm]
 [bg time="1000" method="crossfade" storage="snow.jpg"]
 [tb_start_text mode=3]
-Maybe Yu is... still [r]
+Maybe Yuu is... still [r]
 over 'there'." [l][r]
 [_tb_end_text]
 

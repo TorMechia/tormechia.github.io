@@ -41,7 +41,7 @@ Not just tears. Maybe she cut her hand when she hit it, as blood was oozing from
 [r]I hugged her to calm her down, to stop her from hurting herself any more. Her small shoulders trembled. Chi-chan's voice was so loud it seemed like my ears would split; she just kept screaming and crying.[l][r]
 
 [r]"I hate this… I hate this so much![r]
-Both Yu and I, we… this isn't… this isn't…[r]
+Both Yuu and I, we… this isn't… this isn't…[r]
 …Ahhh!!"[l][r]
 [_tb_end_text]
 
@@ -161,7 +161,7 @@ But no one was there. Could it have been caught somewhere on the vehicle?…[l][
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="sinen.png"  ]
 [tb_start_text mode=3 ]
-"…Yu?"[l][r]
+"…Yuu?"[l][r]
 Chi-chan’s voice came through. She was still crying. But she wasn’t screaming anymore.[l][r]
 [r]"Chi-chan."[l][r]
 I crouched down and held her small hand that was holding the key.[r]
@@ -171,7 +171,7 @@ Looking beyond the dark shadows I saw a small figure.[l][r]
 [r]Ah, so it really was you. I see, I see.[l][r]
 
 [r]"……Let’s go."[r]
-"…Yu."[l][r]
+"…Yuu."[l][r]
 [_tb_end_text]
 
 [cm  ]

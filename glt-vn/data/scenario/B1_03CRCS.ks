@@ -6,9 +6,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 “Who were you on the phone with?” I ask.[l][r]
-[r] “My mom,” Yu answers with a smile.[l][r]
+[r] “My mom,” Yuu answers with a smile.[l][r]
 [r] “Oh, how is she doing?” I say with a light smile.[l][r]
-[r] “She’s good.” Yu replies, then sits on the bed where I am lying.[l][r]
+[r] “She’s good.” Yuu replies, then sits on the bed where I am lying.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -21,12 +21,12 @@
 [cm  ]
 [tb_start_text mode=3 ]
 “Did I wake you? Sorry. Are you still sleepy?”[l][r]
-Yu's words.[r]
+Yuu's words.[r]
 Her voice calms me, like a magical sound. Yet for some reason, it thuds painfully in my chest.[l][r]
 “...Yeah, a little. I could sleep a bit more.”[l][r]
 I mechanically utter the carefully constructed lie in my head.[l][r]
 
-[r] “Want me to sing you a lullaby?” Yu jokes cutely, somewhat seriously.[l][r]
+[r] “Want me to sing you a lullaby?” Yuu jokes cutely, somewhat seriously.[l][r]
 “Next time. I need to finish a report due tomorrow, then I'll sleep.”[l][r]
 Using pre-prepared words,[r]
 I try to run away from myself.[l][r]
@@ -37,13 +37,13 @@ I try to run away from myself.[l][r]
 “Should I go get us some snacks?”[l][r]
 “No. Actually... today, please just... go home… I need to focus.”[l][r]
 
-[r] Will Yu take those stammered words at face value?[l][r]
+[r] Will Yuu take those stammered words at face value?[l][r]
 
 [r] “...Ok, I understand.”[l][r]
 
 [r] It’s a lie.[l][r]
 
-[r] It’s a lie, Yu. There is no report.[l][r]
+[r] It’s a lie, Yuu. There is no report.[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -92,7 +92,7 @@ Clutching the blanket tight, I bury my face in the pillow, stifling my voice.[l]
 Don’t go.[l][r]
 [r] Stay with me.[l][r]
 [r] I’m lonely.[l][r]
-[r] I’m so lonely, Yu... [l][r]
+[r] I’m so lonely, Yuu... [l][r]
 
 [cm] This world, where I thought we could always be together.[r]
 Everything was here. There was nothing to fear. Nothing else we needed.[l][r]
@@ -110,7 +110,7 @@ Even though I love her so much?[l][r]
 It’s been like this forever. If she irritates you, just hit her.[l][r]
 If I hit her for real without thick gloves or a helmet, she'd get hurt.[l][r]
 Even if she gets severely injured, there are hospitals, so it’s fine.[l][r]
-But I don’t want to hurt Yu.[l][r]
+But I don’t want to hurt Yuu.[l][r]
 Hahaha... Don’t joke. ...The same mouth that told her to die!!![l][r]
 [_tb_end_text]
 
@@ -136,7 +136,7 @@ On the bed, I twist my body, dropping my head forcefully onto the pillow I had b
 [tb_start_text mode=3 ]
 ...Nostalgic.[l][r]
 
-[r] Yeah. This is "nostalgia", Yu.[l][r]
+[r] Yeah. This is "nostalgia", Yuu.[l][r]
 
 [r] I want to return to that city...[l][r]
 

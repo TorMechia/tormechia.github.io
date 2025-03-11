@@ -9,7 +9,7 @@
 [bg time="2000" method="crossfade" storage="bigwall.jpg"]
 [tb_show_message_window]
 [tb_start_text mode=3]
-... When Yu finished speaking, she looked at me directly, looking both a bit embarrassed and quite happy.[l][r]
+... When Yuu finished speaking, she looked at me directly, looking both a bit embarrassed and quite happy.[l][r]
 [r]I see... It turned out to be nothing special. The water that drained out was simply going to a purification facility, and only the equipment that needed purified water used it.[l][r]
 [_tb_end_text]
 
@@ -19,15 +19,15 @@
 "Really?! Are you serious?"[r]
 "Good thing it was a variant of sweet potatoes."[l][r]
 "...???"
-Yu looked completely puzzled, but an explanation seemed unnecessary.[l][r]
+Yuu looked completely puzzled, but an explanation seemed unnecessary.[l][r]
 [_tb_end_text]
 
 [cm]
 [tb_start_text mode=3]
 "I get it. So you were just making a base there and living by finding useful tools and my body parts, right?"[l][r]
 "Exactly. It was really tough, you know."[r]
-Despite saying that, Yu's face looked healthy, and she gave a rather exaggeratedly tired expression.[l][r]
-"How did you get here?" I asked, gesturing lightly around the vehicle Yu was sitting on.[l][r]
+Despite saying that, Yuu's face looked healthy, and she gave a rather exaggeratedly tired expression.[l][r]
+"How did you get here?" I asked, gesturing lightly around the vehicle Yuu was sitting on.[l][r]
 "It's a pretty easy walk from the facility. Sometimes I come here to pick up tools and parts."[l][r]
 So it was by chance we met again. The timing of the warm season is just too perfect. But now we can form some kind of plan.[l][r]
 [_tb_end_text]
@@ -35,19 +35,19 @@ So it was by chance we met again. The timing of the warm season is just too perf
 [cm]
 [bg time="1000" method="crossfade" storage="sinen.png"]
 [tb_start_text mode=3]
-Yu kept on talking. She mentioned that she found the discarded gun a while back, and that because the pipe she crawled through on the way back was too narrow to carry it, she had to leave it here...[r]
+Yuu kept on talking. She mentioned that she found the discarded gun a while back, and that because the pipe she crawled through on the way back was too narrow to carry it, she had to leave it here...[r]
 I cut her off.[l][r]
-[r]"Yu. Listen carefully. You don't need to search for my body anymore."[r]
+[r]"Yuu. Listen carefully. You don't need to search for my body anymore."[r]
 "Why not?"[l][r]
 "It's probably not here anymore. Even if it were, it’d be dead by now anyway."[l][r]
 "Well, if you're okay with it... Just don't come back as a ghost, okay?"[l][r]
 "You said you weren't afraid of ghosts, remember?"[l][r]
-"Did I?" Yu laughed. With the familiar face, I also laughed.[l][r]
+"Did I?" Yuu laughed. With the familiar face, I also laughed.[l][r]
 [_tb_end_text]
 
 [cm]
 [tb_start_text mode=3]
-"I'm really glad I got to see you," Yu said.[l][r]
+"I'm really glad I got to see you," Yuu said.[l][r]
 "I am too," I told her sincerely.[l][r]
 [_tb_end_text]
 
@@ -70,11 +70,11 @@ In front of my eyes, just beyond my reach, a light grey 'mist' hovered.[l][r]
 
 [bg time="1000" method="crossfade" storage="moya120.jpg"]
 [tb_start_text mode=3]
-Why? Why the hell?! You were just a wish, born from my desire to see Yu again.[l][r]
-Yu is here! I'm with her!
+Why? Why the hell?! You were just a wish, born from my desire to see Yuu again.[l][r]
+Yuu is here! I'm with her!
 [r]"What more... do you want?!"[r]
 I shouted.[l][r]
-Yu looked at me suspiciously, "What's wrong?" she asked.
+Yuu looked at me suspiciously, "What's wrong?" she asked.
 She couldn't see it. Then, as I suspected, it must be...
 [_tb_end_text]
 
@@ -103,7 +103,7 @@ A young girl covered in rags said.[l][r]
 [playse volume="100" time="1000" buf="0" storage="fear2.ogg"]
 [bg time="1000" method="crossfade" storage="zetu2.jpg"]
 [tb_start_text mode=3]
-...You only need to tell Yu one little thing.[r]
+...You only need to tell Yuu one little thing.[r]
 The version of me from the beginning of our journey continued.[l][r]
 [_tb_end_text]
 
@@ -140,7 +140,7 @@ It felt like my heart was tearing apart.[l][r]
 
 [cm]
 [tb_start_text mode=3]
-...You want to touch her, right? You love Yu, don’t you?[l][r]
+...You want to touch her, right? You love Yuu, don’t you?[l][r]
 Hold her, sleep together, wake up together...
 Always, always be together.[l][r]
 You can make it happen. With just one word![l][r]
@@ -161,7 +161,7 @@ You're not right![l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3]
-[r]...Wasn't it your decision that left Yu alone and suffering, exactly because of your mistakes?![l][r]
+[r]...Wasn't it your decision that left Yuu alone and suffering, exactly because of your mistakes?![l][r]
 [r]No! You're right... but no![l][r]
 [_tb_end_text]
 
