@@ -46,7 +46,7 @@ However, it wasn't dark yet. As I walked further into the room and opened the cu
 The room was in complete disarray.[l][r]
 
 It was hard to believe this was Chito's usually immaculate space, and I wished it wasn't true.[l][r]
-But I knew I wasn't mistaken. Both the address and room number matched what Yuri had told me. Chito's clothes and bags were scattered around the room.[l][r]
+But I knew I wasn't mistaken. Both the address and room number matched what Yuurii had told me. Chito's clothes and bags were scattered around the room.[l][r]
 On the desk in the corner, textbooks and notebooks presumably from university had her name written on them. Minase Chito. There's no doubt.[l][r]
 [_tb_end_text]
 
@@ -62,7 +62,7 @@ My phone vibrated in my pocket.[l][r]
 "…Kanazawa, how did it go?"[l][r]
 "No solid evidence yet, but it seems we were too late. I'm sorry…!"[l][r]
 "No, it's fine. Did you inform their parents?"[l][r]
-"I did. Yuri's parents are coming to Japan as soon as they can, but Chito's…"[l][r]
+"I did. Yuuri's parents are coming to Japan as soon as they can, but Chito's…"[l][r]
 "I heard they became estranged when she went to college. If they're still holding grudges even after their daughter disappeared, forget about them." [l][r]
 [_tb_end_text]
 
@@ -89,7 +89,7 @@ They were hastily written words, possibly with lip balm or something similar. Wh
 [tb_start_text mode=3 ]
 'Sorry if we caused any trouble. But, thank you.'[l][r]
 
-"No, you did well, Yuri. Nicely done."[l][r]
+"No, you did well, Yuuri. Nicely done."[l][r]
 Beyond the letters, I saw my own lips curling up in a slight smile.[l][r]
 [_tb_end_text]
 

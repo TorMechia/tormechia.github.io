@@ -6,7 +6,7 @@
 [tb_start_text mode=3 ]
 『Do you have any idea...? Of course you don't, right? You could never think of anything.』[l][r]
 In a clear voice, 'it' said that.[l][r]
-[r]『Instead, why don't you remember? How lonely you were in that other world. Why don't you empathize? With Yuri's loneliness?』[r]
+[r]『Instead, why don't you remember? How lonely you were in that other world. Why don't you empathize? With Yuuri's loneliness?』[r]
 The figure that looked like me stepped closer.[l][r]
 [_tb_end_text]
 
@@ -17,7 +17,7 @@ Seeing discarded food in the alleys, friends who only drink flavored beverages, 
 
 [r]'It' continued with a challenging yet somewhat gentle smile.[l][r]
 『And you had warm meals every day, a clean hot bath every day, and could dry your body with a soft towel.[r]
-Didn't you feel sorry for Yuri?』[l][r]
+Didn't you feel sorry for Yuuri?』[l][r]
 
 [cm]Stop it! Yes, I thought that. That's why I've been trying so hard! All this time![l][r]
 I've lived in regret, trying to bring Yuu to this modern world![l][r]
@@ -68,9 +68,9 @@ Who!?[l][r]
 [cm  ]
 [bg  time="1500"  method="crossfade"  storage="zetu6C.jpg"  ]
 [tb_start_text mode=3 ]
-『...Someone you trust the most. Someone you love—Yuri』[l][r]
+『...Someone you trust the most. Someone you love—Yuuri』[l][r]
 Ask... Yuu?[l][r]
-[r]『If it's someone who felt the same, Yuri will surely answer. Gentle Yuri.[r]
+[r]『If it's someone who felt the same, Yuuri will surely answer. Gentle Yuuri.[r]
 Your own, my own... Yuu』[l][r]
 [_tb_end_text]
 

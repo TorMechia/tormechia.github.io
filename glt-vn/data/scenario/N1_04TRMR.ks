@@ -51,7 +51,7 @@ If it were me, I'd be scared out of my wits. Especially without Yuu around... it
 “Yuu...!”[r]
 I put on the helmet and start running up the stairs.[l][r]
 
-[r]I find another piece of Yuri. It's a fish encyclopedia. I hold it and keep climbing.[l][r]
+[r]I find another piece of Yuuri. It's a fish encyclopedia. I hold it and keep climbing.[l][r]
 [r]Next, the last ‘Biu’. I hold it in my hands and run upward.[l][r]
 [r]A new fragment appears. This is... Yuu's backpack. It's empty. I stuff everything I was carrying into it.[l][r]
 [_tb_end_text]

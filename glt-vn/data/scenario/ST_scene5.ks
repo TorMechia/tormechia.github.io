@@ -66,7 +66,7 @@ Isn’t it wonderful how that works?[l][r]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I'm Yuri. She’s Chito. Together we were...[l] What was it again? Oh well, it doesn’t matter.[l][r]
+I'm Yuuri. She’s Chito. Together we were...[l] What was it again? Oh well, it doesn’t matter.[l][r]
 [r]So, let’s eat, drink, and then go search for useful things again.[l][r]
 [_tb_end_text]
 

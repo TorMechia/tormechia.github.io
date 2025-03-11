@@ -28,7 +28,7 @@ I showed Yuu my phone, which indicated that class started at 10:30 a.m. It was c
 "Look, class starts in 20 minutes! It's not in the afternoon. Hurry up."[l][r]
 "It’s you who needs to hurry."[l][r]
 
-[r]Furrowing her brows, Yuu squinted at the phone screen, reading "Yuri, Russian class." [l][r]
+[r]Furrowing her brows, Yuu squinted at the phone screen, reading "Yuuri, Russian class." [l][r]
 [_tb_end_text]
 
 [cm  ]

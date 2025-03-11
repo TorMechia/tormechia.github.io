@@ -38,7 +38,7 @@ I said, shining the flashlight towards them.[l][r]
 
 [cm  ]
 [tb_start_text mode=3 ]
-I saw Chito's face, looking anxious or perhaps desperate, and Yuri's expression, lifeless and mechanical as she tightly gripped Chito's hand.[l][r]
+I saw Chito's face, looking anxious or perhaps desperate, and Yuuri's expression, lifeless and mechanical as she tightly gripped Chito's hand.[l][r]
 
 [r]I felt a pang of regret for some reason.[r]
 Had I seen something I shouldn't have?[l][r]
@@ -48,11 +48,11 @@ But it was only a fleeting thought.[l][r]
 
 [cm  ]
 [tb_start_text mode=3 ]
-"Everything will be okay," Yuri said.[l][r]
+"Everything will be okay," Yuuri said.[l][r]
 It was probably meant for Chito rather than me. Most likely.[l][r]
-[r]Yuri smiled at Chito.[r]
+[r]Yuuri smiled at Chito.[r]
 It looked like she gripped Chito's hand even tighter.[l][r]
-Chito, out of character, stared back at Yuri.[r]
+Chito, out of character, stared back at Yuuri.[r]
 Her expression softened ever so slightly.[l][r]
 
 [r]...It feels so helpless.[l][r]
@@ -94,7 +94,7 @@ Though it didn't even look old like back then, this was their Kettenkrad.[l][r]
 [tb_start_text mode=3 ]
 "I didn't know when it got here or who owns it now. But the email had a photo of this vehicle attached, and I knew it was the one."[l][r]
 
-[r]I watched their backs. Sooner or later, Chito would touch the vehicle. Yuri too. I had braced myself for that before even getting a response.[l][r]
+[r]I watched their backs. Sooner or later, Chito would touch the vehicle. Yuuri too. I had braced myself for that before even getting a response.[l][r]
 [r]What if, by some chance, touching this vehicle triggered something like before? I had simulated the scenarios in my head countless times, phone in hand ready to call for help.[l][r]
 
 [r]But then,[l][r]
@@ -105,11 +105,11 @@ Though it didn't even look old like back then, this was their Kettenkrad.[l][r]
 [tb_start_text mode=3 ]
 Chito took a step towards the driver's seat[r]
 and reached out to touch the steering wheel.[l][r]
-Yuri moved towards the cargo bed. She gently touched it, like petting a puppy.[l][r]
+Yuuri moved towards the cargo bed. She gently touched it, like petting a puppy.[l][r]
 
 [r]"Feels nostalgic."[l][r]
 "...Yeah."[l][r]
-Yuri asked, and Chito responded.[l][r]
+Yuuri asked, and Chito responded.[l][r]
 
 [r]Nothing happened. Not a single thing.[l][r]
 [_tb_end_text]
@@ -130,7 +130,7 @@ Suddenly, my hand shook. It was the device I was holding. The screen indicated a
 
 [r]"Sorry, I need to take this call from the hospital. I'll just step out for a moment."[l][r]
 "Okay, go ahead."[l][r]
-Yuri turned and smiled.[r]
+Yuuri turned and smiled.[r]
 Chito too, with a slightly apologetic look, softly murmured "Okay."[l][r]
 
 [r]I rushed outside. I had a bad feeling. That's why I hurried.[l][r]
