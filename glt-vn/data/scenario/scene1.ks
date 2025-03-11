@@ -7,8 +7,8 @@
 ;	<--START TEMP WARNING-->
 [playbgm  volume="0"  time="0"  loop="false"  storage="m0_claves.ogg"  ]
 >>NOTICE<<[r]
-The following is an UNOFFICAL and very much INCOMPLETE translation.[r]
-Expect a full release s̶o̶o̶n̶ eventually.[l]
+The following is an unofficial and very much incomplete translation.[r]
+Expect a full release eventually.[l]
 [_tb_end_text]
 [cm  ]
 ;	<--END TEMP WARNING-->
