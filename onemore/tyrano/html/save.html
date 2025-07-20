@@ -1,5 +1,4 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=Shift_JIS"></head><body><div>
+<div>
 	<div class="menu_item" style="float:right;"><img class="menu_close" src="save_files/menu_button_close.png" style="width: 90px;"></div>
 	
 	<div style="clear:both"></div>
@@ -13,9 +12,10 @@
 			{{for array_save}}
 				<li class="save_display_area save_list_item" data-num="{{:num}}">
 					<span class="save_list_item_thumb">
-					{{if img_data != ""}}
-						<img style="width:100px" src="save_files/%7B%7B_img_data%7D%7D.htm">
-					{{/if}}
+					<!-- The following is commented out as a dirty fix -->
+					<!-- {{if img_data != ""}}
+						<img style="width:100px" src="save_files/{{:img_data}}.htm">
+					{{/if}} -->
 					</span>
 					
 					<span class="save_list_item_area">
@@ -52,4 +52,4 @@
 	</style>
 	
 
-<script>	setTimeout(function(){		var save_list_height = parseInt($(".tyrano_base").outerHeight()) ;		$(".area_save_list").css("height",save_list_height);	},60);</script></div></body></html>
+<script>	setTimeout(function(){		var save_list_height = parseInt($(".tyrano_base").outerHeight()) ;		$(".area_save_list").css("height",save_list_height);	},60);</script></div>
