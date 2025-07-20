@@ -2,15 +2,15 @@ window.tyrano_lang = {
 
     word : {
         
-        "go_title":"タイトルに戻ります。よろしいですね？",
-        "exit_game":"ウィンドウを閉じて終了します。よろしいですね？",
-        "not_saved":"まだ、保存されているデータがありません",
-        "tag":"タグ",
-        "not_exists":"は存在しません",
-        "error":"エラーが発生しました。スクリプトを確認して下さい",
-        "label":"ラベル",
+        "go_title":"Are you sure you'd like to return to the title screen?",
+        "exit_game":"Are you sure you'd like to close the window and quit?",
+        "not_saved":"No data saved yet.",
+        "tag":"タグ", // "tag"
+        "not_exists": "Does not exist", //"は存在しません"
+        "error":"An error has occurred. This is probably an issue with the translation! Contact TorMechia!",
+        "label":"ラベル", // "label"
         "label_double":"は同一シナリオファイル内に重複しています",
-        "error_occurred":"エラーが発生しました"
+        "error_occurred":"An error has occurred. This is probably an issue with the translation! Contact TorMechia!"
     },
 
     novel : {
