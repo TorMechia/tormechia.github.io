@@ -21,12 +21,11 @@ These memories also feel real, and my parents and grandparents are alive and wel
 
 [cm  ]
 [tb_start_text mode=3 ]
-So, I'll ask myself this question.[r]
-Which set of memories is more real?[l][r]
-The answer is, "Both are real." It might sound contradictory, but it is.[r]
-As I kept questioning myself like this, I figured it didn't matter anymore.[r]
-There are, after all, unsolvable problems like the Last Thursdayism hypothesis.[l][r]
-Even though I might have come to terms with it, certain doubts or sentimental feelings just wouldn't leave me.[l][r]
+So, I ask myself: which set of memories is more real?[l][r]
+The answer is, "Both are real." It might sound contradictory, but it must be true.[r]
+As I kept questioning myself like this, I eventually figured it didn't matter.[r]
+There are, after all, always unsolvable problems like Last Thursdayism.[l][r]
+Even though I have come to terms with it, certain doubts or sentimental feelings just wouldn't leave me.[l][r]
 [_tb_end_text]
 
 [cm  ]
