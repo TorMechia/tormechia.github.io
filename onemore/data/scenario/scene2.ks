@@ -216,8 +216,8 @@ I let out a small cry of surprise.[r]
 [_tb_end_tyrano_code]
 
 [tb_eval  exp="sf.CS0=1"  name="CS0"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
-[glink  color="black"  storage="scene2.ks"  size="20"  text="「What happened to Yuuri?」"  target="*tazuneru"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="scene2.ks"  size="20"  text="I hope Chito doesn't hear this..."  target="*simatta"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene2.ks"  size="20"  text="\"What happened to Yuuri?\""  target="*tazuneru"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="scene2.ks"  size="20"  text="I shouldn't ask directly."  target="*simatta"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage="scene2.ks"  target="*CS1Stop"  cond="sf.CS1!=1"  ]
 [glink  color="black"  storage=""  size="20"  text="Skip to next choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS1Stop
