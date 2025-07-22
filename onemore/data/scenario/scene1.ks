@@ -61,7 +61,7 @@ Turning off the alarm, I got out of bedand put on my glasses.[l][r]
 It felt like I'd been dreaming for an incredibly long time. It was a dreadful dream.[l][r]
 [r]A dream...? Was all that just a dream?[r]
 The cold, the hunger, the thirst?[l][r]
-Those strong, courageous girls, just a dream?![l][r] ; Those wise and brave girls, just a dream
+Those strong, courageous girls, just a dream?![l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
