@@ -12,7 +12,7 @@ Today, I think I'll rely on Chii-chan a bit.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3]
-[r]Maybe I'll play a  little prank on Chii-chan today.[l][r]
+[r]Maybe I'll play a little prank on Chii-chan today.[l][r]
 [r]Or perhaps I should avoid troubling Chii-chan today.[l][r]
 [r]Maybe I should just go back to my room and stay away from Chii-chan until tomorrow.[l][r]
 [_tb_end_text]
