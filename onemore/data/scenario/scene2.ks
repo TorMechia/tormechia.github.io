@@ -68,7 +68,7 @@ Fw: Inquiry Email to General Affairs[r]
 (ID:XXXXXX999)[l][r]
 I apologize for the sudden nature of this message.[r]
 I am a student from Tokyo and I'm looking for someone who has helped me in the past.[l][r]
-Is there a woman named Ishii, working in a technical position or perhaps affiliated with your company in any kind of way?[r]
+Is there a woman named Ishii working at your company, possibly in a technical position? If not, is she affiliated with it in any kind of way?[r]
 If there is, and she remembers my name, could you please have her reply to me?[l][r]
 [_tb_end_text]
 
