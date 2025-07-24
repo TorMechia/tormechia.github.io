@@ -21,13 +21,13 @@ I couldn't even lift a finger.[l][r]
 [bg  time="2000"  method="crossfade"  storage="isilast.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-We ran out of food, couldn't find any water, and had no fuel or heat to melt the snow.[l][r]
+We ran out of food, couldn't find any water, and had no kind of heat to melt the snow.[l][r]
 
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-Unable to walk, unable to move, unable even to think.[l][r]
-[r]More than anything, I longed for a drop of water.[r]
+I was unable to walk, unable to move... unable to think.[l][r]
+[r]But right now, in this moment... all I longed for was a drop of water.[r]
 Snowflakes fell from somewhere, landing on my hand. They stayed there without melting.[l][r]
 [_tb_end_text]
 
