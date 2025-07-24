@@ -8,8 +8,13 @@
 [playbgm  volume="0"  time="0"  loop="false"  storage="m0_claves.ogg"  ]
 >>NOTICE<<[r]
 The following is an unofficial and very much incomplete translation.[r]
-Expect a full release eventually.[l]
-[_tb_end_text]
+Expect a full release eventually.[l][r]
+
+This is a (temporary) archive of the state of the translation before the major proofreading effort begins/began.[r]
+This includes the fixes up to that point, and is intended for use in referencing the orgininal machine translation.[r]
+Will likely be deleted in the future.[r]
+See /onemore/ for the CURRENT translation.[l][r]
+[_tb_end_text] 
 [cm  ]
 ;	<--END TEMP WARNING-->
 [playbgm  volume="100"  time="1000"  loop="false"  storage="m0_claves.ogg"  ]
