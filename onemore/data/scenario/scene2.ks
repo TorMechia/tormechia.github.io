@@ -195,22 +195,25 @@ Chito interrupted me, her voice so unsteady it was almost as if she'd burst into
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 I took a deep breath and looked up at the gray sky.[r]
-Clouds hung
-It looked like it might start crying any moment now.[l][r]
-From the other end of the line, I could hear the sound of a girl sobbing.[r]
-As I started to regain my composure little by little, I began to worry about Chito.[l][r]
+Clouds hung high in the air; almost seeming as if they were suspended in the heavy atmosphere.[r]
+Drifting, floating, shifting aimlessly across the endless horizon...[r]
+It looked like the sky itself could start crying any moment now.[l][r]
+From the other end of the line, I could hear her sobbing.[r]
+As I started to slowly regain my composure, I began to worry about Chito.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-It's Friday morning now. She said she's a student.[r]
-So, is she at school? High school? Or college?[l][r]
-Why is Chito crying so much?[r]
-If it were just a tearful reunion, I might understand, but something seems off. It should be...[l][r]
+It's Friday morning right now. Chitp mentioned that she's a student.[r]
+So, is she at school? High school? Maybe college?[l][r]
+... Why is she crying so much?[r]
+I'd get it if these sounded like happy tears; like the crying one would hear at a reunion with a long lost friend, but... it wasn't that way.[r]
+; I have ABSOLUTELY NO idea what the original line means. This *is* an emotional reunion, so why is Ishii confused? I interpreted it to the best of my ability.
+Something seemed off. It should be...[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-"...Ah"[l][r]
+"... Ah."[l][r]
 [_tb_end_text]
 
 *Jump2
