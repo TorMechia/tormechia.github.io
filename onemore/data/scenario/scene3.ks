@@ -176,7 +176,6 @@ I think everyone who dies in that world... gets sent here. That's what I think."
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
-; “ &nbsp; ”
 [glink color="black" storage="scene3.ks" size="20" text="“...I&nbsp;think&nbsp;it's&nbsp;possible...”" target="*yes" x="24" y="400" width="" height="" _clickable_img=""]
 [glink color="black" storage="scene3.ks" size="20" text="“No,&nbsp;that's&nbsp;impossible...”" target="*no" x="24" y="450" width="" height="" _clickable_img=""]
 [jump storage="scene3.ks" target="*CS2Stop" cond="sf.CS2!=1"]
