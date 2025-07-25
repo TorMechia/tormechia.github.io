@@ -134,7 +134,7 @@ Chito broke the silence first. [r]
 [tb_start_text mode=3]
 What is she talking about...? [r]
 I looked into her eyes, trying to deduce something from it... but that didn't give me much to go off. [l][r]
-"But in that other world, I had no such memories. I don't remember ever seeing a single corpse. [r]
+"But in that other world, I had no such memory. I don't remember ever seeing a single corpse. [r]
 Ishii, do you?" [r]
 Chito stopped there and stared straight into my eyes. [l][r]
 "... No. Now that you mention it, I certainly don't. I thought there was something odd in that world's logic comparing with the norms and rules of this one..." [l][r]
@@ -160,7 +160,7 @@ Yeah, those eyes I recognized, alright. The eyes of a girl who once dared to cha
 
 [cm]
 [tb_start_text mode=3]
-"I have a hypothesis. [r]
+"I have a theory. [r]
 I think everyone who dies in that world... gets sent here. That's what I think." Chito proposed. [l][r]
 [_tb_end_text]
 
@@ -170,15 +170,15 @@ I think everyone who dies in that world... gets sent here. That's what I think."
 [bg time="0" method="crossfade" storage="isiChitE.jpg"]
 [tb_start_text mode=3]
 "… That's…" [r]
-"Is it too reckless of a theory?" [r]
+"Is it too reckless of a idea?" [r]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [cancelskip]
 [_tb_end_tyrano_code]
-
-[glink color="black" storage="scene3.ks" size="20" text=" ...I think it might be..." target="*yes" x="24" y="400" width="" height="" _clickable_img=""]
-[glink color="black" storage="scene3.ks" size="20" text="Impossible..." target="*no" x="24" y="450" width="" height="" _clickable_img=""]
+; “ &nbsp; ”
+[glink color="black" storage="scene3.ks" size="20" text="“...I&nbsp;think&nbsp;it's&nbsp;possible...”" target="*yes" x="24" y="400" width="" height="" _clickable_img=""]
+[glink color="black" storage="scene3.ks" size="20" text="“No,&nbsp;that's&nbsp;impossible...”" target="*no" x="24" y="450" width="" height="" _clickable_img=""]
 [jump storage="scene3.ks" target="*CS2Stop" cond="sf.CS2!=1"]
 [glink color="black" storage="" size="20" text="Skip to next choice" target="*ToJump" x="24" y="500" width="" height="" _clickable_img=""]
 *CS2Stop
@@ -189,22 +189,22 @@ I think everyone who dies in that world... gets sent here. That's what I think."
 [tb_eval exp="sf.CS2=1" name="CS2" cmd="=" op="t" val="1" val_2="undefined"]
 [tb_eval exp="f.CP+=1" name="CP" cmd="+=" op="t" val="1" val_2="undefined"]
 [tb_start_text mode=3]
-" ...I think it might be... " [l][r]
+"... I think it's possible... " [l][r]
 [_tb_end_text]
 
 *ret
 
 [tb_start_text mode=3]
-"At least, I am here and so are you. [l][r]
-I don't know about my grandfather, but I actually got in touch with Kanazawa yesterday too. There’s some basis to believe that those who died there are now here. So..." [l][r]
-Chi said this, and then dropped her gaze to her clasped hands again, saying with a slightly trembling voice. [l][r]
+"You and I are here, at least. [l][r]
+I don't know about my grandfather, but I actually got in touch with Kanazawa yesterday, too. That's some grounds to believe that those who died there are now here. So..." [l][r]
+Chito spoke before her eyes dropped back to her clenched hands, a tremble now present in her voice.[l][r]
 [_tb_end_text]
 
 [cm]
 [bg time="1000" method="crossfade" storage="snow.jpg"]
 [tb_start_text mode=3]
-Maybe Yuu is... still [r]
-over 'there'." [l][r]
+"Maybe Yuu is... still... [r]
+... 'there'." [l][r]
 [_tb_end_text]
 
 [tb_hide_message_window]
@@ -215,17 +215,18 @@ over 'there'." [l][r]
 
 [cm]
 [tb_start_text mode=3]
-"No matter what, that’s too much of a stretch. Impossible." [l][r]
-"…You think so?" [r]
-"Yeah. Besides, what is being 'sent'? The whole body? Just the spirit? [l]...No, if the body disappears it must be the former, right?" [l][r]
-"Yeah, I think it's the former. ...But the body is probably reconstructed here, as if it had been living in this world since birth up to the age they died." [l][r]
+"No. Whatever it was that got us here, <i>this</i> is too much of a stretch. It's impossible." [l][r]
+"… You think so?" [r]
+"Yeah. Besides, what's being transferred? The whole body? Or just the spirit? [l]
+... If the body disappears, then it must be the latter, right?" [l][r]
+"Yeah, I think it's the latter... But the body is probably remade up to their age at death, with the time filled in." [l][r]
 "That's such an outrageous theory..." [r]
-"It's not as bad as the Five-Minute Hypothesis." [r]
-"...Come on..." [l][r]
+"It's not as bad as Last Thursdayism." [r]
+"... Oh, come on..." [l][r]
 
-Chi is essentially saying that people in this world, at least some of them, are reincarnated from that city, with their bodies and spirits along with their social relationships constructed as if they had existed from birth here, like a world born five minutes ago. [l][r]
+Essentially, she's saying that some people here are reincarnations of the people from that city, their bodies and minds remade as if they were here since birth... as if it was all made last thursday.[l][r]
 
-"Of course, I don’t think we’ll ever find out the real truth, nor will we ever be able to. But..." Chi said. [l][r]
+"Of course, I don’t think we’ll ever find out the truth, nor will we ever be able to. But..." Chito trailed off. [l][r]
 [_tb_end_text]
 
 [cm]
