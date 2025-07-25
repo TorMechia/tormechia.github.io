@@ -5,19 +5,21 @@
 [bg  time="2000"  method="crossfade"  storage="isiroom_2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-"What do you think?"[r]
+"So, what do you think?"[r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 "Hmm, hard to say..."[l][r]
-The young man who introduced himself as Akira Kanazawa gave a vague response over the phone.[l][r]
+A young man who introduced himself as Akira Kanazawa gave a vague response over the phone.[l][r]
 [_tb_end_text]
 
 [cm  ]
 [tb_start_text mode=3 ]
-The conversation with Chito didn't amount to much. Both of us were left confused and unable to discuss anything substantial. But we did confirm one crucial fact: the thing we feared most.[l][r]
+The conversation with Chito didn't amount to much. Both of us were left confused and unable to discuss anything substantial; however, we did confirm one crucial fact... the thing we feared most.[l][r]
 "Can you imagine Yuuri not being by Chito's side?"[l][r]
+"Hard to say... 
 "It's hard. Although I've only heard Chito's voice, she seemed unusually subdued."[r]
+; ???????????? What?????????? None of the translations make ANY kind of sense! Fuck!!!!
 "Yeah, that's what I thought."[l][r]
 [_tb_end_text]
 
