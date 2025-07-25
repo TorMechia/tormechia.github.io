@@ -27,7 +27,7 @@ I've run out of food, couldn't find any water, and have no heat to melt the snow
 [tb_start_text mode=3 ]
 I was unable to walk, unable to move... unable to even think.[l][r]
 [r]But right now, in this moment... all I longed for was a drop of water.[r]
-Snowflakes steadily fell from the sky, landing on my skin; They stayed there without melting.[l][r]
+Snowflakes steadily fell from the sky, landing on my skin; they stayed there without melting.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
