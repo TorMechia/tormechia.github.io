@@ -231,7 +231,7 @@ I let out a small cry of surprise.[r]
 [glink  color="black"  storage="scene2.ks"  size="20"  text="“What&nbsp;happened&nbsp;to&nbsp;Yuuri?”"  target="*tazuneru"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
 [glink  color="black"  storage="scene2.ks"  size="20"  text="I&nbsp;shouldn't&nbsp;ask&nbsp;directly."  target="*simatta"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage="scene2.ks"  target="*CS1Stop"  cond="sf.CS1!=1"  ]
-[glink  color="black"  storage=""  size="20"  text="Skip to next choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage=""  size="20"  text="Skip&nbsp;to&nbsp;next&nbsp;choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS1Stop
 
 [s  ]
