@@ -98,7 +98,7 @@ I show her the flyer as I speak.[r][l]
 
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-The flyer read, "It's a World War II vehicle exhibition! Both replicas and restored models will be on display; from Sherman tanks to R75 bikes and Kettenkrads." [l][r]
+The flyer read, "Congratulations! You've been invited to a World War II vehicle exhibition! Both replicas and restored models will be on display; from Sherman tanks to R75 bikes and Kettenkrads." [l][r]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
