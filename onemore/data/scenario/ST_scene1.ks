@@ -9,7 +9,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 I'm happy.[l][r]
-My parents are a little strict but they're kind; school is a bit boring but comfortable enough.[l][r]
+My parents are a little strict, but they're kind; school is a bit boring, but comfortable enough.[l][r]
 I think that being a library committee member suits me, and talking to my book-loving friends is fun.[l][r]
 [_tb_end_text]
 
@@ -18,8 +18,8 @@ I think that being a library committee member suits me, and talking to my book-l
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-[r]How is it that I'm so happy, so privileged, and yet... I feel so...[l][r]
-...lonely?[l][r]
+[r]How is it that I'm so happy, so privileged, and yet I feel so...[l][r]
+... lonely?[l][r]
 [_tb_end_text]
 
 [cm  ]
