@@ -56,7 +56,7 @@ It's a shot in the dark, but it's better than doing nothing, I guess...[l][r]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="mobile-phone-pickup1.ogg"  ]
 [tb_start_text mode=3 ]
-[r]After hanging up, I let out a sigh and lightly stretch. I crack a smile; another completed task... but then, all the work up ahead daunts on me.[l][r]
+[r]After hanging up, I let out a sigh and lightly stretch. I crack a smile; another completed task... but then, all the upcoming work daunts on me.[l][r]
 Eh. It won't be that bad.[r][l][r]
 [_tb_end_text]
 
