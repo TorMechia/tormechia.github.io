@@ -24,7 +24,7 @@ I roll up a barrel from another room and let the water that runs from the pipe f
 I wonder how long this one will last?.[r]
 <i>Well, it's good enough for now.,</i>I think as I wipe some sweat from my forehead.[l] We'll use the water from the pipes until it runs out, then switch to the barrels. When that runs out, we’ll just find more.[l][r]
 [_tb_end_text]
-
+ 
 [cm  ]
 [tb_start_text mode=3 ]
 Alright, now for some food.[r]
