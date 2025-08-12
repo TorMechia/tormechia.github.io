@@ -69,8 +69,8 @@ It reminds me of the time when the three of us were recklessly building that air
 [cancelskip]
 [_tb_end_tyrano_code]
 
-[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="“Scold&nbsp;Chito”"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="“Don't&nbsp;scold&nbsp;Chito”"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="Scold&nbsp;Chito"  target="*no"  x="24"  y="400"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="ST_scene4.ks"  size="20"  text="Don't&nbsp;scold&nbsp;Chito"  target="*yes"  x="24"  y="450"  width=""  height=""  _clickable_img=""  ]
 [jump  storage=""  target="*CS4Stop"  cond="sf.CS4!=1"  ]
 [glink  color="black"  storage=""  size="20"  text="Skip to the next choice"  target="*ToJump"  x="24"  y="500"  width=""  height=""  _clickable_img=""  ]
 *CS4Stop
