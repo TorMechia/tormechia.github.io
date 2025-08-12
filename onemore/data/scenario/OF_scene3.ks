@@ -8,7 +8,7 @@
 [tb_start_text mode=3 ]
 "... Hey, this is kinda fun."[r]
 "Stop playing around..."[l][r]
-[r]Yuu waves her hand around the inside of my head. It phases through, but what if that changes and hits me?[l][r]
+[r]Yuu waves her hand around the inside of my head. It phases through, but what if that changes and she hits me?[l][r]
 [_tb_end_text]
 
 [cm  ]
@@ -28,7 +28,7 @@ And then there's the fact that I can't move my legs... Maybe I'm not really here
 [tb_start_text mode=3 ]
 "... Hey, this is kinda fun."[r]
 "Stop playing around..."[l][r]
-[r]Yuu waves her hand around the inside of my head. It phases through, but what if that changes and hits me?[l][r]
+[r]Yuu waves her hand around the inside of my head. It phases through, but what if that changes and she hits me?[l][r]
 [_tb_end_text]
 
 [cm  ]
