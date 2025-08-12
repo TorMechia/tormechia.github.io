@@ -92,7 +92,7 @@ Chito Minase"[l][r]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 The email address was a free email account, with nothing remarkable about it. With a slight tremble, my hands darted around the keys to type out a reply.[r]
-I recognized that name. One of the girls from my memories was called the same, and the more I typed, the heavier my hands felt as I thought of what to say. Something only we would recognize... something that someone like me would remember vividly.[l][r]
+I recognized that name. One of the girls from my memories was called the same, and the more I typed, the heavier my hands felt as I thought of what to say. Something only we would recognize... something that I would remember vividly.[l][r]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="keytype.ogg"  ]
