@@ -271,7 +271,7 @@ An elusive, brazen girl who could come to terms with anything, even despair.[l][
 "Hey, Chito... What happened to Yuuri?"[r]
 I couldn't help but blurt it out, my curiosity getting the better of me.[l][r]
 "... Yuuri... Yuuri is..." Chito tried to answer, but couldn’t continue her sentence.[l][r]
-"Yuuri... she... Yuuri is still... Yuuri is... Ugh!"[l]
+"Yuuri... she... Yuuri is still... Yuuri is... Ugh!"[r]
 From the other end, I heard her voice straining... or rather, a harsh swallow, like she couldn't breathe.[l][r]
 [_tb_end_text]
 
