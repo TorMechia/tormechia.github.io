@@ -32,7 +32,7 @@ I said little, but still tried to be as friendly as possible as I talked to the 
 [_tb_end_text]
 
 [cm]
-[bg time="2000" method="crossfade" storage="cafe1.jpg"]
+[bg time="2000" method="crossfade" storage="cafffe1.jpg"]
 [tb_show_message_window]
 [tb_start_text mode=3]
 The table was now clear, devoid of empty dishes. Two cups of coffee were letting off steam. [l][r]
