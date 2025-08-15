@@ -9,16 +9,16 @@
 [bg time="2000" method="crossfade" storage="bigwall.jpg"]
 [tb_show_message_window]
 [tb_start_text mode=3]
-... When Yuu finished speaking, she looked at me directly, looking both a bit embarrassed and quite happy.[l][r]
-[r]I see... It turned out to be nothing special. The water that drained out was simply going to a purification facility, and only the equipment that needed purified water used it.[l][r]
+... When Yuu finished speaking, she peered directly at me, looking both a bit embarrassed and quite happy.[l][r]
+[r]I see... Nothing special. The dirty water was simply going to a purification facility, and the pure water was only used by the now defunct machinery.[l][r]
 [_tb_end_text]
 
 [tb_start_text mode=3]
-[r]"Did you know? You can actually eat potato vines!"[l][r]
-"Vines? ...Ah, you mean the tendrils of potatoes. Regular potatoes do have poison in them, though."[l][r]
-"Really?! Are you serious?"[r]
-"Good thing it was a variant of sweet potatoes."[l][r]
-"...???"
+[r]"Did you know that you can actually eat those potato ropes?"[l][r]
+"Ropes...? Oh. You mean their tendrils. Regular potatoes have poison in them, though."[l][r]
+"Really?! Really?!"[r]
+"Good thing they were sweet potatoes."[l][r]
+"... Huh???"
 Yuu looked completely puzzled, but an explanation seemed unnecessary.[l][r]
 [_tb_end_text]
 
