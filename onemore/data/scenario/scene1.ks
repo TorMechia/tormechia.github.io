@@ -8,8 +8,9 @@
 [playbgm  volume="0"  time="0"  loop="false"  storage="m0_claves.ogg"  ]
 >>NOTICE<<[r]
 The following is a very much incomplete and work-in-progress English translation that is not yet intended for general release. Please contact TorMechia or liminal.roses with any questions regarding the translation.[r]
-The End Again was created by the Weekend Brigade BKG. All rights relating to the work—including art, music, and text—belong to their respective artists.[r]
-The End Again is a derivative work unrelated to the publisher of "Girls' Last Tour" or the original author, Tsukumizu.[r]
+; The End Again was created by the Weekend Brigade BKG. All rights relating to the work—including art, music, and text—belong to their respective artists.[r]
+; The End Again is a derivative work unrelated to the publisher of "Girls' Last Tour" or the original author, Tsukumizu.[r]
+; Above commented lines are now included in intro!
 Expect a full release eventually.[l]
 [_tb_end_text]
 [cm  ]
